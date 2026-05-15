@@ -3,8 +3,26 @@
     "date": "2026-05-15",
     "articles": [
       {
+        "title": "How Chinese short dramas became AI content machines",
+        "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+        "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+        "source": "Wired",
+        "date": "2026-05-15"
+      },
+      {
         "title": "The Real Losers of the Musk v. Altman Trial",
         "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+        "source": "Wired",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "The US Is Using AI to Hunt Down Insider Trading on Polymarket",
+        "url": "https://www.wired.com/story/polymarket-insider-trading-cftc-michael-selig-interview/",
         "source": "Wired",
         "date": "2026-05-15"
       }
@@ -356,6 +374,12 @@
       {
         "title": "Tech Life",
         "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-05-12"
       },
