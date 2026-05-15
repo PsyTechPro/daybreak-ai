@@ -1,0 +1,620 @@
+[
+  {
+    "date": "2026-05-15",
+    "articles": [
+      {
+        "title": "The Real Losers of the Musk v. Altman Trial",
+        "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+        "source": "Wired",
+        "date": "2026-05-15"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "articles": [
+      {
+        "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+        "url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+        "source": "Ars Technica",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
+        "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
+        "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Employers are demanding AI skills. What's the best way to learn them?",
+        "url": "https://www.cbsnews.com/news/ai-hiring-courses-where-to-learn/",
+        "source": "CBS News",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Workers are getting paid to teach AI how to do their jobs",
+        "url": "https://www.cbsnews.com/news/artificial-intelligence-ai-trainer-job/",
+        "source": "CBS News",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Fox News AI Newsletter: Graduation speaker praises AI, gets instantly booed",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-graduation-speaker-praises-ai-gets-instantly-booed",
+        "source": "Fox News",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Data readiness for agentic AI in financial services",
+        "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+        "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "MIT researchers develop AI that can write its own training data",
+        "url": "https://www.technologyreview.com",
+        "source": "MIT Technology Review",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+        "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Congress holds first AI safety hearing of the year",
+        "url": "https://npr.org",
+        "source": "NPR",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "How Trump may be changing his stance on AI regulation",
+        "url": "https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation",
+        "source": "NPR",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Anthropic raises $2 billion as AI investment continues to surge",
+        "url": "https://reuters.com",
+        "source": "Reuters",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+        "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+        "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+        "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+        "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "OpenAI releases GPT-5 with major reasoning improvements",
+        "url": "https://techcrunch.com",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "OpenAI says Codex is coming to your phone",
+        "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "OpenAI says hackers stole some data after latest code security issue",
+        "url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Uber to open 2 campuses in India to support product development, operations",
+        "url": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "What happens when AI starts building itself?",
+        "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+        "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+        "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+        "source": "TechCrunch",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Behold, the Elon Musk jackass trophy",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+        "source": "The Verge",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Google DeepMind unveils new protein-folding AI that outperforms AlphaFold",
+        "url": "https://www.theverge.com",
+        "source": "The Verge",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Microsoft starts canceling Claude Code licenses",
+        "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+        "source": "The Verge",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+        "source": "The Verge",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Agent authorization is broken — and authentication passing makes it worse",
+        "url": "https://venturebeat.com/security/enterprises-verify-agents-identity-cannot-control-authorization-cisco-rsac-2026",
+        "source": "VentureBeat",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure",
+        "url": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure",
+        "source": "VentureBeat",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Claude Code's '/goals' separates the agent that works from the one that decides it's done",
+        "url": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done",
+        "source": "VentureBeat",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
+        "url": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
+        "source": "VentureBeat",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Enterprises can now train custom AI models from production workflows — no ML team required",
+        "url": "https://venturebeat.com/data/enterprises-can-now-train-custom-ai-models-from-production-workflows-no-ml-team-required",
+        "source": "VentureBeat",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
+        "url": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
+        "source": "Wired",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "HelloFresh Meal Kit Review (2026): Vast Options, Good Execution",
+        "url": "https://www.wired.com/review/hellofresh-meal-kit-2026/",
+        "source": "Wired",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Wired exclusive: inside the race to build artificial general intelligence",
+        "url": "https://www.wired.com",
+        "source": "Wired",
+        "date": "2026-05-14"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "articles": [
+      {
+        "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
+        "url": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+        "source": "Ars Technica",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "EU AI Act enforcement begins — what businesses need to know",
+        "url": "https://arstechnica.com",
+        "source": "Ars Technica",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "Microsoft Copilot gets real-time voice and vision on desktop",
+        "url": "https://bbc.com",
+        "source": "BBC",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+        "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "AI assistants now used in over 40% of U.S. hospitals, study finds",
+        "url": "https://cbsnews.com",
+        "source": "CBS News",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "AI is fabricating citations in biomedical studies, researchers find",
+        "url": "https://www.cbsnews.com/news/ai-hallucinate-citations-medial-research/",
+        "source": "CBS News",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "How artificial intelligence can be useful and solve problems",
+        "url": "https://www.cbsnews.com/video/positive-uses-of-artificial-intelligence-for-humanity/",
+        "source": "CBS News",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "OpenAI CEO Sam Altman pushes back against Elon Musk during testimony",
+        "url": "https://www.cbsnews.com/video/openai-ceo-sam-altman-pushes-back-against-elon-musk-during-testimony/",
+        "source": "CBS News",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "AI chatbots are giving out people’s real phone numbers",
+        "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "AI IQ is here: a new site scores frontier AI models on the human IQ scale. The results are already dividing tech.",
+        "url": "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech",
+        "source": "VentureBeat",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch",
+        "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
+        "source": "VentureBeat",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "Meta's Llama 4 model tops open-source benchmarks",
+        "url": "https://venturebeat.com",
+        "source": "VentureBeat",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "Meet the Sad Wives of AI",
+        "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+        "source": "Wired",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "OpenAI Brings Its Ass to Court",
+        "url": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
+        "source": "Wired",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "Overworked AI Agents Turn Marxist, Researchers Find",
+        "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+        "source": "Wired",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "Submit Your Questions: AI Is Changing Your Job—Now What?",
+        "url": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/",
+        "source": "Wired",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "What It Will Take to Make AI Sustainable",
+        "url": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+        "source": "Wired",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
+        "url": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
+        "source": "Wired",
+        "date": "2026-05-13"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-12",
+    "articles": [
+      {
+        "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
+        "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "Self-driving car startup Waymo expands to 12 new U.S. cities",
+        "url": "https://cnn.com",
+        "source": "CNN",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "AI robot changes your tires and balances them too",
+        "url": "https://www.foxnews.com/tech/ai-robot-changes-tires-balances",
+        "source": "Fox News",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+        "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "World Models: 10 Things That Matter in AI Right Now",
+        "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "OpenAI's Sam Altman takes the stand to fend off Elon Musk's accusations he 'stole a charity'",
+        "url": "https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial",
+        "source": "NPR",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "She spent a year using AI to do almost everything. Here's what she learned",
+        "url": "https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned",
+        "source": "NPR",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "Stability AI releases open-source image generation model for commercial use",
+        "url": "https://techcrunch.com",
+        "source": "TechCrunch",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "Perplexity AI hits 50 million daily active users",
+        "url": "https://venturebeat.com",
+        "source": "VentureBeat",
+        "date": "2026-05-12"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "articles": [
+      {
+        "title": "Several states considering ban on legal personhood for AI",
+        "url": "https://www.npr.org/2026/05/11/nx-s1-5798754/several-states-considering-ban-on-legal-personhood-for-ai",
+        "source": "NPR",
+        "date": "2026-05-11"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "articles": [
+      {
+        "title": "AI air traffic system promises fewer flight delays",
+        "url": "https://www.foxnews.com/tech/ai-air-traffic-system-promises-fewer-flight-delays",
+        "source": "Fox News",
+        "date": "2026-05-09"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "articles": [
+      {
+        "title": "Here's how AI can help with retirement planning, and where it struggles",
+        "url": "https://www.cbsnews.com/news/retirement-can-ai-help-you-retire-what-to-know/",
+        "source": "CBS News",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "Fox News AI Newsletter: How Disney fans will experience AI",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-disney-fans-experience-ai",
+        "source": "Fox News",
+        "date": "2026-05-08"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "articles": [
+      {
+        "title": "AI is as a top cause of layoffs, accounting for 26% of April's job cuts",
+        "url": "https://www.cbsnews.com/news/ai-layoffs-job-cuts-challenger-report-april-2026/",
+        "source": "CBS News",
+        "date": "2026-05-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "articles": [
+      {
+        "title": "New AI brain lets robots move like humans",
+        "url": "https://www.foxnews.com/tech/new-ai-brain-lets-robots-move-like-humans",
+        "source": "Fox News",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "How Silicon Valley's new tech right has profited by aligning with MAGA",
+        "url": "https://www.npr.org/2026/05/06/nx-s1-5813505/how-silicon-valleys-new-tech-right-has-profited-by-aligning-with-maga",
+        "source": "NPR",
+        "date": "2026-05-06"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-05",
+    "articles": [
+      {
+        "title": "Coinbase to lay off 700 workers as crypto company embraces AI",
+        "url": "https://www.cbsnews.com/news/coinbase-layoffs-ai-brian-armstrong/",
+        "source": "CBS News",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "More companies are pointing to AI as they lay off employees",
+        "url": "https://www.cbsnews.com/news/ai-layoffs-2026-artificial-intelligence-amazon-pinterest/",
+        "source": "CBS News",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "Pennsylvania suing Character AI, claims chatbot posed as medical professional",
+        "url": "https://www.cbsnews.com/news/pennsylvania-character-ai-lawsuit-chatbot-posed-as-medical-professional/",
+        "source": "CBS News",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
+        "url": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
+        "source": "NPR",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement",
+        "url": "https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit",
+        "source": "NPR",
+        "date": "2026-05-05"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "articles": [
+      {
+        "title": "China blocks Meta AI deal over security concerns",
+        "url": "https://www.foxnews.com/tech/china-blocks-meta-ai-deal-over-security-concerns",
+        "source": "Fox News",
+        "date": "2026-05-04"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-02",
+    "articles": [
+      {
+        "title": "Tech Now",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-02"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "articles": [
+      {
+        "title": "Buying a computer? AI is making it more expensive.",
+        "url": "https://www.cbsnews.com/news/computer-price-memory-chip-shortage-artificial-intelligence/",
+        "source": "CBS News",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "Spotify's new badge identifies human artists, as AI music floods in",
+        "url": "https://www.cbsnews.com/news/spotify-verified-badge-ai-music/",
+        "source": "CBS News",
+        "date": "2026-04-30"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "articles": [
+      {
+        "title": "College students' killings latest case to rely on ChatGPT as evidence",
+        "url": "https://www.cbsnews.com/news/florida-graduate-students-killed-chatgpt-artificial-intelligence-research/",
+        "source": "CBS News",
+        "date": "2026-04-29"
+      },
+      {
+        "title": "Elon Musk tells court he was a \"fool\" for funding OpenAI",
+        "url": "https://www.cbsnews.com/news/elon-musk-sam-altman-openai-trial-oakland/",
+        "source": "CBS News",
+        "date": "2026-04-29"
+      },
+      {
+        "title": "Elon Musk testifies he has \"extreme concerns\" about who controls AI in trial vs. Altman",
+        "url": "https://www.cbsnews.com/video/elon-musk-testifies-he-has-extreme-concerns-about-who-controls-ai-in-trial-vs-altman/",
+        "source": "CBS News",
+        "date": "2026-04-29"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "articles": [
+      {
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxs?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-04-28"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-27",
+    "articles": [
+      {
+        "title": "AI \"agents\" can do your shopping. Should you let them?",
+        "url": "https://www.cbsnews.com/news/ai-agentic-artificial-inteligence-what-is-it/",
+        "source": "CBS News",
+        "date": "2026-04-27"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-26",
+    "articles": [
+      {
+        "title": "How the AI-driven data center boom is leading to skyrocketing energy bills",
+        "url": "https://www.cbsnews.com/news/how-ai-driven-data-center-boom-leading-to-skyrocketing-energy-bills/",
+        "source": "CBS News",
+        "date": "2026-04-26"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "articles": [
+      {
+        "title": "Meta to cut 8,000 jobs as it charges into AI",
+        "url": "https://www.cbsnews.com/news/meta-layoffs-8000-ai-job-cuts/",
+        "source": "CBS News",
+        "date": "2026-04-23"
+      }
+    ]
+  }
+]

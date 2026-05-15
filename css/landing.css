@@ -1,0 +1,73 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  background: #000;
+  overflow: hidden;
+  font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;
+}
+
+#rays {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+.hero {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 2rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.hero h1 {
+  font-size: clamp(3rem, 10vw, 8rem);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  background: linear-gradient(to right, #ff6ec7, #ff8c5a);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  text-shadow: none;
+  filter: drop-shadow(0 0 18px rgba(255, 110, 199, 0.45));
+  line-height: 1.1;
+}
+
+.enter-btn {
+  display: inline-block;
+  padding: 0.65rem 2.4rem;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-decoration: none;
+  color: #fff;
+  border: 2px solid transparent;
+  background:
+    linear-gradient(#000, #000) padding-box,
+    linear-gradient(to right, #ff6ec7, #ff8c5a) border-box;
+  border-radius: 2px;
+  transition: background 0.25s, box-shadow 0.25s, color 0.25s;
+  box-shadow: 0 0 14px rgba(255, 110, 199, 0.3);
+}
+
+.enter-btn:hover {
+  background:
+    linear-gradient(to right, #ff6ec7, #ff8c5a) padding-box,
+    linear-gradient(to right, #ff6ec7, #ff8c5a) border-box;
+  color: #000;
+  box-shadow: 0 0 28px rgba(255, 110, 199, 0.6);
+}

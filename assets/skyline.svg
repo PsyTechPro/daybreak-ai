@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" width="220" height="80">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5a0e0e"/>
+      <stop offset="55%" stop-color="#c03000"/>
+      <stop offset="100%" stop-color="#ff6a00"/>
+    </linearGradient>
+  </defs>
+  <rect width="220" height="80" fill="url(#sky)"/>
+  <path d="
+    M0,80 L0,63
+    L8,63 L8,56 L14,56 L14,60 L20,60
+    L20,52 L24,52 L24,45 L30,45 L30,52 L36,52
+    L36,60 L40,60 L40,50 L44,50 L44,56 L50,56
+    L50,44 L55,44 L55,38 L60,38 L60,44 L66,44
+    L66,54 L70,54 L70,46 L76,46 L76,40 L82,40
+    L82,34 L87,34 L87,30 L92,30 L92,34 L97,34
+    L97,40 L102,40 L102,46 L107,46 L107,42 L113,42
+    L113,37 L119,37 L119,43 L124,43 L124,50 L130,50
+    L130,44 L135,44 L135,39 L140,39 L140,44 L146,44
+    L146,52 L150,52 L150,46 L155,46 L155,54 L162,54
+    L162,48 L167,48 L167,56 L173,56 L173,60 L180,60
+    L180,54 L185,54 L185,62 L192,62 L192,58 L198,58
+    L198,63 L220,63 L220,80 Z
+  " fill="#180800"/>
+  <!-- Reflection shimmer at bottom -->
+  <rect x="0" y="72" width="220" height="8" fill="url(#sky)" opacity="0.25"/>
+</svg>
