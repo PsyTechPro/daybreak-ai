@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-05-18",
+    "articles": [
+      {
+        "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+        "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "I’m a Normie. Can Normies Really Vibe Code?",
+        "url": "https://www.wired.com/story/normie-vibe-code/",
+        "source": "Wired",
+        "date": "2026-05-18"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "articles": [
+      {
+        "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+        "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+        "source": "TechCrunch",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+        "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+        "source": "TechCrunch",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+        "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "source": "TechCrunch",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "Chatbots at the drive-thru are just the beginning",
+        "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+        "source": "The Verge",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "Microsoft is retiring Teams’ Together Mode",
+        "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+        "source": "The Verge",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "Revamped Siri will reportedly offer autodeleting chats",
+        "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+        "source": "The Verge",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+        "source": "The Verge",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
+        "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production",
+        "source": "VentureBeat",
+        "date": "2026-05-17"
+      }
+    ]
+  },
+  {
     "date": "2026-05-16",
     "articles": [
       {
