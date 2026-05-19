@@ -1,11 +1,178 @@
 [
   {
+    "date": "2026-05-19",
+    "articles": [
+      {
+        "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
+        "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "Here’s why Elon Musk lost his suit against OpenAI",
+        "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
+        "url": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
+        "source": "TechCrunch",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "Gemini is in danger of going full Copilot",
+        "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+        "source": "The Verge",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
+        "url": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
+        "source": "Wired",
+        "date": "2026-05-19"
+      }
+    ]
+  },
+  {
     "date": "2026-05-18",
     "articles": [
+      {
+        "title": "Bug bounty businesses bombarded with AI slop",
+        "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+        "source": "Ars Technica",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+        "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+        "source": "Ars Technica",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+        "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+        "source": "Ars Technica",
+        "date": "2026-05-18"
+      },
       {
         "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
         "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+        "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+        "url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Jury unanimously dismisses Elon Musk's lawsuit against OpenAI",
+        "url": "https://www.cbsnews.com/news/musk-openai-lawsuit-dismissed-jury-recommendation/",
+        "source": "CBS News",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "What to expect from Google this week",
+        "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Jury dismisses all claims in Elon Musk's lawsuit against OpenAI CEO Sam Altman",
+        "url": "https://www.npr.org/2026/05/18/nx-s1-5822360/jury-dismisses-all-claims-in-elon-musks-lawsuit-against-openai-ceo-sam-altman",
+        "source": "NPR",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Jury dismisses all claims in Elon Musk's lawsuit against OpenAI CEO Sam Altman",
+        "url": "https://www.npr.org/2026/05/18/nx-s1-5822366/musk-altman-openai-jury-verdict-claims-dismissed",
+        "source": "NPR",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+        "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+        "source": "TechCrunch",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+        "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+        "source": "TechCrunch",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "source": "TechCrunch",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Kin Health raises $9M to build an AI notetaker for patients",
+        "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+        "source": "TechCrunch",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+        "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+        "source": "TechCrunch",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "South Korea’s LetinAR is building optics behind AI glasses",
+        "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+        "source": "TechCrunch",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "source": "The Verge",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Musk v. Altman proved that AI is led by the wrong people",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+        "source": "The Verge",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
+        "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
+        "source": "VentureBeat",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering",
+        "url": "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix",
+        "source": "VentureBeat",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "LangSmith Engine closes the agent debugging loop automatically — but multi-model enterprises still need a neutral layer",
+        "url": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer",
+        "source": "VentureBeat",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+        "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+        "source": "Wired",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "How to Watch Google I/O 2026",
+        "url": "https://www.wired.com/story/how-to-watch-google-io/",
+        "source": "Wired",
         "date": "2026-05-18"
       },
       {
