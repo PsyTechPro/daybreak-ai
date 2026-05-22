@@ -1,10 +1,87 @@
 [
   {
+    "date": "2026-05-22",
+    "articles": [
+      {
+        "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+        "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+        "source": "TechCrunch",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "Microsoft is letting Office users remove an annoying Copilot button",
+        "url": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal",
+        "source": "The Verge",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+        "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+        "source": "Wired",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
+        "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
+        "source": "Wired",
+        "date": "2026-05-22"
+      }
+    ]
+  },
+  {
     "date": "2026-05-21",
     "articles": [
       {
+        "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+        "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+        "source": "Ars Technica",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Trump postponing AI executive order \"because I didn't like what I was seeing\"",
+        "url": "https://www.cbsnews.com/news/trump-postponing-ai-executive-order-didnt-like-what-i-was-seeing/",
+        "source": "CBS News",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Why Google's Gemini Spark AI agent could be a game changer",
+        "url": "https://www.cbsnews.com/news/google-gemini-spark-ai-agent/",
+        "source": "CBS News",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Meta AI launches private Incognito Chat",
+        "url": "https://www.foxnews.com/tech/meta-ai-launches-private-incognito-chat",
+        "source": "Fox News",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+        "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Roundtables: Can AI Learn to Understand the World?",
+        "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Scaling creativity in the age of AI",
+        "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-21"
+      },
+      {
         "title": "Anthropic says it’s about to have its first profitable quarter",
         "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+        "source": "TechCrunch",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+        "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
         "source": "TechCrunch",
         "date": "2026-05-21"
       },
@@ -21,9 +98,123 @@
         "date": "2026-05-21"
       },
       {
+        "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+        "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+        "source": "TechCrunch",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+        "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+        "source": "TechCrunch",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+        "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+        "source": "TechCrunch",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+        "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+        "source": "TechCrunch",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+        "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+        "source": "TechCrunch",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+        "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+        "source": "TechCrunch",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "source": "The Verge",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
+        "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
+        "source": "The Verge",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI",
+        "url": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign",
+        "source": "The Verge",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+        "source": "The Verge",
+        "date": "2026-05-21"
+      },
+      {
         "title": "Meta lays off thousands of employees to offset AI investments",
         "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
         "source": "The Verge",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
+        "url": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant",
+        "source": "VentureBeat",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code",
+        "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code",
+        "source": "VentureBeat",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Americans can’t spot a deepfake, and that’s a business crisis, not just a consumer problem",
+        "url": "https://venturebeat.com/security/americans-cant-spot-a-deepfake-and-thats-a-business-crisis-not-just-a-consumer-problem",
+        "source": "VentureBeat",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Enterprise AI agents keep failing because they forget what they learned",
+        "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
+        "source": "VentureBeat",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Kore.ai launches Artemis AI agent platform, takes on Salesforce and ServiceNow",
+        "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
+        "source": "VentureBeat",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "MFA verifies who logged in. It has no idea what they do next.",
+        "url": "https://venturebeat.com/security/mfa-verifies-who-logged-in-it-has-no-idea-what-they-do-next",
+        "source": "VentureBeat",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
+        "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that",
+        "source": "VentureBeat",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+        "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+        "source": "Wired",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+        "source": "Wired",
         "date": "2026-05-21"
       },
       {
