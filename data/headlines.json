@@ -3,9 +3,27 @@
     "date": "2026-05-23",
     "articles": [
       {
+        "title": "Elon Musk has given up on solar power (on Earth)",
+        "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+        "source": "TechCrunch",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "source": "TechCrunch",
+        "date": "2026-05-23"
+      },
+      {
         "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
         "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
         "source": "TechCrunch",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "Google’s new anything-to-anything AI model is wild",
+        "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+        "source": "The Verge",
         "date": "2026-05-23"
       }
     ]
@@ -1891,17 +1909,6 @@
         "url": "https://www.cbsnews.com/news/how-ai-driven-data-center-boom-leading-to-skyrocketing-energy-bills/",
         "source": "CBS News",
         "date": "2026-04-26"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "articles": [
-      {
-        "title": "Meta to cut 8,000 jobs as it charges into AI",
-        "url": "https://www.cbsnews.com/news/meta-layoffs-8000-ai-job-cuts/",
-        "source": "CBS News",
-        "date": "2026-04-23"
       }
     ]
   }
