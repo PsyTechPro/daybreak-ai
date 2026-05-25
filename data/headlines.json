@@ -1,5 +1,57 @@
 [
   {
+    "date": "2026-05-25",
+    "articles": [
+      {
+        "title": "This big university system is embracing AI. Students and faculty aren't all on board",
+        "url": "https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university",
+        "source": "NPR",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+        "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+        "source": "Wired",
+        "date": "2026-05-25"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "articles": [
+      {
+        "title": "Humanoid robots work nonstop in package test",
+        "url": "https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test",
+        "source": "Fox News",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "source": "TechCrunch",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+        "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+        "source": "TechCrunch",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+        "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+        "source": "The Verge",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
+        "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
+        "source": "VentureBeat",
+        "date": "2026-05-24"
+      }
+    ]
+  },
+  {
     "date": "2026-05-23",
     "articles": [
       {
