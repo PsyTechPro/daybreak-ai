@@ -1,11 +1,118 @@
 [
   {
+    "date": "2026-05-29",
+    "articles": [
+      {
+        "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+        "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+        "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+        "source": "TechCrunch",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+        "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+        "source": "TechCrunch",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "Adobe’s conversational AI agent is a mediocre design intern",
+        "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+        "source": "The Verge",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "Meta Quest Promo Codes and Coupons for June 2026",
+        "url": "https://www.wired.com/story/meta-quest-promo-code/",
+        "source": "Wired",
+        "date": "2026-05-29"
+      }
+    ]
+  },
+  {
     "date": "2026-05-28",
     "articles": [
+      {
+        "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+        "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+        "source": "Ars Technica",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+        "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+        "source": "Ars Technica",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
+        "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+        "source": "Ars Technica",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "How ChatGPT warped reality for these users: \"Why would the AI lie to me?\"",
+        "url": "https://www.cbsnews.com/news/chatgpt-ai-delusion-spiral-warped-reality-openai/",
+        "source": "CBS News",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Fox News AI Newsletter: Chatbots' left-wing bias",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-chatbots-left-wing-bias",
+        "source": "Fox News",
+        "date": "2026-05-28"
+      },
       {
         "title": "The AI Hype Index: AI gets booed in graduation season",
         "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
         "source": "MIT Technology Review",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "The Download: climate tech goes public and the AI Hype Index returns",
+        "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+        "source": "MIT Technology Review",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+        "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+        "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+        "source": "TechCrunch",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Asana acquires no-code agent-builder StackAI",
+        "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+        "source": "TechCrunch",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
+        "url": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
+        "source": "TechCrunch",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+        "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+        "source": "TechCrunch",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "The internet is being rebuilt for machines",
+        "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+        "source": "TechCrunch",
         "date": "2026-05-28"
       },
       {
@@ -21,14 +128,92 @@
         "date": "2026-05-28"
       },
       {
+        "title": "Why Paris may be the most important AI city outside Silicon Valley",
+        "url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
+        "source": "TechCrunch",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+        "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+        "source": "The Verge",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Claude’s new model is more ‘honest’ when it messes up",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+        "source": "The Verge",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+        "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+        "source": "The Verge",
+        "date": "2026-05-28"
+      },
+      {
         "title": "YouTube will let you ask AI to make a custom video feed",
         "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
         "source": "The Verge",
         "date": "2026-05-28"
       },
       {
+        "title": "Anthropic's Claude Opus 4.8 is here with 3X cheaper fast mode and near-Mythos level alignment",
+        "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment",
+        "source": "VentureBeat",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Are designers the new SWEs? Figma Make's new two-way GitHub integration turns designs into live, production code — with built-in governance",
+        "url": "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance",
+        "source": "VentureBeat",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Control within connection: How data sovereignty is rewriting the rules of critical infrastructure",
+        "url": "https://venturebeat.com/data/control-within-connection-how-data-sovereignty-is-rewriting-the-rules-of-critical-infrastructure",
+        "source": "VentureBeat",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "How DeepSeek’s radical architecture is shattering Silicon Valley's token moat",
+        "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
+        "source": "VentureBeat",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
+        "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
+        "source": "VentureBeat",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5%",
+        "url": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
+        "source": "VentureBeat",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "SQL query logs hold the context AI agents need to stop hallucinating joins",
+        "url": "https://venturebeat.com/data/sql-query-logs-hold-the-context-ai-agents-need-to-stop-hallucinating-joins",
+        "source": "VentureBeat",
+        "date": "2026-05-28"
+      },
+      {
         "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
         "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+        "source": "Wired",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+        "url": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+        "source": "Wired",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach",
+        "url": "https://www.wired.com/story/oura-ring-5/",
         "source": "Wired",
         "date": "2026-05-28"
       },
@@ -2315,17 +2500,6 @@
         "url": "https://www.cbsnews.com/video/elon-musk-testifies-he-has-extreme-concerns-about-who-controls-ai-in-trial-vs-altman/",
         "source": "CBS News",
         "date": "2026-04-29"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-28",
-    "articles": [
-      {
-        "title": "Tech Life",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxs?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-04-28"
       }
     ]
   }
