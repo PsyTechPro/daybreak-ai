@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-05-31",
+    "articles": [
+      {
+        "title": "These AI models are free, private, and will never say 'no'",
+        "url": "https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks",
+        "source": "NPR",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "How Turkey Hacked the Hair Transplant Industry",
+        "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+        "source": "Wired",
+        "date": "2026-05-31"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-30",
+    "articles": [
+      {
+        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+        "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+        "source": "TechCrunch",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "Meta is reportedly developing an AI pendant",
+        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "source": "TechCrunch",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+        "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+        "source": "TechCrunch",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "source": "TechCrunch",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "AI grifters are creating fake Black people to sell Shein junk",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+        "source": "The Verge",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "How one founder’s bet on ‘the old school web’ is paying off",
+        "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+        "source": "The Verge",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "Do You Actually Need to Pay for Transcription Software?",
+        "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+        "source": "Wired",
+        "date": "2026-05-30"
+      }
+    ]
+  },
+  {
     "date": "2026-05-29",
     "articles": [
       {
@@ -2568,23 +2632,6 @@
         "url": "https://www.bbc.co.uk/iplayer/episode/m002w3sl?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-05-02"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-30",
-    "articles": [
-      {
-        "title": "Buying a computer? AI is making it more expensive.",
-        "url": "https://www.cbsnews.com/news/computer-price-memory-chip-shortage-artificial-intelligence/",
-        "source": "CBS News",
-        "date": "2026-04-30"
-      },
-      {
-        "title": "Spotify's new badge identifies human artists, as AI music floods in",
-        "url": "https://www.cbsnews.com/news/spotify-verified-badge-ai-music/",
-        "source": "CBS News",
-        "date": "2026-04-30"
       }
     ]
   }
