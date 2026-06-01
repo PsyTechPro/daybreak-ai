@@ -32,6 +32,8 @@ SOURCES = [
     ("Wired",                "https://www.wired.com/feed/rss"),
     ("MIT Technology Review","https://www.technologyreview.com/feed/"),
     ("VentureBeat",          "https://venturebeat.com/feed/"),
+    ("CNBC",                 "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910"),
+    ("Ben's Bites",          "https://www.bensbites.com/feed"),
 ]
 
 # ── AI keyword filter ────────────────────────────────────────────────────────
