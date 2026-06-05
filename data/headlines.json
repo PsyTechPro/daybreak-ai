@@ -1,10 +1,99 @@
 [
   {
+    "date": "2026-06-05",
+    "articles": [
+      {
+        "title": "We need to stop AI developing without humans, says Anthropic co-founder",
+        "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "China poaches more AI talent from the U.S. as it eyes the next 'super-app'",
+        "url": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit",
+        "url": "https://www.cnbc.com/2026/06/05/south-korea-is-obsessing-over-nvidia-ceo-jensen-huangs-visit.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales",
+        "url": "https://www.cnbc.com/2026/06/04/nvidia-ceo-jensen-huang-warren-senate-hearing-china-ai-chips.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Will a four-armed robot replace astronauts in space?",
+        "url": "https://www.foxnews.com/tech/four-armed-robot-replace-astronauts-space",
+        "source": "Fox News",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Are AI chatbots making us lose control of our brains?",
+        "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "The Meta hack shows there’s more to AI security than Mythos",
+        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Most K-12 teachers say AI's impact on education will eclipse the internet or computers",
+        "url": "https://www.npr.org/2026/06/05/nx-s1-5779757/school-ai-education-students-teachers-poll-critical-thinking",
+        "source": "NPR",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "AI Has Come for Serif Fonts",
+        "url": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+        "source": "Wired",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+        "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+        "source": "Wired",
+        "date": "2026-06-05"
+      }
+    ]
+  },
+  {
     "date": "2026-06-04",
     "articles": [
       {
+        "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+        "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "She waited for a soulmate who never showed up: ChatGPT users detail AI delusions",
+        "url": "https://www.cbsnews.com/news/chatgpt-ai-delusion-spiral-warped-reality-openai/",
+        "source": "CBS News",
+        "date": "2026-06-04"
+      },
+      {
         "title": "Amazon engineers in Seattle slam employer for building AI data centers while laying off 30,000 staffers",
         "url": "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
+        "source": "CNBC",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year",
+        "url": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+        "source": "CNBC",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "CrowdStrike CEO says AI security fears will become a bigger tailwind in coming quarters",
+        "url": "https://www.cnbc.com/2026/06/04/crowdstrike-ceo-says-ai-security-fears-will-become-a-bigger-tailwind-in-coming-quarters.html",
         "source": "CNBC",
         "date": "2026-06-04"
       },
@@ -15,9 +104,81 @@
         "date": "2026-06-04"
       },
       {
+        "title": "Ramp hits $44 billion valuation as companies look to rein in AI spending",
+        "url": "https://www.cnbc.com/2026/06/04/ramp-valuation-funding-ai-spend.html",
+        "source": "CNBC",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Vibe-coding phenomenon lifts AI startup Supabase to $10.5 billion valuation",
+        "url": "https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html",
+        "source": "CNBC",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Are humanoid robots now coming for retail jobs?",
+        "url": "https://www.foxnews.com/tech/humanoid-robots-coming-retail-jobs",
+        "source": "Fox News",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "How courts are coping with a flood of AI-generated lawsuits",
+        "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+        "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-04"
+      },
+      {
         "title": "A handful of American households pay for AI. Is the future free — or a subscription?",
         "url": "https://www.npr.org/2026/06/04/nx-s1-5791661/chatgpt-gemini-claude-subscription-revenue-openai",
         "source": "NPR",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+        "source": "TechCrunch",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+        "source": "TechCrunch",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+        "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+        "source": "TechCrunch",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+        "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+        "source": "TechCrunch",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Meta rolls out a new AI creator assistant on Facebook",
+        "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+        "source": "TechCrunch",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Meta’s Oversight Board says account bans lack due process, transparency",
+        "url": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+        "source": "TechCrunch",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+        "url": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+        "source": "TechCrunch",
         "date": "2026-06-04"
       },
       {
@@ -27,8 +188,38 @@
         "date": "2026-06-04"
       },
       {
+        "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
+        "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
+        "source": "The Verge",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+        "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+        "source": "The Verge",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up",
+        "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
+        "source": "VentureBeat",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+        "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+        "source": "Wired",
+        "date": "2026-06-04"
+      },
+      {
         "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
         "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+        "source": "Wired",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
         "source": "Wired",
         "date": "2026-06-04"
       }
@@ -3513,41 +3704,6 @@
         "url": "https://www.npr.org/2026/05/06/nx-s1-5813505/how-silicon-valleys-new-tech-right-has-profited-by-aligning-with-maga",
         "source": "NPR",
         "date": "2026-05-06"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-05",
-    "articles": [
-      {
-        "title": "Coinbase to lay off 700 workers as crypto company embraces AI",
-        "url": "https://www.cbsnews.com/news/coinbase-layoffs-ai-brian-armstrong/",
-        "source": "CBS News",
-        "date": "2026-05-05"
-      },
-      {
-        "title": "More companies are pointing to AI as they lay off employees",
-        "url": "https://www.cbsnews.com/news/ai-layoffs-2026-artificial-intelligence-amazon-pinterest/",
-        "source": "CBS News",
-        "date": "2026-05-05"
-      },
-      {
-        "title": "Pennsylvania suing Character AI, claims chatbot posed as medical professional",
-        "url": "https://www.cbsnews.com/news/pennsylvania-character-ai-lawsuit-chatbot-posed-as-medical-professional/",
-        "source": "CBS News",
-        "date": "2026-05-05"
-      },
-      {
-        "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
-        "url": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
-        "source": "NPR",
-        "date": "2026-05-05"
-      },
-      {
-        "title": "Scott Turow's latest real-life legal thriller: Suing Meta for copyright infringement",
-        "url": "https://www.npr.org/2026/05/05/nx-s1-5812623/scott-turow-meta-lawsuit",
-        "source": "NPR",
-        "date": "2026-05-05"
       }
     ]
   }
