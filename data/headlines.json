@@ -3,14 +3,104 @@
     "date": "2026-06-05",
     "articles": [
       {
+        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "source": "Ars Technica",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+        "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+        "source": "Ars Technica",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Raspberry Pi raises profit forecast as AI demand grows",
+        "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Trump to meet AI leaders to discuss US investment in their companies",
+        "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-05"
+      },
+      {
         "title": "We need to stop AI developing without humans, says Anthropic co-founder",
         "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-06-05"
       },
       {
+        "title": "AI is designing OpenAI's next model in a sign of 'superintelligence': SoftBank's Masayoshi Son to CNBC",
+        "url": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
+        "url": "https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO",
+        "url": "https://www.cnbc.com/2026/06/05/apple-wwdc-tim-cook-ai-siri-ternus.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
         "title": "China poaches more AI talent from the U.S. as it eyes the next 'super-app'",
         "url": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Cramer says 'cooling market' presents a chance to buy knocked-down AI stocks",
+        "url": "https://www.cnbc.com/2026/06/05/cramer-cooling-market-offers-a-chance-to-buy-knocked-down-ai-stocks.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Cramer’s week ahead: Stocks face pressure from rates, oil, and a flood of new offerings",
+        "url": "https://www.cnbc.com/2026/06/05/cramers-week-ahead-stocks-face-pressure-from-rates-oil-and-a-flood-of-new-offerings.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
+        "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "LinkedIn co-founder Reid Hoffman is leaving Microsoft's board after almost a decade",
+        "url": "https://www.cnbc.com/2026/06/05/linkedin-co-founder-reid-hoffman-leaving-microsoft-board-after-decade.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push",
+        "url": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic",
+        "url": "https://www.cnbc.com/2026/06/05/model-routing-on-ai-is-a-problem-for-openai-and-anthropic.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Mythos rejuvenated the cybersecurity sector. Earnings put the recent rally to the test",
+        "url": "https://www.cnbc.com/2026/06/05/mythos-cybersecurity-earnings-palo-alto-crowdstrike.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "The Tech Download: Anthropic’s IPO sets up first big test of AI boom valuations",
+        "url": "https://www.cnbc.com/2026/06/05/tech-download-anthropic-ipo-ai-valuations.html",
         "source": "CNBC",
         "date": "2026-06-05"
       },
@@ -21,8 +111,20 @@
         "date": "2026-06-05"
       },
       {
+        "title": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+        "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
         "title": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales",
         "url": "https://www.cnbc.com/2026/06/04/nvidia-ceo-jensen-huang-warren-senate-hearing-china-ai-chips.html",
+        "source": "CNBC",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Where investors may find the next 'big wave' for AI trade",
+        "url": "https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html",
         "source": "CNBC",
         "date": "2026-06-05"
       },
@@ -39,6 +141,12 @@
         "date": "2026-06-05"
       },
       {
+        "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+        "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-05"
+      },
+      {
         "title": "The Meta hack shows there’s more to AI security than Mythos",
         "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
         "source": "MIT Technology Review",
@@ -51,14 +159,98 @@
         "date": "2026-06-05"
       },
       {
+        "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+        "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+        "source": "TechCrunch",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Google will pay SpaceX $920M per month for compute",
+        "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "source": "TechCrunch",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+        "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+        "source": "TechCrunch",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+        "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+        "source": "TechCrunch",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Supabase doubles valuation to $10B in 8 months",
+        "url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+        "source": "TechCrunch",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "The most interesting startups right now want to get you off your phone",
+        "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+        "source": "TechCrunch",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+        "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+        "source": "TechCrunch",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "This is your laptop… on AI",
+        "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+        "source": "The Verge",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "AI agents are learning on the job — just not for your whole team",
+        "url": "https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team",
+        "source": "VentureBeat",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.",
+        "url": "https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid",
+        "source": "VentureBeat",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
+        "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
+        "source": "VentureBeat",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "Microsoft's AI Futurist explains how he uses Copilot — and the real-world problems enterprises are solving with agents",
+        "url": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
+        "source": "VentureBeat",
+        "date": "2026-06-05"
+      },
+      {
         "title": "AI Has Come for Serif Fonts",
         "url": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
         "source": "Wired",
         "date": "2026-06-05"
       },
       {
+        "title": "Has Microsoft Lost Its Mojo (Again)?",
+        "url": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+        "source": "Wired",
+        "date": "2026-06-05"
+      },
+      {
         "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
         "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+        "source": "Wired",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "The DOGE Boys Get VC Funding to Support Their Latest Enterprise",
+        "url": "https://www.wired.com/story/the-doge-boys-get-vc-funding-to-support-their-latest-enterprise/",
         "source": "Wired",
         "date": "2026-06-05"
       }
@@ -3687,23 +3879,6 @@
         "url": "https://www.cbsnews.com/news/ai-layoffs-job-cuts-challenger-report-april-2026/",
         "source": "CBS News",
         "date": "2026-05-07"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-06",
-    "articles": [
-      {
-        "title": "New AI brain lets robots move like humans",
-        "url": "https://www.foxnews.com/tech/new-ai-brain-lets-robots-move-like-humans",
-        "source": "Fox News",
-        "date": "2026-05-06"
-      },
-      {
-        "title": "How Silicon Valley's new tech right has profited by aligning with MAGA",
-        "url": "https://www.npr.org/2026/05/06/nx-s1-5813505/how-silicon-valleys-new-tech-right-has-profited-by-aligning-with-maga",
-        "source": "NPR",
-        "date": "2026-05-06"
       }
     ]
   }
