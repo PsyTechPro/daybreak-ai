@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-06-08",
+    "articles": [
+      {
+        "title": "Marvell Technology jumps almost 9% in premarket after news it will join the S&P 500 index",
+        "url": "https://www.cnbc.com/2026/06/08/marvell-sp500-index-addition.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Tech stock sell-off accelerates; SoftBank drops 6% as investors sour on AI-linked names",
+        "url": "https://www.cnbc.com/2026/06/08/softbank-samsung-tech-ai-stocks-asia-fall.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "When Claude changed, everything changed: Managing AI blast radius in production",
+        "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
+        "source": "VentureBeat",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+        "url": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+        "source": "Wired",
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-07",
+    "articles": [
+      {
+        "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+        "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+        "source": "Ars Technica",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "Android fake call detection warns you about scams",
+        "url": "https://www.foxnews.com/tech/android-fake-call-detection-warns-scams",
+        "source": "Fox News",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "Is this the dawn of the Tokenpocalypse?",
+        "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+        "source": "TechCrunch",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "Notion restores access to Anthropic after service disruption",
+        "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+        "source": "TechCrunch",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "OpenAI is still working on that ‘super app’",
+        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+        "source": "TechCrunch",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
+        "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
+        "source": "VentureBeat",
+        "date": "2026-06-07"
+      }
+    ]
+  },
+  {
     "date": "2026-06-06",
     "articles": [
       {
@@ -3892,23 +3962,6 @@
         "url": "https://www.foxnews.com/tech/ai-air-traffic-system-promises-fewer-flight-delays",
         "source": "Fox News",
         "date": "2026-05-09"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-08",
-    "articles": [
-      {
-        "title": "Here's how AI can help with retirement planning, and where it struggles",
-        "url": "https://www.cbsnews.com/news/retirement-can-ai-help-you-retire-what-to-know/",
-        "source": "CBS News",
-        "date": "2026-05-08"
-      },
-      {
-        "title": "Fox News AI Newsletter: How Disney fans will experience AI",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-disney-fans-experience-ai",
-        "source": "Fox News",
-        "date": "2026-05-08"
       }
     ]
   }
