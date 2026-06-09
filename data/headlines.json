@@ -1,10 +1,141 @@
 [
   {
+    "date": "2026-06-09",
+    "articles": [
+      {
+        "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
+        "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI, CEO tells CNBC",
+        "url": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
+        "source": "CNBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Five things you need to know about AI",
+        "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Pope Leo calls AI firms a new form of colonialism, echoing tech critics",
+        "url": "https://www.npr.org/2026/06/09/nx-s1-5835315/pope-leo-calls-ai-firms-a-new-form-of-colonialism-echoing-tech-critics",
+        "source": "NPR",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+        "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      }
+    ]
+  },
+  {
     "date": "2026-06-08",
     "articles": [
       {
+        "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+        "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+        "source": "Ars Technica",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+        "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+        "source": "Ars Technica",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+        "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+        "source": "Ars Technica",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
+        "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+        "source": "Ars Technica",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "The weather and climate science AI revolution isn’t revolutionary",
+        "url": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+        "source": "Ars Technica",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
+        "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Can an AI agent cover for you while you're at the beach?",
+        "url": "https://www.cbsnews.com/news/ai-agent-work-summer-vacation/",
+        "source": "CBS News",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Career expert tackles job search struggles from experience to AI",
+        "url": "https://www.cbsnews.com/video/career-expert-tackles-job-search-struggles-from-experience-to-ai/",
+        "source": "CBS News",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple partnering with Google and Nvidia for most advanced AI model",
+        "url": "https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple shares reverse lower after big Siri news. Why we're not bothered",
+        "url": "https://www.cnbc.com/2026/06/08/apple-shares-reverse-lower-after-big-siri-news-why-were-not-bothered.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S.",
+        "url": "https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Corning strikes another multibillion-dollar AI deal. What the new Amazon pact means for the stock",
+        "url": "https://www.cnbc.com/2026/06/08/corning-strikes-another-big-ai-deal-what-the-new-amazon-pact-means-for-the-stock.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Jim Cramer says sovereign AI is Nvidia's powerful new growth driver",
+        "url": "https://www.cnbc.com/2026/06/08/jim-cramer-says-sovereign-ai-is-nvidias-powerful-new-growth-driver.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
         "title": "Marvell Technology jumps almost 9% in premarket after news it will join the S&P 500 index",
         "url": "https://www.cnbc.com/2026/06/08/marvell-sp500-index-addition.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang declines Senate testimony on AI, China and exports",
+        "url": "https://www.cnbc.com/2026/06/08/nvidia-jensen-huang-senate-elizabeth-warren-ai-china-export-controls.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
+        "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Silicon Valley’s new buyout playbook is hitting Wall Street",
+        "url": "https://www.cnbc.com/2026/06/08/silicon-valleys-new-buyout-playbook-is-hitting-wall-street.html",
         "source": "CNBC",
         "date": "2026-06-08"
       },
@@ -15,14 +146,182 @@
         "date": "2026-06-08"
       },
       {
+        "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
+        "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Robot pets with AI could soon live with you",
+        "url": "https://www.foxnews.com/tech/robot-pets-ai-could-soon-live",
+        "source": "Fox News",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+        "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Hey, Siri: Apple just announced a long-awaited AI update",
+        "url": "https://www.npr.org/2026/06/08/nx-s1-5847937/apple-wwdc-2026-siri-ai-tim-cook",
+        "source": "NPR",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple bets cheaper AI will woo small developers",
+        "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+        "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple plays catch-up at WWDC",
+        "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+        "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple’s Image Playground doesn’t suck anymore",
+        "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple’s Photos app is getting new AI editing features",
+        "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+        "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+        "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+        "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "OpenAI files confidentially for IPO, following Anthropic",
+        "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+        "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+        "url": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+        "source": "TechCrunch",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "44 things coming to your Apple devices that you might have missed",
+        "url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
+        "source": "The Verge",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "5 things I already love from the iOS 27 beta",
+        "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+        "source": "The Verge",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple is using AI to fix Safari’s extension problem",
+        "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+        "source": "The Verge",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "OpenAI files for IPO, following Anthropic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+        "source": "The Verge",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
+        "url": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
+        "source": "VentureBeat",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem — and most are building the wrong solution",
+        "url": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
+        "source": "VentureBeat",
+        "date": "2026-06-08"
+      },
+      {
         "title": "When Claude changed, everything changed: Managing AI blast radius in production",
         "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
         "source": "VentureBeat",
         "date": "2026-06-08"
       },
       {
+        "title": "Apple’s New Siri AI Is Ready to Get Personal",
+        "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+        "source": "Wired",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
+        "url": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/",
+        "source": "Wired",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Everything Apple Announced at WWDC 2026",
+        "url": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/",
+        "source": "Wired",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+        "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+        "source": "Wired",
+        "date": "2026-06-08"
+      },
+      {
         "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
         "url": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+        "source": "Wired",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+        "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+        "source": "Wired",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+        "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
         "source": "Wired",
         "date": "2026-06-08"
       }
@@ -3951,17 +4250,6 @@
         "url": "https://www.npr.org/2026/05/11/nx-s1-5798754/several-states-considering-ban-on-legal-personhood-for-ai",
         "source": "NPR",
         "date": "2026-05-11"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-09",
-    "articles": [
-      {
-        "title": "AI air traffic system promises fewer flight delays",
-        "url": "https://www.foxnews.com/tech/ai-air-traffic-system-promises-fewer-flight-delays",
-        "source": "Fox News",
-        "date": "2026-05-09"
       }
     ]
   }
