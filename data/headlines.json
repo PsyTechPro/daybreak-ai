@@ -1,11 +1,136 @@
 [
   {
+    "date": "2026-06-10",
+    "articles": [
+      {
+        "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
+        "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+        "source": "CNBC",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Google just fired a warning shot in the AI subscription price wars",
+        "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Meta signs first AI data center deal in India with Reliance",
+        "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "WhatsApp ordered to host rival AI assistants for free",
+        "url": "https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order",
+        "source": "The Verge",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+        "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+        "source": "Wired",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  {
     "date": "2026-06-09",
     "articles": [
+      {
+        "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+        "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+        "source": "Ars Technica",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Apple says its AI is still private, even when it's running on Google's servers",
+        "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+        "source": "Ars Technica",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+        "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+        "source": "Ars Technica",
+        "date": "2026-06-09"
+      },
       {
         "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
         "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
+        "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+        "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Version of AI tool 'too powerful for public' released to public",
+        "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Hey Siri, meet AI",
+        "url": "https://www.bensbites.com/p/hey-siri-meet-ai",
+        "source": "Ben's Bites",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Can an AI agent cover for you while you're at the beach?",
+        "url": "https://www.cbsnews.com/news/ai-agent-work-summer-vacation/",
+        "source": "CBS News",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street",
+        "url": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+        "source": "CNBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Apple partnering with Google and Nvidia for most advanced AI model",
+        "url": "https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html",
+        "source": "CNBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Apple shares slide after big Siri AI reveal",
+        "url": "https://www.cnbc.com/2026/06/09/apple-stock-siri-ai-reaction.html",
+        "source": "CNBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Entergy CEO pushes back on fears that AI data centers will drive up electricity bills",
+        "url": "https://www.cnbc.com/2026/06/09/entergy-ceo-pushes-back-fears-ai-data-centers-drive-up-electricity-bills.html",
+        "source": "CNBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "GM eyes new battery chemistry to grow AI data center, energy storage business",
+        "url": "https://www.cnbc.com/2026/06/09/gm-batteries-data-centers-energy-storage-business.html",
+        "source": "CNBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "JPMorgan Chase plans to deploy more powerful AI agents this year",
+        "url": "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html",
+        "source": "CNBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "OpenAI's IPO filing, Apple updates Siri, new screwworm cases and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/06/09/5-things-to-know-before-the-market-opens.html",
+        "source": "CNBC",
         "date": "2026-06-09"
       },
       {
@@ -15,8 +140,38 @@
         "date": "2026-06-09"
       },
       {
+        "title": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
+        "url": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
+        "source": "CNBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix",
+        "url": "https://www.cnbc.com/2026/06/09/nvidia-d-matrix-chip-production-microsoft.html",
+        "source": "CNBC",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "AI voice scams can clone your family’s voice",
+        "url": "https://www.foxnews.com/tech/ai-voice-scams-clone-familys-voice",
+        "source": "Fox News",
+        "date": "2026-06-09"
+      },
+      {
         "title": "Five things you need to know about AI",
         "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Learning to lead in a hybrid human-AI enterprise",
+        "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+        "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
         "source": "MIT Technology Review",
         "date": "2026-06-09"
       },
@@ -27,9 +182,117 @@
         "date": "2026-06-09"
       },
       {
+        "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+        "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+        "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Can tech companies learn to love cheaper AI models?",
+        "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "GM joins race to build batteries for AI data centers and the grid",
+        "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Hey, Siri, here’s what I actually want from AI",
+        "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "It’s not FAANG anymore. It’s MANGOS.",
+        "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+        "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+        "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+        "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
         "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
         "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
         "source": "TechCrunch",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+        "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+        "source": "The Verge",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "I tried Siri AI, and so far it actually works",
+        "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+        "source": "The Verge",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+        "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+        "source": "The Verge",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
+        "url": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever",
+        "source": "VentureBeat",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer",
+        "url": "https://venturebeat.com/technology/apples-new-siri-ai-is-more-than-just-a-smarter-assistant-its-a-new-enterprise-app-layer",
+        "source": "VentureBeat",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Cohere open-sources a coding agent that runs on a single H100",
+        "url": "https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100",
+        "source": "VentureBeat",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Every World Cup fan deserves a seat. Norton Neo says its free browser is the ticket",
+        "url": "https://venturebeat.com/technology/every-world-cup-fan-deserves-a-seat-norton-neo-says-its-free-browser-is-the-ticket",
+        "source": "VentureBeat",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "On-device AI agents hit a hard memory limit. Apple's new architecture routes around it.",
+        "url": "https://venturebeat.com/technology/on-device-ai-agents-hit-a-hard-memory-limit-apples-new-architecture-routes-around-it",
+        "source": "VentureBeat",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+        "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+        "source": "Wired",
         "date": "2026-06-09"
       }
     ]
