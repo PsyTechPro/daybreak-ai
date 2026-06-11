@@ -1,7 +1,108 @@
 [
   {
+    "date": "2026-06-11",
+    "articles": [
+      {
+        "title": "AI mega-listings are 'just the start,' Razer CEO says, ahead of historic SpaceX IPO",
+        "url": "https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html",
+        "source": "CNBC",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Anthropic, OpenAI, other U.S. AI giants launch major London expansions amid talent and revenue scramble",
+        "url": "https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html",
+        "source": "CNBC",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ",
+        "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+        "source": "CNBC",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix",
+        "url": "https://www.cnbc.com/2026/06/09/nvidia-d-matrix-chip-production-microsoft.html",
+        "source": "CNBC",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "SpaceX is poised for blastoff with an IPO likely to break records",
+        "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
+        "source": "NPR",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei has just one direct report",
+        "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+        "source": "TechCrunch",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+        "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+        "source": "TechCrunch",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Deezer launches an AI music detector for other streaming services",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+        "source": "The Verge",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+        "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+        "source": "Wired",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "People Living Near xAI’s Dirty Data Centers Are Furious About the SpaceX IPO",
+        "url": "https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/",
+        "source": "Wired",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
     "date": "2026-06-10",
     "articles": [
+      {
+        "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+        "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+        "source": "Ars Technica",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
+        "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+        "source": "Ars Technica",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+        "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+        "source": "Ars Technica",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "AI will help young workers 'mature' faster by automating grunt work, Thoma Bravo says, amid youth job crisis",
+        "url": "https://www.cnbc.com/2026/06/10/ai-youth-uneployment-automation-thoma-bravo.html",
+        "source": "CNBC",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Autonomous EV freight trucking company Einride rises sharply in first trade on Nasdaq",
+        "url": "https://www.cnbc.com/2026/06/10/einride-autonomous-freight-truck-first-trade-nasdaq-spac.html",
+        "source": "CNBC",
+        "date": "2026-06-10"
+      },
       {
         "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
         "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
@@ -9,8 +110,56 @@
         "date": "2026-06-10"
       },
       {
+        "title": "Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others",
+        "url": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html",
+        "source": "CNBC",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Palantir's Karp says businesses are 'unhappy' with the frontier AI labs",
+        "url": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+        "source": "CNBC",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Super Micro stock falls 13% on $7 billion financing plans as company touts AI server orders",
+        "url": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
+        "source": "CNBC",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+        "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Everyone wants a piece of Tesla’s battery business",
+        "url": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+        "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
         "title": "Google just fired a warning shot in the AI subscription price wars",
         "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "How memory tools can make AI models worse",
+        "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
         "source": "TechCrunch",
         "date": "2026-06-10"
       },
@@ -21,14 +170,86 @@
         "date": "2026-06-10"
       },
       {
+        "title": "Warner Music acquires AI attribution startup Sureel AI",
+        "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Why Andrew Yang is building instead of waiting for Washington",
+        "url": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+        "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Zest launches a restaurant discovery app powered by where people actually eat",
+        "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+        "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+        "source": "TechCrunch",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Apple’s new Siri AI knows when to shut up",
+        "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+        "source": "The Verge",
+        "date": "2026-06-10"
+      },
+      {
         "title": "WhatsApp ordered to host rival AI assistants for free",
         "url": "https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order",
         "source": "The Verge",
         "date": "2026-06-10"
       },
       {
+        "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
+        "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know",
+        "source": "VentureBeat",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "MassMutual's AI strategy: 12-month contracts, 30% productivity gains, zero lock-in",
+        "url": "https://venturebeat.com/orchestration/massmutuals-ai-strategy-12-month-contracts-30-productivity-gains-zero-lock-in",
+        "source": "VentureBeat",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Researchers say they trained a foundation model from scratch for about $1,500",
+        "url": "https://venturebeat.com/technology/researchers-say-they-trained-a-foundation-model-from-scratch-for-about-1-500",
+        "source": "VentureBeat",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark",
+        "url": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark",
+        "source": "VentureBeat",
+        "date": "2026-06-10"
+      },
+      {
         "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
         "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+        "source": "Wired",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+        "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
         "source": "Wired",
         "date": "2026-06-10"
       }
@@ -4502,17 +4723,6 @@
         "url": "https://venturebeat.com",
         "source": "VentureBeat",
         "date": "2026-05-12"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-11",
-    "articles": [
-      {
-        "title": "Several states considering ban on legal personhood for AI",
-        "url": "https://www.npr.org/2026/05/11/nx-s1-5798754/several-states-considering-ban-on-legal-personhood-for-ai",
-        "source": "NPR",
-        "date": "2026-05-11"
       }
     ]
   }
