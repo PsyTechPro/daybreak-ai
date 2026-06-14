@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-06-14",
+    "articles": [
+      {
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "source": "TechCrunch",
+        "date": "2026-06-14"
+      }
+    ]
+  },
+  {
     "date": "2026-06-13",
     "articles": [
       {
@@ -21,9 +32,63 @@
         "date": "2026-06-13"
       },
       {
+        "title": "Robot soccer player dents wall with terrifying kicks",
+        "url": "https://www.foxnews.com/tech/robot-soccer-player-dents-wall-terrifying-kicks",
+        "source": "Fox News",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+        "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+        "source": "TechCrunch",
+        "date": "2026-06-13"
+      },
+      {
         "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
         "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
         "source": "TechCrunch",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+        "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+        "source": "TechCrunch",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "OpenAI faces investigation from state attorneys general",
+        "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+        "source": "TechCrunch",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+        "source": "The Verge",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+        "source": "The Verge",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "My first 24 hours with Siri AI on the Mac",
+        "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+        "source": "The Verge",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "My yard is dying, so I made an app for that",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+        "source": "The Verge",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
+        "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
+        "source": "VentureBeat",
         "date": "2026-06-13"
       },
       {
@@ -41,6 +106,12 @@
       {
         "title": "Here’s How AI Agents Can Protect EV Chargers",
         "url": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
+        "source": "Wired",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "The FCC Wants to Kill Burner Phones",
+        "url": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
         "source": "Wired",
         "date": "2026-06-13"
       }
@@ -4754,227 +4825,6 @@
         "url": "https://www.wired.com/story/polymarket-insider-trading-cftc-michael-selig-interview/",
         "source": "Wired",
         "date": "2026-05-15"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-14",
-    "articles": [
-      {
-        "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
-        "url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
-        "source": "Ars Technica",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-        "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
-        "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Employers are demanding AI skills. What's the best way to learn them?",
-        "url": "https://www.cbsnews.com/news/ai-hiring-courses-where-to-learn/",
-        "source": "CBS News",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Workers are getting paid to teach AI how to do their jobs",
-        "url": "https://www.cbsnews.com/news/artificial-intelligence-ai-trainer-job/",
-        "source": "CBS News",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Fox News AI Newsletter: Graduation speaker praises AI, gets instantly booed",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-graduation-speaker-praises-ai-gets-instantly-booed",
-        "source": "Fox News",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Data readiness for agentic AI in financial services",
-        "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-        "source": "MIT Technology Review",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-        "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-        "source": "MIT Technology Review",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "MIT researchers develop AI that can write its own training data",
-        "url": "https://www.technologyreview.com",
-        "source": "MIT Technology Review",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-        "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
-        "source": "MIT Technology Review",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Congress holds first AI safety hearing of the year",
-        "url": "https://npr.org",
-        "source": "NPR",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "How Trump may be changing his stance on AI regulation",
-        "url": "https://www.npr.org/2026/05/14/nx-s1-5818490/how-trump-may-be-changing-his-stance-on-ai-regulation",
-        "source": "NPR",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Anthropic raises $2 billion as AI investment continues to surge",
-        "url": "https://reuters.com",
-        "source": "Reuters",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-        "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-        "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-        "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-        "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "OpenAI releases GPT-5 with major reasoning improvements",
-        "url": "https://techcrunch.com",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "OpenAI says Codex is coming to your phone",
-        "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "OpenAI says hackers stole some data after latest code security issue",
-        "url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Uber to open 2 campuses in India to support product development, operations",
-        "url": "https://techcrunch.com/2026/05/14/uber-to-open-2-campuses-in-india-to-support-product-development-operations/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "What happens when AI starts building itself?",
-        "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-        "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
-        "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-        "source": "TechCrunch",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Behold, the Elon Musk jackass trophy",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-        "source": "The Verge",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Google DeepMind unveils new protein-folding AI that outperforms AlphaFold",
-        "url": "https://www.theverge.com",
-        "source": "The Verge",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Microsoft starts canceling Claude Code licenses",
-        "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-        "source": "The Verge",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-        "source": "The Verge",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Agent authorization is broken — and authentication passing makes it worse",
-        "url": "https://venturebeat.com/security/enterprises-verify-agents-identity-cannot-control-authorization-cisco-rsac-2026",
-        "source": "VentureBeat",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure",
-        "url": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure",
-        "source": "VentureBeat",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Claude Code's '/goals' separates the agent that works from the one that decides it's done",
-        "url": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done",
-        "source": "VentureBeat",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
-        "url": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
-        "source": "VentureBeat",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Enterprises can now train custom AI models from production workflows — no ML team required",
-        "url": "https://venturebeat.com/data/enterprises-can-now-train-custom-ai-models-from-production-workflows-no-ml-team-required",
-        "source": "VentureBeat",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
-        "url": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
-        "source": "Wired",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "HelloFresh Meal Kit Review (2026): Vast Options, Good Execution",
-        "url": "https://www.wired.com/review/hellofresh-meal-kit-2026/",
-        "source": "Wired",
-        "date": "2026-05-14"
-      },
-      {
-        "title": "Wired exclusive: inside the race to build artificial general intelligence",
-        "url": "https://www.wired.com",
-        "source": "Wired",
-        "date": "2026-05-14"
       }
     ]
   }
