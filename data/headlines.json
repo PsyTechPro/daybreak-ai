@@ -1,7 +1,138 @@
 [
   {
+    "date": "2026-06-17",
+    "articles": [
+      {
+        "title": "Want to start a business? AI can help, business owners say",
+        "url": "https://www.cbsnews.com/news/how-to-use-ai-to-start-a-business/",
+        "source": "CBS News",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7",
+        "url": "https://www.cnbc.com/2026/06/17/g7-trump-ai-tech-leaders-openai-anthropic-google.html",
+        "source": "CNBC",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "AI credit markets at risk of 'violent' correction and investors must stay clear-eyed, Man Group says",
+        "url": "https://www.cnbc.com/2026/06/17/ai-credit-markets-at-risk-of-violent-correction-man-group-says.html",
+        "source": "CNBC",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "China pushes for AI safety as G7 summit wraps up without Beijing",
+        "url": "https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html",
+        "source": "CNBC",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "SpaceX gains 3% after surpassing Amazon in market cap",
+        "url": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
+        "source": "CNBC",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+        "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+        "source": "TechCrunch",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "Uber will bring its premium robotaxi service to Houston in 2027",
+        "url": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
+        "source": "TechCrunch",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "The next humanoid robot might not look human at all",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+        "source": "The Verge",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
+        "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
+        "source": "VentureBeat",
+        "date": "2026-06-17"
+      }
+    ]
+  },
+  {
     "date": "2026-06-16",
     "articles": [
+      {
+        "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+        "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+        "source": "Ars Technica",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+        "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+        "source": "Ars Technica",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+        "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+        "source": "Ars Technica",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+        "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+        "source": "Ars Technica",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+        "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+        "source": "Ars Technica",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+        "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+        "source": "Ars Technica",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "SpaceX to buy AI coding assistant Cursor for $60 billion",
+        "url": "https://www.cbsnews.com/news/spacex-cursor-60-billion-ai-acquisition/",
+        "source": "CBS News",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Anthropic's Fable shutdown is a big moment for open-source AI",
+        "url": "https://www.cnbc.com/2026/06/16/anthropics-fable-shutdown-is-a-big-moment-for-open-source-ai.html",
+        "source": "CNBC",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+        "url": "https://www.cnbc.com/2026/06/16/usdepartment-of-justice-calls-for-dismissal-of-naacp-xai-lawsuit-.html",
+        "source": "CNBC",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
+        "url": "https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html",
+        "source": "CNBC",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "How AI may be messing with home prices",
+        "url": "https://www.cnbc.com/2026/06/16/ai-home-prices.html",
+        "source": "CNBC",
+        "date": "2026-06-16"
+      },
       {
         "title": "Qualcomm CEO says AI agents will replace apps — as chip giant works on 40 new AI-powered devices",
         "url": "https://www.cnbc.com/2026/06/16/qualcomm-ceo-ai-devices-agents.html",
@@ -9,8 +140,62 @@
         "date": "2026-06-16"
       },
       {
+        "title": "Self-driving tech supplier Mobileye targets U.S. robotaxi launch in 2027",
+        "url": "https://www.cnbc.com/2026/06/16/self-driving-tech-supplier-mobileye-targets-us-robotaxi-launch-in-2027.html",
+        "source": "CNBC",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "SpaceX to acquire the AI coding startup Cursor for $60 billion",
+        "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+        "source": "CNBC",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "New wheeled robot says no thanks to humanoid hype",
+        "url": "https://www.foxnews.com/tech/new-wheeled-robot-says-thanks-humanoid-hype",
+        "source": "Fox News",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Exclusive eBook: How AI is becoming the next military advisor",
+        "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+        "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Anthropic incident leaves confusion about Trump administration's AI regulation",
+        "url": "https://www.npr.org/2026/06/16/nx-s1-5859275/anthropic-incident-leaves-confusion-about-trump-administrations-ai-regulation",
+        "source": "NPR",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+        "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+        "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+        "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+        "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
         "title": "ChatGPT’s market share slips below 50% for first time",
         "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+        "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+        "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
         "source": "TechCrunch",
         "date": "2026-06-16"
       },
@@ -21,9 +206,51 @@
         "date": "2026-06-16"
       },
       {
+        "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
+        "url": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
+        "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+        "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+        "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Probably raises $9M to build a more reliable kind of AI",
+        "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+        "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
+        "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
+        "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+        "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+        "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+        "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+        "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
         "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
         "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
         "source": "TechCrunch",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+        "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+        "source": "The Verge",
         "date": "2026-06-16"
       },
       {
@@ -51,6 +278,24 @@
         "date": "2026-06-16"
       },
       {
+        "title": "Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents",
+        "url": "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents",
+        "source": "VentureBeat",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Stanford's DeLM cuts multi-agent task costs 50% — without a central orchestrator",
+        "url": "https://venturebeat.com/orchestration/stanfords-delm-cuts-multi-agent-task-costs-50-without-a-central-orchestrator",
+        "source": "VentureBeat",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
+        "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+        "source": "VentureBeat",
+        "date": "2026-06-16"
+      },
+      {
         "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
         "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
         "source": "Wired",
@@ -63,8 +308,26 @@
         "date": "2026-06-16"
       },
       {
+        "title": "My Father Wants to Age in Place. AI Will Be Watching",
+        "url": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
+        "source": "Wired",
+        "date": "2026-06-16"
+      },
+      {
         "title": "Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For",
         "url": "https://www.wired.com/story/qobuz-is-the-anti-spotify-we-need-right-now/",
+        "source": "Wired",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "Traditional Home Insurance Is Collapsing. Here’s What Could Fill the Gap",
+        "url": "https://www.wired.com/story/ai-assisted-parametric-insurance-climate-change/",
+        "source": "Wired",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "‘Dangerous’ AI Models Are Coming No Matter What",
+        "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
         "source": "Wired",
         "date": "2026-06-16"
       },
@@ -4796,59 +5059,6 @@
         "url": "https://www.wired.com/story/normie-vibe-code/",
         "source": "Wired",
         "date": "2026-05-18"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-17",
-    "articles": [
-      {
-        "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-        "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-        "source": "TechCrunch",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-        "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-        "source": "TechCrunch",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-        "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-        "source": "TechCrunch",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "Chatbots at the drive-thru are just the beginning",
-        "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-        "source": "The Verge",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "Microsoft is retiring Teams’ Together Mode",
-        "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
-        "source": "The Verge",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "Revamped Siri will reportedly offer autodeleting chats",
-        "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-        "source": "The Verge",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-        "source": "The Verge",
-        "date": "2026-05-17"
-      },
-      {
-        "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
-        "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production",
-        "source": "VentureBeat",
-        "date": "2026-05-17"
       }
     ]
   }
