@@ -15,9 +15,39 @@
         "date": "2026-06-19"
       },
       {
+        "title": "Fox News AI Newsletter: Bezos predicts labor shortage",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-bezos-predicts-labor-shortage",
+        "source": "Fox News",
+        "date": "2026-06-19"
+      },
+      {
         "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
         "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
         "source": "MIT Technology Review",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "The Download: AI bottleneck debates, and BCI trials take off",
+        "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "Billionaire Ambani wants AI in every call, app, and home",
+        "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+        "source": "TechCrunch",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+        "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "source": "TechCrunch",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+        "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "source": "TechCrunch",
         "date": "2026-06-19"
       },
       {
@@ -27,9 +57,33 @@
         "date": "2026-06-19"
       },
       {
+        "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+        "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+        "source": "TechCrunch",
+        "date": "2026-06-19"
+      },
+      {
         "title": "Barret Zoph is out at OpenAI again after just five months",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
         "source": "The Verge",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "The film about Sam Altman has been dropped by Amazon MGM",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "source": "The Verge",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
+        "url": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
+        "source": "VentureBeat",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand.",
+        "url": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand",
+        "source": "VentureBeat",
         "date": "2026-06-19"
       },
       {
@@ -4832,197 +4886,6 @@
         "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
         "source": "Wired",
         "date": "2026-05-21"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-20",
-    "articles": [
-      {
-        "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-        "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-        "source": "Ars Technica",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-        "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-        "source": "Ars Technica",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Concern ramps up over the use of AI in combat",
-        "url": "https://www.cbsnews.com/video/concern-ramps-up-over-the-use-of-ai-in-combat/",
-        "source": "CBS News",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Advice for 2026 commencement speakers: Don't bring up AI",
-        "url": "https://www.npr.org/2026/05/20/nx-s1-5822419/ai-colleges-commencement-booing",
-        "source": "NPR",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Elon Musk's SpaceX IPO plans reveal blockbuster spending on rockets and AI",
-        "url": "https://www.npr.org/2026/05/20/nx-s1-5812731/elon-musk-spacex-ai-ipo",
-        "source": "NPR",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Meta slashes 8,000 jobs as it pivots towards AI",
-        "url": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs",
-        "source": "NPR",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
-        "url": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Anthropic will pay xAI $1.25B per month for compute",
-        "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-        "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-        "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "OpenAI barrels toward IPO that may happen in September",
-        "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-        "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
-        "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Tesla’s Full Self-Driving software is creeping into Europe",
-        "url": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
-        "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
-        "url": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-        "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-        "url": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-        "source": "TechCrunch",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Anthropic and OpenAI take their beef to the midterm elections",
-        "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
-        "source": "The Verge",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "AWS nabs white hot gen AI media creation startup fal, becoming its preferred cloud provider",
-        "url": "https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider",
-        "source": "VentureBeat",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
-        "url": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds",
-        "source": "VentureBeat",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
-        "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
-        "source": "VentureBeat",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI",
-        "url": "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai",
-        "source": "VentureBeat",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Enterprise AI agents keep failing because they forget what they learned",
-        "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
-        "source": "VentureBeat",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension as supply chain worm hits Microsoft’s Python SDK",
-        "url": "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk",
-        "source": "VentureBeat",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
-        "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control",
-        "source": "VentureBeat",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
-        "url": "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain",
-        "source": "VentureBeat",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds",
-        "url": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
-        "source": "Wired",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "I Gave My OpenClaw Agent a Physical Body",
-        "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
-        "source": "Wired",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
-        "url": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
-        "source": "Wired",
-        "date": "2026-05-20"
-      },
-      {
-        "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
-        "url": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
-        "source": "Wired",
-        "date": "2026-05-20"
       }
     ]
   }
