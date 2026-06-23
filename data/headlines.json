@@ -1,7 +1,72 @@
 [
   {
+    "date": "2026-06-23",
+    "articles": [
+      {
+        "title": "Medicare's AI push snarls patients and doctors in errors and delays",
+        "url": "https://www.cbsnews.com/news/medicare-ai-program-wiser-prior-authorization-errors-delays/",
+        "source": "CBS News",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "AI groups spend $20 million going head-to-head in New York race pitting Bores, Lasher, Schlossberg",
+        "url": "https://www.cnbc.com/2026/06/23/ai-groups-spend-20-million-in-new-york-race-pitting-bores-lasher-schlossberg.html",
+        "source": "CNBC",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants",
+        "url": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
+        "source": "CNBC",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "SpaceX drops more than 3% following $400 billion selloff",
+        "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
+        "source": "CNBC",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+        "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "OpenAI launches new initiative to help find and patch open source bugs",
+        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "source": "TechCrunch",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+        "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "source": "TechCrunch",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  {
     "date": "2026-06-22",
     "articles": [
+      {
+        "title": "How Anthropic may have talked itself into an AI export ban",
+        "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+        "source": "Ars Technica",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits",
+        "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+        "source": "CNBC",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
+        "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+        "source": "CNBC",
+        "date": "2026-06-22"
+      },
       {
         "title": "Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals",
         "url": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html",
@@ -9,9 +74,123 @@
         "date": "2026-06-22"
       },
       {
+        "title": "These 2 stocks could be big winners from the next generation of AI chips",
+        "url": "https://www.cnbc.com/2026/06/22/these-2-stocks-could-be-big-winners-from-the-next-generation-of-ai-chips.html",
+        "source": "CNBC",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Three things to watch amid Anthropic’s latest feud with the government",
+        "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-22"
+      },
+      {
         "title": "An AI proxy war could reshape Congress — before Congress reshapes AI",
         "url": "https://www.npr.org/2026/06/22/nx-s1-5856359/ai-anthropic-congress-spending-openai-midterms-election",
         "source": "NPR",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+        "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+        "source": "TechCrunch",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Amazon is testing Alexa+ in India with Hindi support",
+        "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+        "source": "TechCrunch",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Anthropic says Claude may want to see your ID",
+        "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+        "source": "TechCrunch",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+        "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+        "source": "TechCrunch",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+        "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+        "source": "TechCrunch",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+        "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+        "source": "TechCrunch",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "The AI world is getting ‘loopy’",
+        "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+        "source": "TechCrunch",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "AI is cursing renters with the promise of impossible homes",
+        "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+        "source": "The Verge",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Google invests in A24 to build AI movie tools",
+        "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+        "source": "The Verge",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+        "source": "The Verge",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "AI hit the memory wall — now it needs a new context tier",
+        "url": "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier",
+        "source": "VentureBeat",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
+        "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+        "source": "VentureBeat",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+        "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+        "source": "VentureBeat",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
+        "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
+        "source": "VentureBeat",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Why agentic enterprises need to become learning systems",
+        "url": "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
+        "source": "VentureBeat",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+        "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+        "source": "Wired",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+        "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+        "source": "Wired",
         "date": "2026-06-22"
       },
       {
@@ -57,6 +236,12 @@
       {
         "title": "Why an AI company cleaned my New York City apartment for free",
         "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "Why an AI company cleaned my New York City apartment for free",
+        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-06-20"
       },
@@ -116,6 +301,12 @@
       {
         "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
         "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
+        "url": "https://www.bbc.co.uk/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-06-19"
       },
@@ -408,6 +599,12 @@
       {
         "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
         "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+        "url": "https://www.bbc.co.uk/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-06-17"
       },
@@ -4604,35 +4801,6 @@
         "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
         "source": "VentureBeat",
         "date": "2026-05-24"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-23",
-    "articles": [
-      {
-        "title": "Elon Musk has given up on solar power (on Earth)",
-        "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-        "source": "TechCrunch",
-        "date": "2026-05-23"
-      },
-      {
-        "title": "Ferrari is using IBM’s AI to create F1 superfans",
-        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-        "source": "TechCrunch",
-        "date": "2026-05-23"
-      },
-      {
-        "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
-        "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
-        "source": "TechCrunch",
-        "date": "2026-05-23"
-      },
-      {
-        "title": "Google’s new anything-to-anything AI model is wild",
-        "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-        "source": "The Verge",
-        "date": "2026-05-23"
       }
     ]
   }
