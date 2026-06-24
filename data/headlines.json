@@ -1,7 +1,48 @@
 [
   {
+    "date": "2026-06-24",
+    "articles": [
+      {
+        "title": "Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates",
+        "url": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
+        "source": "CNBC",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "How to invest when everything is moving too fast",
+        "url": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      }
+    ]
+  },
+  {
     "date": "2026-06-23",
     "articles": [
+      {
+        "title": "How to burst the AI bubble: Strike at its roots",
+        "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+        "source": "Ars Technica",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+        "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+        "source": "Ars Technica",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Meta halts worker tracking for AI training due to privacy fears",
+        "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "AI on pace to bypass cybersecurity systems soon, \"Five Eyes\" spy partners warn",
+        "url": "https://www.cbsnews.com/news/ai-bypass-cybersecurity-systems-months-not-years-five-eyes/",
+        "source": "CBS News",
+        "date": "2026-06-23"
+      },
       {
         "title": "Medicare's AI push snarls patients and doctors in errors and delays",
         "url": "https://www.cbsnews.com/news/medicare-ai-program-wiser-prior-authorization-errors-delays/",
@@ -9,8 +50,38 @@
         "date": "2026-06-23"
       },
       {
+        "title": "Tech stocks tumble for a second day. Here's what's behind the selloff.",
+        "url": "https://www.cbsnews.com/news/tech-stock-selloff-ai-profits-nasdaq-nvidia-alphabet-spacex/",
+        "source": "CBS News",
+        "date": "2026-06-23"
+      },
+      {
         "title": "AI groups spend $20 million going head-to-head in New York race pitting Bores, Lasher, Schlossberg",
         "url": "https://www.cnbc.com/2026/06/23/ai-groups-spend-20-million-in-new-york-race-pitting-bores-lasher-schlossberg.html",
+        "source": "CNBC",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "AI memory startup focused on cutting token costs raises $98 million",
+        "url": "https://www.cnbc.com/2026/06/23/ai-memory-startup-focused-on-cutting-token-costs-raises-98-million.html",
+        "source": "CNBC",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "An off-grid power project gets a major proof of concept. What it means for GE Vernova",
+        "url": "https://www.cnbc.com/2026/06/23/an-off-grid-power-project-gets-a-major-proof-of-concept-what-it-means-for-ge-vernova.html",
+        "source": "CNBC",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO",
+        "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
+        "source": "CNBC",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Google’s online dominance is showing signs of cracking in AI era",
+        "url": "https://www.cnbc.com/2026/06/23/googles-online-dominance-is-showing-signs-of-cracking-in-ai-era.html",
         "source": "CNBC",
         "date": "2026-06-23"
       },
@@ -33,8 +104,50 @@
         "date": "2026-06-23"
       },
       {
+        "title": "Sharing a love for calculus",
+        "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Is AI 'one big bubble'? Behind the tech sell-off",
+        "url": "https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq",
+        "source": "NPR",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+        "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+        "source": "TechCrunch",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+        "source": "TechCrunch",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+        "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+        "source": "TechCrunch",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+        "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+        "source": "TechCrunch",
+        "date": "2026-06-23"
+      },
+      {
         "title": "OpenAI launches new initiative to help find and patch open source bugs",
         "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "source": "TechCrunch",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Superhuman acquires AI detection startup GPTZero",
+        "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
         "source": "TechCrunch",
         "date": "2026-06-23"
       },
@@ -42,6 +155,36 @@
         "title": "The running list: major tech layoffs in 2026 where employers cited AI",
         "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
         "source": "TechCrunch",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Hollywood is bending the knee to OpenAI",
+        "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+        "source": "The Verge",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "A proof of concept forgives a fragile data path. Operational AI does not.",
+        "url": "https://venturebeat.com/orchestration/a-proof-of-concept-forgives-a-fragile-data-path-operational-ai-does-not",
+        "source": "VentureBeat",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
+        "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
+        "source": "VentureBeat",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
+        "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+        "source": "VentureBeat",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "The Best Movies to Stream This Month (June 2026)",
+        "url": "https://www.wired.com/story/the-12-best-movies-to-stream-right-now/",
+        "source": "Wired",
         "date": "2026-06-23"
       }
     ]
@@ -4766,41 +4909,6 @@
         "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
         "source": "Wired",
         "date": "2026-05-25"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-24",
-    "articles": [
-      {
-        "title": "Humanoid robots work nonstop in package test",
-        "url": "https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test",
-        "source": "Fox News",
-        "date": "2026-05-24"
-      },
-      {
-        "title": "Everyone is navigating AI security in real time — even Google",
-        "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-        "source": "TechCrunch",
-        "date": "2026-05-24"
-      },
-      {
-        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-        "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-        "source": "TechCrunch",
-        "date": "2026-05-24"
-      },
-      {
-        "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-        "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-        "source": "The Verge",
-        "date": "2026-05-24"
-      },
-      {
-        "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
-        "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
-        "source": "VentureBeat",
-        "date": "2026-05-24"
       }
     ]
   }
