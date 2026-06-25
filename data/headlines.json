@@ -1,7 +1,66 @@
 [
   {
+    "date": "2026-06-25",
+    "articles": [
+      {
+        "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next",
+        "url": "https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html",
+        "source": "CNBC",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Despite AI bubble fears, memory chip makers work to fill insatiable demand",
+        "url": "https://www.npr.org/2026/06/25/nx-s1-5869540/despite-ai-bubble-fears-memory-chip-makers-work-to-fill-insatiable-demand",
+        "source": "NPR",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+        "source": "The Verge",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
+        "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+        "source": "Wired",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
     "date": "2026-06-24",
     "articles": [
+      {
+        "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+        "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+        "source": "Ars Technica",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
+        "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+        "source": "CNBC",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Broadcom stock needs a win. The new OpenAI co-designed Jalapeno chip might do the trick",
+        "url": "https://www.cnbc.com/2026/06/24/broadcom-stock-needs-a-win-the-new-openai-co-designed-jalapeno-chip-might-do-the-trick.html",
+        "source": "CNBC",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
+        "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
+        "source": "CNBC",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Dow inclusion is not a reason to buy Alphabet. But these other reasons may be",
+        "url": "https://www.cnbc.com/2026/06/24/dow-inclusion-is-not-a-reason-to-buy-alphabet-but-these-other-reasons-may-be.html",
+        "source": "CNBC",
+        "date": "2026-06-24"
+      },
       {
         "title": "Morgan Stanley doubles China humanoid robot shipment forecast as commercialization accelerates",
         "url": "https://www.cnbc.com/2026/06/24/morgan-stanley-china-humanoid-robot-market-forecast.html",
@@ -9,9 +68,177 @@
         "date": "2026-06-24"
       },
       {
+        "title": "Nvidia's Huang calls black market data centers made of smuggled parts a 'dead end'",
+        "url": "https://www.cnbc.com/2026/06/24/nvidia-huang-data-center-smuggled-chips.html",
+        "source": "CNBC",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
+        "url": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
+        "source": "CNBC",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center build-out",
+        "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
+        "source": "CNBC",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+        "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Meta plans to release AI-powered prediction market app, documents show",
+        "url": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
+        "source": "NPR",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "AI researchers continue to leave Google for its rivals",
+        "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+        "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+        "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+        "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+        "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Deezer says its new feature lets fans remix songs with artist consent",
+        "url": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Facebook rolls out an AI companion app for creators",
+        "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Figma adds code layers, support for animations, more AI features in new update",
+        "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
         "title": "How to invest when everything is moving too fast",
         "url": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
         "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "source": "TechCrunch",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Congresswoman denies staff used AI to write defense funding amendment",
+        "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+        "source": "The Verge",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks",
+        "url": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
+        "source": "VentureBeat",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Amazon will present its framework for engineering trustworthy AI agents at VB Transform 2026",
+        "url": "https://venturebeat.com/orchestration/amazon-will-present-its-framework-for-engineering-trustworthy-ai-agents-at-vb-transform-2026",
+        "source": "VentureBeat",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "How Shopify built an AI stack that doesn't care which models survive",
+        "url": "https://venturebeat.com/orchestration/how-shopify-built-an-ai-stack-that-doesnt-care-which-models-survive",
+        "source": "VentureBeat",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
+        "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
+        "source": "VentureBeat",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026",
+        "url": "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026",
+        "source": "VentureBeat",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task — and smaller models gain the most",
+        "url": "https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most",
+        "source": "VentureBeat",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
+        "url": "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel",
+        "source": "VentureBeat",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "A24 Knows You’re Mad About the Google AI Collab",
+        "url": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+        "source": "Wired",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
+        "url": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+        "source": "Wired",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+        "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+        "source": "Wired",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
+        "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+        "source": "Wired",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
+        "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+        "source": "Wired",
         "date": "2026-06-24"
       }
     ]
@@ -4844,71 +5071,6 @@
         "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
         "source": "Wired",
         "date": "2026-05-26"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-25",
-    "articles": [
-      {
-        "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-        "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-        "source": "Ars Technica",
-        "date": "2026-05-25"
-      },
-      {
-        "title": "Pope Leo calls for \"disarming\" of AI in technology-focused encyclical",
-        "url": "https://www.cbsnews.com/news/pope-leo-ai-encyclical-artificial-intelligence/",
-        "source": "CBS News",
-        "date": "2026-05-25"
-      },
-      {
-        "title": "LaGuardia Airport AI hologram answers traveler questions",
-        "url": "https://www.foxnews.com/tech/laguardia-airport-ai-hologram-answers-traveler-questions",
-        "source": "Fox News",
-        "date": "2026-05-25"
-      },
-      {
-        "title": "This big university system is embracing AI. Students and faculty aren't all on board",
-        "url": "https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university",
-        "source": "NPR",
-        "date": "2026-05-25"
-      },
-      {
-        "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-        "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
-        "source": "TechCrunch",
-        "date": "2026-05-25"
-      },
-      {
-        "title": "The pope’s AI encyclical isn’t really about AI",
-        "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-        "source": "TechCrunch",
-        "date": "2026-05-25"
-      },
-      {
-        "title": "What ClickUp’s mass layoff tells us about the future of work",
-        "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-        "source": "TechCrunch",
-        "date": "2026-05-25"
-      },
-      {
-        "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-        "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-        "source": "The Verge",
-        "date": "2026-05-25"
-      },
-      {
-        "title": "Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk",
-        "url": "https://venturebeat.com/technology/why-prompt-debt-retrieval-debt-and-evaluation-debt-are-quietly-reshaping-enterprise-ai-risk",
-        "source": "VentureBeat",
-        "date": "2026-05-25"
-      },
-      {
-        "title": "The AI Era Is Creating a Bug Hunting Arms Race",
-        "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-        "source": "Wired",
-        "date": "2026-05-25"
       }
     ]
   }
