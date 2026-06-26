@@ -1,11 +1,82 @@
 [
   {
+    "date": "2026-06-26",
+    "articles": [
+      {
+        "title": "Tumbling AI stocks signal another day of turmoil for tech companies",
+        "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
+        "source": "CNBC",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+        "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+        "source": "Wired",
+        "date": "2026-06-26"
+      }
+    ]
+  },
+  {
     "date": "2026-06-25",
     "articles": [
+      {
+        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+        "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+        "source": "Ars Technica",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+        "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+        "source": "Ars Technica",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+        "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+        "source": "Ars Technica",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Claude Code in Slack",
+        "url": "https://www.bensbites.com/p/claude-code-in-slack",
+        "source": "Ben's Bites",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Big Tech is all in on AI. Now all they need is customers.",
+        "url": "https://www.cbsnews.com/news/ai-bubble-tech-selloff-investment-consumer-business-demand/",
+        "source": "CBS News",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "How much water does AI really use?",
+        "url": "https://www.cbsnews.com/news/how-much-water-does-ai-really-use/",
+        "source": "CBS News",
+        "date": "2026-06-25"
+      },
       {
         "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next",
         "url": "https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html",
         "source": "CNBC",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
+        "url": "https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html",
+        "source": "CNBC",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Bionic hands are now teaching robots to feel",
+        "url": "https://www.foxnews.com/tech/bionic-hands-teaching-robots-feel",
+        "source": "Fox News",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Repositioning retail for the AI era",
+        "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+        "source": "MIT Technology Review",
         "date": "2026-06-25"
       },
       {
@@ -15,14 +86,110 @@
         "date": "2026-06-25"
       },
       {
+        "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+        "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+        "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+        "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Google Finance gets a dedicated app for Android",
+        "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+        "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Notion Mail shuts down amid agent takeover",
+        "url": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Rippling now wants to be your entire data stack",
+        "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "source": "TechCrunch",
+        "date": "2026-06-25"
+      },
+      {
         "title": "Facebook’s Creator Studio has been revived as an AI companion app",
         "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
         "source": "The Verge",
         "date": "2026-06-25"
       },
       {
+        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "source": "The Verge",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
+        "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
+        "source": "VentureBeat",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API",
+        "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
+        "source": "VentureBeat",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
+        "url": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/",
+        "source": "Wired",
+        "date": "2026-06-25"
+      },
+      {
         "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
         "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+        "source": "Wired",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+        "source": "Wired",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "World Cup Teams Are in a Race for AI Dominance",
+        "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
         "source": "Wired",
         "date": "2026-06-25"
       }
@@ -4904,173 +5071,6 @@
         "url": "https://www.wired.com/story/waymo-takes-its-self-driving-cars-to-virginia/",
         "source": "Wired",
         "date": "2026-05-27"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-26",
-    "articles": [
-      {
-        "title": "3D-printable humanoid legs let robotics experiments run wild",
-        "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
-        "source": "Ars Technica",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-        "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-        "source": "Ars Technica",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-        "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "source": "Ars Technica",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Tech Life",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "A reality check on the AI jobs hysteria",
-        "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-        "source": "MIT Technology Review",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "It’s time to address the looming crisis in entry-level work.",
-        "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-        "source": "MIT Technology Review",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Rethinking organizational design in the age of agentic AI",
-        "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-        "source": "MIT Technology Review",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "The Download: puncturing the AI jobs panic",
-        "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-        "source": "MIT Technology Review",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Researchers are building AI-powered robot labs. What does this mean for science?",
-        "url": "https://www.npr.org/2026/05/26/nx-s1-5823706/researchers-are-building-ai-powered-robot-labs-what-does-this-mean-for-science",
-        "source": "NPR",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-        "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-        "source": "TechCrunch",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-        "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-        "source": "TechCrunch",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "This startup is betting India’s gig economy can train the world’s robots",
-        "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-        "source": "TechCrunch",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-        "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-        "source": "TechCrunch",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Uber president says AI spending is getting ‘harder to justify’",
-        "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-        "source": "The Verge",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
-        "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
-        "source": "VentureBeat",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "The attack dominating financial services doesn't steal passwords. It resets MFA and steals the token.",
-        "url": "https://venturebeat.com/security/attack-dominating-financial-services-resets-mfa-steals-token",
-        "source": "VentureBeat",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
-        "url": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-        "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "AI Is Taking Over the Most Cursed Job in the World",
-        "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-        "url": "https://www.wired.com/story/fact-checking-ai/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Pope Leo Schooled the Tech Bros on Tolkien",
-        "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Quiz: Will AI Destroy Your Career?",
-        "url": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-        "url": "https://www.wired.com/story/ai-or-die-trying/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "To Land a Job in AI, Try Reading Kant",
-        "url": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-        "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-        "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-        "source": "Wired",
-        "date": "2026-05-26"
-      },
-      {
-        "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-        "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
-        "source": "Wired",
-        "date": "2026-05-26"
       }
     ]
   }
