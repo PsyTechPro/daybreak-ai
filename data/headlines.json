@@ -1,7 +1,102 @@
 [
   {
+    "date": "2026-06-27",
+    "articles": [
+      {
+        "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies",
+        "url": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+        "source": "CNBC",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "source": "TechCrunch",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "Anthropic&#8217;s Mythos 5 is back",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+        "source": "The Verge",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+        "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+        "source": "Wired",
+        "date": "2026-06-27"
+      }
+    ]
+  },
+  {
     "date": "2026-06-26",
     "articles": [
+      {
+        "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+        "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+        "source": "Ars Technica",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Big Tech is spending trillions on AI. Investors want proof it'll pay off.",
+        "url": "https://www.cbsnews.com/news/ai-bubble-tech-selloff-investment-consumer-business-demand/",
+        "source": "CBS News",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Gadget prices have fallen for decades. Then AI happened.",
+        "url": "https://www.cbsnews.com/news/ai-boom-chip-shortage-gadget-prices-apple-microsoft/",
+        "source": "CBS News",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
+        "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
+        "source": "CNBC",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will?",
+        "url": "https://www.cnbc.com/2026/06/26/metas-flurry-of-ai-initiatives-this-month-hasnt-helped-lift-the-stock-what-will.html",
+        "source": "CNBC",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "ON Semiconductor records worst day since 2020 as CEO defends Synaptics deal",
+        "url": "https://www.cnbc.com/2026/06/26/on-semi-stock-synaptics-ceo-hassane-el-khoury.html",
+        "source": "CNBC",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
+        "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+        "source": "CNBC",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
+        "url": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
+        "source": "CNBC",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+        "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
+        "source": "CNBC",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+        "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+        "source": "CNBC",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
+        "url": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
+        "source": "CNBC",
+        "date": "2026-06-26"
+      },
       {
         "title": "Tumbling AI stocks signal another day of turmoil for tech companies",
         "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
@@ -9,8 +104,98 @@
         "date": "2026-06-26"
       },
       {
+        "title": "Fox News AI Newsletter: Waymo's robotaxi recall",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-waymos-robotaxi-recall",
+        "source": "Fox News",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "World Cup ticket scams target desperate fans",
+        "url": "https://www.foxnews.com/tech/world-cup-ticket-scams-target-desperate-fans",
+        "source": "Fox News",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+        "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "It’s not about Anthropic vs. OpenAI anymore",
+        "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+        "source": "TechCrunch",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+        "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+        "source": "TechCrunch",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+        "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+        "source": "TechCrunch",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
+        "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+        "source": "TechCrunch",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+        "source": "TechCrunch",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
+        "url": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
+        "source": "VentureBeat",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Most companies think they're building a software factory. They're actually just shipping bugs faster.",
+        "url": "https://venturebeat.com/orchestration/most-companies-think-theyre-building-a-software-factory-theyre-actually-just-shipping-bugs-faster",
+        "source": "VentureBeat",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.",
+        "url": "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m",
+        "source": "VentureBeat",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
+        "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+        "source": "VentureBeat",
+        "date": "2026-06-26"
+      },
+      {
         "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
         "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+        "source": "Wired",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "Europe Is Fed Up and Wants Its Own AI",
+        "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+        "source": "Wired",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
+        "url": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
+        "source": "Wired",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+        "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
         "source": "Wired",
         "date": "2026-06-26"
       }
@@ -4940,137 +5125,6 @@
         "url": "https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/",
         "source": "Wired",
         "date": "2026-05-28"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-27",
-    "articles": [
-      {
-        "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
-        "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-        "source": "Ars Technica",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
-        "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-        "source": "Ars Technica",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "YouTube to begin automatically labeling AI videos",
-        "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-        "source": "Ars Technica",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
-        "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "YouTube taking steps to make clear when realistic videos are made by AI",
-        "url": "https://www.cbsnews.com/news/youtube-tag-ai-generated-video-content/",
-        "source": "CBS News",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "The Download: keeping up with AI, and the future of IVF",
-        "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-        "source": "MIT Technology Review",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "He filmed himself doing household tasks — for AI robots",
-        "url": "https://www.npr.org/2026/05/27/nx-s1-5835190/he-filmed-himself-doing-household-tasks-for-ai-robots",
-        "source": "NPR",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-        "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "China is increasingly keeping its best AI talent to itself",
-        "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
-        "source": "TechCrunch",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Google just broke SEO. Here’s what replaces it.",
-        "url": "https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/",
-        "source": "TechCrunch",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-        "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-        "source": "TechCrunch",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-        "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-        "source": "TechCrunch",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-        "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-        "source": "TechCrunch",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
-        "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
-        "source": "TechCrunch",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Did the Pope use AI to write about the dangers of AI?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-        "source": "The Verge",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Facebook launches a ‘Plus’ subscription that gives you extra features",
-        "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
-        "source": "The Verge",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "DataGrail report finds your vendor may be sending data to AI models you never approved",
-        "url": "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved",
-        "source": "VentureBeat",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Merck and Mastercard are seeing real agentic AI results. Both say the plumbing came first.",
-        "url": "https://venturebeat.com/infrastructure/merck-and-mastercard-are-seeing-real-agentic-ai-results-both-say-the-plumbing-came-first",
-        "source": "VentureBeat",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost",
-        "url": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost",
-        "source": "VentureBeat",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-        "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
-        "source": "Wired",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "Waymo Takes Its Self-Driving Cars to Virginia",
-        "url": "https://www.wired.com/story/waymo-takes-its-self-driving-cars-to-virginia/",
-        "source": "Wired",
-        "date": "2026-05-27"
       }
     ]
   }
