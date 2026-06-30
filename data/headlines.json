@@ -1,7 +1,66 @@
 [
   {
+    "date": "2026-06-30",
+    "articles": [
+      {
+        "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions",
+        "url": "https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html",
+        "source": "CNBC",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Mag 7 value shrinks by $2.3 trillion amid AI spending jitters — but investors are still backing chipmakers",
+        "url": "https://www.cnbc.com/2026/06/30/magnificent-7-stocks-sell-off-investors-grow-jittery-on-ai-spending.html",
+        "source": "CNBC",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+        "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+        "source": "TechCrunch",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "The AI jobs debate just got messier",
+        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+        "source": "TechCrunch",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+        "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+        "source": "TechCrunch",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips",
+        "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+        "source": "VentureBeat",
+        "date": "2026-06-30"
+      }
+    ]
+  },
+  {
     "date": "2026-06-29",
     "articles": [
+      {
+        "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+        "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+        "source": "Ars Technica",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+        "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+        "source": "Ars Technica",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Ford rehires human engineers after AI fails to match quality checks",
+        "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-06-29"
+      },
       {
         "title": "Baidu shares jump 7% as AI chip arm Kunlunxin said to target $50 billion Hong Kong IPO",
         "url": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
@@ -21,9 +80,123 @@
         "date": "2026-06-29"
       },
       {
+        "title": "Waymo and Uber end robotaxi pilot in Phoenix",
+        "url": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html",
+        "source": "CNBC",
+        "date": "2026-06-29"
+      },
+      {
         "title": "AI may spot deadly heart risk in a routine ECG",
         "url": "https://www.foxnews.com/tech/ai-may-spot-deadly-heart-risk-routine-ecg",
         "source": "Fox News",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "AI agents are not your “coworkers”",
+        "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Agent confidence on the technical frontier",
+        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "The Download: metric weaknesses and AI elephant warnings",
+        "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+        "source": "MIT Technology Review",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+        "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+        "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Gemini’s personalized AI image generation is now free for US users",
+        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Omen AI’s plan to optimize data centers is all wet",
+        "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
+        "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+        "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "TIDAL cracks down on AI music by cutting off monetization",
+        "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Waymo and Uber quietly part ways in Phoenix",
+        "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+        "source": "TechCrunch",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "OpenAI is teasing new hardware… for Codex",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+        "source": "The Verge",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+        "source": "The Verge",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
+        "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+        "source": "VentureBeat",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
+        "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
+        "source": "VentureBeat",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+        "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+        "source": "Wired",
         "date": "2026-06-29"
       },
       {
@@ -4856,65 +5029,6 @@
         "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
         "source": "Wired",
         "date": "2026-05-31"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-30",
-    "articles": [
-      {
-        "title": "Meta has struggled at selling anything other than ads. Will AI be different?",
-        "url": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
-        "source": "CNBC",
-        "date": "2026-05-30"
-      },
-      {
-        "title": "Tokens or humans? The new corporate trade-off",
-        "url": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
-        "source": "CNBC",
-        "date": "2026-05-30"
-      },
-      {
-        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-        "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-        "source": "TechCrunch",
-        "date": "2026-05-30"
-      },
-      {
-        "title": "Meta is reportedly developing an AI pendant",
-        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-        "source": "TechCrunch",
-        "date": "2026-05-30"
-      },
-      {
-        "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
-        "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-        "source": "TechCrunch",
-        "date": "2026-05-30"
-      },
-      {
-        "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-        "source": "TechCrunch",
-        "date": "2026-05-30"
-      },
-      {
-        "title": "AI grifters are creating fake Black people to sell Shein junk",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-        "source": "The Verge",
-        "date": "2026-05-30"
-      },
-      {
-        "title": "How one founder’s bet on ‘the old school web’ is paying off",
-        "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-        "source": "The Verge",
-        "date": "2026-05-30"
-      },
-      {
-        "title": "Do You Actually Need to Pay for Transcription Software?",
-        "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
-        "source": "Wired",
-        "date": "2026-05-30"
       }
     ]
   }
