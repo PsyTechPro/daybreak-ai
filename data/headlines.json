@@ -1,10 +1,39 @@
 [
   {
+    "date": "2026-07-04",
+    "articles": [
+      {
+        "title": "Macron and Modi turn on personal charm offensives as France and India race to secure AI investment",
+        "url": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+        "source": "CNBC",
+        "date": "2026-07-04"
+      }
+    ]
+  },
+  {
     "date": "2026-07-03",
     "articles": [
       {
+        "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+        "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-03"
+      },
+      {
         "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
         "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+        "source": "CNBC",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
+        "url": "https://www.cnbc.com/2026/07/03/the-tech-download-amazon-devices-chief-panos-panay.html",
+        "source": "CNBC",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "The hunt for AI's next winners defined the stock market's holiday-shortened week",
+        "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
         "source": "CNBC",
         "date": "2026-07-03"
       },
@@ -15,9 +44,45 @@
         "date": "2026-07-03"
       },
       {
+        "title": "The only AI glossary you’ll need this year",
+        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "source": "TechCrunch",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "Anthropic wants to develop its own drugs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+        "source": "The Verge",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "The Verge’s annual summer ‘in’ and ‘out’ list",
+        "url": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
+        "source": "The Verge",
+        "date": "2026-07-03"
+      },
+      {
         "title": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
         "url": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
         "source": "VentureBeat",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+        "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+        "source": "VentureBeat",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
+        "url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
+        "source": "Wired",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+        "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+        "source": "Wired",
         "date": "2026-07-03"
       }
     ]
@@ -4808,257 +4873,6 @@
         "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
         "source": "Wired",
         "date": "2026-06-04"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "articles": [
-      {
-        "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-        "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-        "source": "Ars Technica",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Inside Meta's attempts to play catch-up with AI",
-        "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
-        "source": "Ars Technica",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
-        "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-        "source": "Ars Technica",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Publishers in UK can opt out of Google AI search results",
-        "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Big Tech's AI ambitions pose a major power test for Europe",
-        "url": "https://www.cnbc.com/2026/06/03/big-techs-ai-power-test-europe-softbank-france.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year",
-        "url": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "CrowdStrike narrowly beats estimates on AI tailwinds, but stock falls 10%",
-        "url": "https://www.cnbc.com/2026/06/03/crowdstrike-crwd-q1-2027-earnings.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "France's Macron invites Sam Altman to attend G7, OpenAI tells CNBC",
-        "url": "https://www.cnbc.com/2026/06/03/openai-sam-altman-g7-macron-france-big-tech.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Hidden beneath AI chips, Chinese-made circuit boards raise national security concerns in U.S.",
-        "url": "https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Jim Cramer warns excess supply could be the next biggest threat to the bull market",
-        "url": "https://www.cnbc.com/2026/06/03/jim-cramer-warns-excess-supply-could-be-the-next-biggest-threat-to-the-bull-market.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Meta is trying to sell AI agents to businesses in latest effort to diversify away from ads",
-        "url": "https://www.cnbc.com/2026/06/03/meta-business-agent-is-zuckerberg-latest-effort-to-diversify-from-ads.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
-        "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents",
-        "url": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "OpenAI CEO Sam Altman meets with lawmakers, Trump officials in DC",
-        "url": "https://www.cnbc.com/2026/06/03/open-ai-altman-congress-trump-eo.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Perplexity CEO tells CNBC one metric will determine who wins the AI race",
-        "url": "https://www.cnbc.com/2026/06/03/perplexity-ceo-ai-valuations-computer-agentic.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "SpaceX is worth less than half of its $1.75 trillion IPO target, Morningstar says",
-        "url": "https://www.cnbc.com/2026/06/03/morningstar-spacex-ipo-target-price-nasdaq.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "The Dow's win streak, Macy's earnings, Trump signs AI order and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/06/03/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Uber slashes people division by nearly a quarter. CEO says 'changes are necessary'",
-        "url": "https://www.cnbc.com/2026/06/03/uber-layoffs-people-division-ai.html",
-        "source": "CNBC",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-        "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Trump signs order requesting AI companies submit products for government review",
-        "url": "https://www.npr.org/2026/06/03/nx-s1-5844558/trump-signs-order-requesting-ai-companies-submit-products-for-government-review",
-        "source": "NPR",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-        "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-        "source": "TechCrunch",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Amazon will show AI product images when you search for some reason",
-        "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-        "source": "TechCrunch",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
-        "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
-        "source": "TechCrunch",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-        "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-        "source": "TechCrunch",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
-        "url": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
-        "source": "TechCrunch",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-        "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-        "source": "TechCrunch",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-        "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-        "source": "TechCrunch",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
-        "url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
-        "source": "TechCrunch",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-        "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-        "source": "TechCrunch",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "AI has a water problem. Google thinks it has a fix",
-        "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-        "source": "The Verge",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
-        "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-        "source": "The Verge",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "As AI gets better, it reveals an empty promise",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-        "source": "The Verge",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Google must let publishers opt out of AI Search features, rules UK",
-        "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-        "source": "The Verge",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Enterprise AI agents keep creating data silos. Microsoft's Build answer is Microsoft IQ and Rayfin.",
-        "url": "https://venturebeat.com/data/enterprise-ai-agents-keep-creating-data-silos-microsofts-build-answer-is-microsoft-iq-and-rayfin",
-        "source": "VentureBeat",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Google's new open source Gemma 4 12B analyzes audio, video — and runs entirely locally on a typical 16GB enterprise laptop",
-        "url": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop",
-        "source": "VentureBeat",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
-        "url": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
-        "source": "Wired",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
-        "url": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
-        "source": "Wired",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-        "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-        "source": "Wired",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "This Is How Trump Finally Signed the AI Executive Order",
-        "url": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
-        "source": "Wired",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
-        "url": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
-        "source": "Wired",
-        "date": "2026-06-03"
-      },
-      {
-        "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-        "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-        "source": "Wired",
-        "date": "2026-06-03"
       }
     ]
   }
