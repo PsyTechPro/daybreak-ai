@@ -1,10 +1,63 @@
 [
   {
-    "date": "2026-07-06",
+    "date": "2026-07-07",
     "articles": [
       {
         "title": "Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta",
         "url": "https://www.cnbc.com/2026/07/06/apple-veteran-takes-on-meta-with-1-billion-smart-glasses-maker.html",
+        "source": "CNBC",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+        "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+        "source": "CNBC",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "British Space Startup Launches Longevity Lab Into Orbit",
+        "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+        "source": "Wired",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+        "url": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
+        "source": "Wired",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-06",
+    "articles": [
+      {
+        "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+        "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+        "source": "Ars Technica",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+        "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+        "source": "Ars Technica",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Robots available for rent: But what can they do?",
+        "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta",
+        "url": "https://www.cnbc.com/2026/07/06/apple-veteran-takes-on-meta-with-1-billion-smart-glasses-maker.html",
+        "source": "CNBC",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
+        "url": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
         "source": "CNBC",
         "date": "2026-07-06"
       },
@@ -15,9 +68,87 @@
         "date": "2026-07-06"
       },
       {
+        "title": "Trump exclusive, prediction market activity soars, AI Alexander Hamilton and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/07/06/5-things-to-know-before-the-stock-market-opens.html",
+        "source": "CNBC",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Your family’s $300 stake in OpenAI",
+        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Every major tech layoff in 2026 that has name-checked AI",
+        "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "source": "TechCrunch",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+        "source": "TechCrunch",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+        "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+        "source": "TechCrunch",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+        "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+        "source": "TechCrunch",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+        "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+        "source": "TechCrunch",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "The ‘first’ AI-run ransomware attack still needed a human",
+        "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+        "source": "TechCrunch",
+        "date": "2026-07-06"
+      },
+      {
         "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
         "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
         "source": "TechCrunch",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+        "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+        "source": "TechCrunch",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+        "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+        "source": "TechCrunch",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
+        "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
+        "source": "VentureBeat",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding",
+        "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+        "source": "VentureBeat",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "What billions of AI predictions taught Expedia before the age of AI agents",
+        "url": "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents",
+        "source": "VentureBeat",
         "date": "2026-07-06"
       }
     ]
@@ -4502,53 +4633,6 @@
         "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
         "source": "VentureBeat",
         "date": "2026-06-07"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-06",
-    "articles": [
-      {
-        "title": "Fox News AI Newsletter: Sanders bill would seize 50% of stock in OpenAI, Anthropic for sovereign wealth fund",
-        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-sanders-bill-would-seize-50-stock-openai-anthropic-sovereign-wealth-fund",
-        "source": "Fox News",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-        "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-        "source": "TechCrunch",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-        "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-        "source": "TechCrunch",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "The Trump administration might take an equity stake in OpenAI",
-        "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-        "source": "TechCrunch",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "Meta made its own AI-generated clickbait news feed",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-        "source": "The Verge",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "When Claude changed, everything changed: Managing AI blast radius in production",
-        "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
-        "source": "VentureBeat",
-        "date": "2026-06-06"
-      },
-      {
-        "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
-        "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-        "source": "Wired",
-        "date": "2026-06-06"
       }
     ]
   }
