@@ -1,7 +1,66 @@
 [
   {
+    "date": "2026-07-08",
+    "articles": [
+      {
+        "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+        "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+        "source": "Ars Technica",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "China warns about AI risks with Anthropic's Claude Code",
+        "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+        "source": "CNBC",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "Lawmakers probe growing use of Chinese AI models in U.S. companies",
+        "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html",
+        "source": "CNBC",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "SambaNova hits $11 billion valuation as investors back Nvidia chip challengers",
+        "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+        "source": "CNBC",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "Samsung-backed AI chip firm Rebellions targets IPO in South Korea next year, CEO tells CNBC",
+        "url": "https://www.cnbc.com/2026/07/08/rebellions-ipo-south-korea-ai-chips.html",
+        "source": "CNBC",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+        "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+        "source": "TechCrunch",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+        "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+        "source": "TechCrunch",
+        "date": "2026-07-08"
+      }
+    ]
+  },
+  {
     "date": "2026-07-07",
     "articles": [
+      {
+        "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+        "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+        "source": "Ars Technica",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026",
+        "url": "https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html",
+        "source": "CNBC",
+        "date": "2026-07-07"
+      },
       {
         "title": "Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta",
         "url": "https://www.cnbc.com/2026/07/06/apple-veteran-takes-on-meta-with-1-billion-smart-glasses-maker.html",
@@ -15,6 +74,138 @@
         "date": "2026-07-07"
       },
       {
+        "title": "Chip stocks sell off after Samsung earnings fall short of high AI bar",
+        "url": "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html",
+        "source": "CNBC",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Cramer says 'everything still revolves around Nvidia' despite its lagging stock",
+        "url": "https://www.cnbc.com/2026/07/07/cramer-everything-still-revolves-around-nvidia-even-as-stock-lags.html",
+        "source": "CNBC",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Jim Cramer says the market's reaction to Samsung may signal a shift in AI leadership",
+        "url": "https://www.cnbc.com/2026/07/07/jim-cramer-markets-reaction-samsung-signal-shift-ai-leadership.html",
+        "source": "CNBC",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
+        "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
+        "source": "CNBC",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Why AI companies are hiring philosophers to help develop their models",
+        "url": "https://www.npr.org/2026/07/07/nx-s1-5875184/why-ai-companies-are-hiring-philosophers-to-help-develop-their-models",
+        "source": "NPR",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+        "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+        "source": "TechCrunch",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Claude Cowork expands to mobile and web",
+        "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+        "source": "TechCrunch",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+        "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+        "source": "TechCrunch",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "source": "TechCrunch",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+        "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+        "source": "TechCrunch",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+        "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+        "source": "TechCrunch",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+        "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+        "source": "TechCrunch",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "source": "TechCrunch",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Anthropic is launching Claude Cowork on mobile and web",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+        "source": "The Verge",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+        "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+        "source": "The Verge",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
+        "url": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
+        "source": "The Verge",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
+        "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
+        "source": "VentureBeat",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
+        "url": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
+        "source": "VentureBeat",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Digital-native startups are ditching rigid databases for their agentic stacks",
+        "url": "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks",
+        "source": "VentureBeat",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "The real cost, security, and culture problems behind enterprise AI agents",
+        "url": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
+        "source": "VentureBeat",
+        "date": "2026-07-07"
+      },
+      {
         "title": "British Space Startup Launches Longevity Lab Into Orbit",
         "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
         "source": "Wired",
@@ -23,6 +214,24 @@
       {
         "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
         "url": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
+        "source": "Wired",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+        "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+        "source": "Wired",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+        "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+        "source": "Wired",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+        "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
         "source": "Wired",
         "date": "2026-07-07"
       }
@@ -4592,47 +4801,6 @@
         "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
         "source": "Wired",
         "date": "2026-06-08"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "articles": [
-      {
-        "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-        "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-        "source": "Ars Technica",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "Android fake call detection warns you about scams",
-        "url": "https://www.foxnews.com/tech/android-fake-call-detection-warns-scams",
-        "source": "Fox News",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "Is this the dawn of the Tokenpocalypse?",
-        "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-        "source": "TechCrunch",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "Notion restores access to Anthropic after service disruption",
-        "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-        "source": "TechCrunch",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "OpenAI is still working on that ‘super app’",
-        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-        "source": "TechCrunch",
-        "date": "2026-06-07"
-      },
-      {
-        "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
-        "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
-        "source": "VentureBeat",
-        "date": "2026-06-07"
       }
     ]
   }
