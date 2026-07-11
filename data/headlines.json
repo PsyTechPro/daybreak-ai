@@ -1,11 +1,202 @@
 [
   {
+    "date": "2026-07-11",
+    "articles": [
+      {
+        "title": "Meta pulls new AI image feature after days of backlash",
+        "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "Apple sues OpenAI, accusing ChatGPT maker of stealing trade secrets",
+        "url": "https://www.cbsnews.com/news/apple-sues-openai-chatgpt-stealing-trade-secrets/",
+        "source": "CBS News",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+        "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+        "source": "CNBC",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "OpenAI’s Head of Safety Is Leaving the Company",
+        "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+        "source": "Wired",
+        "date": "2026-07-11"
+      }
+    ]
+  },
+  {
     "date": "2026-07-10",
     "articles": [
+      {
+        "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+        "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Elon Musk postpones first TV interview since SpaceX went public",
+        "url": "https://www.cnbc.com/2026/07/10/elon-musk-interview-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
+        "url": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
+        "source": "CNBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Meta's stock has best week since early 2024 as optimism builds around AI strategy",
+        "url": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
+        "source": "CNBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
+        "url": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html",
+        "source": "CNBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO",
+        "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
+        "source": "CNBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
+        "url": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
+        "source": "CNBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "The Tech Download: Teen social media bans miss a key part of the puzzle: AI chatbots",
+        "url": "https://www.cnbc.com/2026/07/10/tech-download-social-media-bans-ai-chatbots.html",
+        "source": "CNBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Where Jim Cramer stands on SK Hynix's massive offering",
+        "url": "https://www.cnbc.com/2026/07/09/jim-cramer-sk-hynix.html",
+        "source": "CNBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Why the stock market and economy may seem out of sync",
+        "url": "https://www.cnbc.com/2026/07/10/stock-market-and-economy-out-of-sync.html",
+        "source": "CNBC",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Fox News AI Newsletter: Microsoft cuts thousands of jobs",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-microsoft-cuts-thousands-jobs",
+        "source": "Fox News",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Would you pay $8,000 for a robot to fold laundry?",
+        "url": "https://www.foxnews.com/tech/would-you-pay-8000-robot-fold-laundry",
+        "source": "Fox News",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+        "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Apple sues OpenAI over alleged trade secret theft",
+        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+        "source": "TechCrunch",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Hugging Face’s CEO on why companies are done renting their AI",
+        "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+        "source": "TechCrunch",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Meta removes controversial AI feature on Instagram after backlash",
+        "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+        "source": "TechCrunch",
+        "date": "2026-07-10"
+      },
       {
         "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
         "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
         "source": "TechCrunch",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+        "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+        "source": "TechCrunch",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "source": "The Verge",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "source": "The Verge",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Nvidia&#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+        "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+        "source": "The Verge",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+        "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+        "source": "VentureBeat",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
+        "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
+        "source": "VentureBeat",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
+        "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
+        "source": "VentureBeat",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+        "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+        "source": "VentureBeat",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
+        "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
+        "source": "VentureBeat",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+        "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+        "source": "Wired",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+        "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+        "source": "Wired",
         "date": "2026-07-10"
       },
       {
@@ -4400,191 +4591,6 @@
         "url": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
         "source": "Wired",
         "date": "2026-06-11"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-10",
-    "articles": [
-      {
-        "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-        "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-        "source": "Ars Technica",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
-        "url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
-        "source": "Ars Technica",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-        "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-        "source": "Ars Technica",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "AI will help young workers 'mature' faster by automating grunt work, Thoma Bravo says, amid youth job crisis",
-        "url": "https://www.cnbc.com/2026/06/10/ai-youth-uneployment-automation-thoma-bravo.html",
-        "source": "CNBC",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Autonomous EV freight trucking company Einride rises sharply in first trade on Nasdaq",
-        "url": "https://www.cnbc.com/2026/06/10/einride-autonomous-freight-truck-first-trade-nasdaq-spac.html",
-        "source": "CNBC",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
-        "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
-        "source": "CNBC",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Humaniod robotics company raises up to $1.4 billion from Nvidia, Amazon and others",
-        "url": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html",
-        "source": "CNBC",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Palantir's Karp says businesses are 'unhappy' with the frontier AI labs",
-        "url": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
-        "source": "CNBC",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Super Micro stock falls 13% on $7 billion financing plans as company touts AI server orders",
-        "url": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
-        "source": "CNBC",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-        "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Everyone wants a piece of Tesla’s battery business",
-        "url": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-        "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Google just fired a warning shot in the AI subscription price wars",
-        "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "How memory tools can make AI models worse",
-        "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Meta signs first AI data center deal in India with Reliance",
-        "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Warner Music acquires AI attribution startup Sureel AI",
-        "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Why Andrew Yang is building instead of waiting for Washington",
-        "url": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Why enterprise AI will be a major focus at VivaTech 2026",
-        "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Zest launches a restaurant discovery app powered by where people actually eat",
-        "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-        "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-        "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-        "source": "TechCrunch",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Apple’s new Siri AI knows when to shut up",
-        "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-        "source": "The Verge",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "WhatsApp ordered to host rival AI assistants for free",
-        "url": "https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order",
-        "source": "The Verge",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
-        "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know",
-        "source": "VentureBeat",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "MassMutual's AI strategy: 12-month contracts, 30% productivity gains, zero lock-in",
-        "url": "https://venturebeat.com/orchestration/massmutuals-ai-strategy-12-month-contracts-30-productivity-gains-zero-lock-in",
-        "source": "VentureBeat",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Researchers say they trained a foundation model from scratch for about $1,500",
-        "url": "https://venturebeat.com/technology/researchers-say-they-trained-a-foundation-model-from-scratch-for-about-1-500",
-        "source": "VentureBeat",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark",
-        "url": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark",
-        "source": "VentureBeat",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-        "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
-        "source": "Wired",
-        "date": "2026-06-10"
-      },
-      {
-        "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
-        "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
-        "source": "Wired",
-        "date": "2026-06-10"
       }
     ]
   }
