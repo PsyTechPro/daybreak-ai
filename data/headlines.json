@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-07-12",
+    "articles": [
+      {
+        "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
+        "url": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
+        "source": "CNBC",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Reed Jobs would rather talk about curing cancer than his last name",
+        "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+        "source": "TechCrunch",
+        "date": "2026-07-12"
+      }
+    ]
+  },
+  {
     "date": "2026-07-11",
     "articles": [
       {
@@ -18,6 +35,36 @@
         "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
         "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
         "source": "CNBC",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
+        "url": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
+        "source": "CNBC",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "These underperforming trades could yield big returns over next six months",
+        "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+        "source": "CNBC",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "source": "TechCrunch",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+        "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+        "source": "VentureBeat",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
+        "url": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
+        "source": "Wired",
         "date": "2026-07-11"
       },
       {
@@ -4352,245 +4399,6 @@
         "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
         "source": "Wired",
         "date": "2026-06-12"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "articles": [
-      {
-        "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
-        "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-        "source": "Ars Technica",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "New Claude model - Fable",
-        "url": "https://www.bensbites.com/p/new-claude-model-fable",
-        "source": "Ben's Bites",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "She confided in ChatGPT the night of her suicide. Now, her mother is suing OpenAI.",
-        "url": "https://www.cbsnews.com/news/she-confided-in-chatgpt-the-night-of-her-suicide-lawsuit-from-mother-against-openai/",
-        "source": "CBS News",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "AI mega-listings are 'just the start,' Razer CEO says, ahead of historic SpaceX IPO",
-        "url": "https://www.cnbc.com/2026/06/11/ai-spacex-ipo-listings-tech-razer.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Anthropic, OpenAI, other U.S. AI giants launch major London expansions amid talent and revenue scramble",
-        "url": "https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "As OpenAI leans into enterprise business, Apple and Google set sights on the masses",
-        "url": "https://www.cnbc.com/2026/06/11/as-openai-leans-into-enterprise-apple-and-google-target-consumer-ai.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Bezos opens up about AI startup Prometheus after $12 billion raise: 'We're not being secretive'",
-        "url": "https://www.cnbc.com/2026/06/11/project-prometheus-bezos-bajaj-live-updates.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Coinbase launches tool to let AI agents manage trading and payments",
-        "url": "https://www.cnbc.com/2026/06/11/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "DoorDash lets customers use photos, prompts to order food and book reservations in latest AI push",
-        "url": "https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Ex-Andreessen Horowitz partner slams his old firm, other VCs for 'political infiltration' around AI",
-        "url": "https://www.cnbc.com/2026/06/11/ex-a16z-partner-slams-old-firm-othes-political-infiltration-in-ai.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "OpenAI mulls slashing prices as it competes with Anthropic for users: WSJ",
-        "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
-        "url": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix",
-        "url": "https://www.cnbc.com/2026/06/09/nvidia-d-matrix-chip-production-microsoft.html",
-        "source": "CNBC",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "12 biggest Apple WWDC 2026 takeaways you need to know",
-        "url": "https://www.foxnews.com/tech/12-biggest-apple-wwdc-2026-takeaways-need-know",
-        "source": "Fox News",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Grandparents are identity theft's biggest payday",
-        "url": "https://www.foxnews.com/tech/grandparents-identity-thefts-biggest-payday",
-        "source": "Fox News",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "SpaceX is poised for blastoff with an IPO likely to break records",
-        "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
-        "source": "NPR",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-        "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-        "source": "TechCrunch",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Anthropic’s Dario Amodei has just one direct report",
-        "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-        "source": "TechCrunch",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-        "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-        "source": "TechCrunch",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-        "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-        "source": "TechCrunch",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
-        "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
-        "source": "TechCrunch",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-        "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-        "source": "TechCrunch",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
-        "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
-        "source": "The Verge",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
-        "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-        "source": "The Verge",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Deezer launches an AI music detector for other streaming services",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-        "source": "The Verge",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "The bill that would let Jimmy Kimmel sue Brendan Carr is here",
-        "url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
-        "source": "The Verge",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit",
-        "url": "https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit",
-        "source": "VentureBeat",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes",
-        "url": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes",
-        "source": "VentureBeat",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
-        "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
-        "source": "VentureBeat",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "What AI benchmarks miss about real-world performance",
-        "url": "https://venturebeat.com/orchestration/what-ai-benchmarks-miss-about-real-world-performance",
-        "source": "VentureBeat",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Why AI that works in the lab often fails in production — and what actually fixes it",
-        "url": "https://venturebeat.com/orchestration/why-ai-that-works-in-the-lab-often-fails-in-production-and-what-actually-fixes-it",
-        "source": "VentureBeat",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
-        "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
-        "source": "VentureBeat",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-        "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-        "source": "Wired",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
-        "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
-        "source": "Wired",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
-        "url": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
-        "source": "Wired",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-        "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-        "source": "Wired",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "People Living Near xAI’s Dirty Data Centers Are Furious About the SpaceX IPO",
-        "url": "https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/",
-        "source": "Wired",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
-        "source": "Wired",
-        "date": "2026-06-11"
       }
     ]
   }
