@@ -1,7 +1,30 @@
 [
   {
+    "date": "2026-07-13",
+    "articles": [
+      {
+        "title": "Waze is getting a bunch of new AI-powered features",
+        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+        "source": "The Verge",
+        "date": "2026-07-13"
+      }
+    ]
+  },
+  {
     "date": "2026-07-12",
     "articles": [
+      {
+        "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+        "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+        "source": "CNBC",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
+        "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
+        "source": "CNBC",
+        "date": "2026-07-12"
+      },
       {
         "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
         "url": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
@@ -9,9 +32,57 @@
         "date": "2026-07-12"
       },
       {
+        "title": "Google may use your photos and voice to train AI",
+        "url": "https://www.foxnews.com/tech/google-may-use-your-photos-voice-train-ai",
+        "source": "Fox News",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Campaign text messages could soon get more effective — and annoying",
+        "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
+        "source": "NPR",
+        "date": "2026-07-12"
+      },
+      {
         "title": "Reed Jobs would rather talk about curing cancer than his last name",
         "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
         "source": "TechCrunch",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "TechCrunch Mobility: A robotaxi ultimatum",
+        "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+        "source": "TechCrunch",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+        "source": "The Verge",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+        "source": "The Verge",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "DeepSeek cut prices 75%. The 100x problem remains",
+        "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+        "source": "VentureBeat",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+        "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+        "source": "Wired",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
+        "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+        "source": "Wired",
         "date": "2026-07-12"
       }
     ]
@@ -4178,227 +4249,6 @@
         "url": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
         "source": "Wired",
         "date": "2026-06-13"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-12",
-    "articles": [
-      {
-        "title": "$130 billion in data center projects blocked by protests so far this year",
-        "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-        "source": "Ars Technica",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-        "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-        "source": "Ars Technica",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-        "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-        "source": "Ars Technica",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
-        "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
-        "source": "Ars Technica",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
-        "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-        "source": "Ars Technica",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-        "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-        "source": "Ars Technica",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-        "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-        "source": "Ars Technica",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-        "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-        "source": "Ars Technica",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "She confided in ChatGPT the night of her suicide. Now, her mother is suing OpenAI.",
-        "url": "https://www.cbsnews.com/news/she-confided-in-chatgpt-the-night-of-her-suicide-lawsuit-from-mother-against-openai/",
-        "source": "CBS News",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Why the liberal arts can help young Americans prepare for the era of AI",
-        "url": "https://www.cbsnews.com/news/ai-artificial-intelligence-college-major-skills/",
-        "source": "CBS News",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "ChatGPT hits a billion monthly app users despite souring public AI sentiment",
-        "url": "https://www.cnbc.com/2026/06/12/chatgpt-a-billion-monthly-app-users-despite-souring-public-ai-sentiment.html",
-        "source": "CNBC",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Jim Cramer says SpaceX’s blockbuster IPO could have major implications for the week ahead",
-        "url": "https://www.cnbc.com/2026/06/12/jim-cramer-spacex-ipo-implications-week-ahead.html",
-        "source": "CNBC",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
-        "url": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html",
-        "source": "CNBC",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "SpaceX IPO, U.S.-Iran deal, Bezos on AI and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/06/12/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "The Tech Download: Mistral's Arthur Mensch on agentic AI, chips and enterprise adoption",
-        "url": "https://www.cnbc.com/2026/06/12/tech-download-mistral-mensch-agentic-ai-chips.html",
-        "source": "CNBC",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
-        "url": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
-        "source": "CNBC",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Fox News AI Newsletter: Top 12 takeaways from Apple's new AI features",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-top-12-takeaways-apple-new-ai-features",
-        "source": "Fox News",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "SpaceX IPO makes history as largest ever. Stock gains 19% on first day",
-        "url": "https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk",
-        "source": "NPR",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-        "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-        "source": "TechCrunch",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-        "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-        "source": "TechCrunch",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-        "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-        "source": "TechCrunch",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-        "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-        "source": "TechCrunch",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-        "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-        "source": "TechCrunch",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Mistral is rumored to be raising €3B at €20B valuation",
-        "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-        "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-        "source": "TechCrunch",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-        "source": "The Verge",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Siri won’t be your AI girlfriend",
-        "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-        "source": "The Verge",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "SpaceX’s massive IPO: all the latest news",
-        "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-        "source": "The Verge",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations",
-        "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations",
-        "source": "VentureBeat",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Kimi K2.7-Code cuts thinking tokens 30% — but practitioners say the benchmarks don't check out",
-        "url": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out",
-        "source": "VentureBeat",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
-        "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
-        "source": "VentureBeat",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "PixelRAG beats text parsers on accuracy and cuts AI agent token costs 10x",
-        "url": "https://venturebeat.com/data/pixelrag-beats-text-parsers-on-accuracy-and-cuts-ai-agent-token-costs-10x",
-        "source": "VentureBeat",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
-        "url": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
-        "source": "Wired",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "China Didn’t Make Americans Hate Data Centers",
-        "url": "https://www.wired.com/story/china-us-data-center-opposition/",
-        "source": "Wired",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
-        "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
-        "source": "Wired",
-        "date": "2026-06-12"
-      },
-      {
-        "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-        "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-        "source": "Wired",
-        "date": "2026-06-12"
       }
     ]
   }
