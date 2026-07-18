@@ -1,7 +1,42 @@
 [
   {
+    "date": "2026-07-18",
+    "articles": [
+      {
+        "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
+        "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+        "source": "CNBC",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "source": "TechCrunch",
+        "date": "2026-07-18"
+      }
+    ]
+  },
+  {
     "date": "2026-07-17",
     "articles": [
+      {
+        "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+        "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Anthropic in early talks with Meta to acquire compute power",
+        "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+        "source": "CNBC",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Apple, Nvidia vie for title of world's most valuable company",
+        "url": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
+        "source": "CNBC",
+        "date": "2026-07-17"
+      },
       {
         "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
         "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
@@ -15,8 +50,26 @@
         "date": "2026-07-17"
       },
       {
+        "title": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
+        "url": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
+        "source": "CNBC",
+        "date": "2026-07-17"
+      },
+      {
         "title": "SoftBank sinks over 9% as Asia chip stocks track Wall Street AI sell-off",
         "url": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+        "source": "CNBC",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
+        "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
+        "source": "CNBC",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "U.S.-China AI feud sees ASML walk tightrope between sales and geopolitics",
+        "url": "https://www.cnbc.com/2026/07/17/us-china-ai-feud-asml-tightrope-sales-geopolitics.html",
         "source": "CNBC",
         "date": "2026-07-17"
       },
@@ -27,9 +80,117 @@
         "date": "2026-07-17"
       },
       {
+        "title": "Fox News AI Newsletter: IBM's AI warning sends 'shockwave'",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-ibm-ai-warning-sends-shockwave",
+        "source": "Fox News",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+        "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-17"
+      },
+      {
         "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
         "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
         "source": "NPR",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "AI-driven memory crunch jolts India’s smartphone market",
+        "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+        "source": "TechCrunch",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Agility Robotics plants its flag in Tesla’s backyard",
+        "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+        "source": "TechCrunch",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+        "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+        "source": "TechCrunch",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+        "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+        "source": "TechCrunch",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+        "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+        "source": "TechCrunch",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+        "source": "TechCrunch",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+        "source": "TechCrunch",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+        "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+        "source": "TechCrunch",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Apple’s plot to crush OpenAI",
+        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "source": "The Verge",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "TikTok is testing an AI likeness detection tool",
+        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+        "source": "The Verge",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
+        "url": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
+        "source": "VentureBeat",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
+        "url": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
+        "source": "VentureBeat",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+        "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
+        "source": "VentureBeat",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
+        "url": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
+        "source": "VentureBeat",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+        "url": "https://www.wired.com/story/best-smart-speakers/",
+        "source": "Wired",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+        "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+        "source": "Wired",
         "date": "2026-07-17"
       }
     ]
@@ -4298,245 +4459,6 @@
         "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
         "source": "Wired",
         "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-17",
-    "articles": [
-      {
-        "title": "\"Dangerous\" AI models are coming no matter what",
-        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "source": "Ars Technica",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-        "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-        "source": "Ars Technica",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-        "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-        "source": "Ars Technica",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
-        "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
-        "url": "https://www.bbc.co.uk/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "What to study in the AI age - from big tech bosses",
-        "url": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Want to start a business? AI can help, business owners say",
-        "url": "https://www.cbsnews.com/news/how-to-use-ai-to-start-a-business/",
-        "source": "CBS News",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7",
-        "url": "https://www.cnbc.com/2026/06/17/g7-trump-ai-tech-leaders-openai-anthropic-google.html",
-        "source": "CNBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "AI credit markets at risk of 'violent' correction and investors must stay clear-eyed, Man Group says",
-        "url": "https://www.cnbc.com/2026/06/17/ai-credit-markets-at-risk-of-violent-correction-man-group-says.html",
-        "source": "CNBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
-        "url": "https://www.cnbc.com/2026/06/17/allbirds-bird-ai-smartbird-ceo.html",
-        "source": "CNBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
-        "url": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
-        "source": "CNBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Amazon has lagged OpenAI and Anthropic, but AI chief sees path to catch up in 'coming year'",
-        "url": "https://www.cnbc.com/2026/06/17/amazon-ai-frontier-openai-anthropic.html",
-        "source": "CNBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Anthropic asked for regulation. Washington went much further",
-        "url": "https://www.cnbc.com/2026/06/17/anthropic-ai-regulation-trump.html",
-        "source": "CNBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7",
-        "url": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
-        "source": "CNBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "China pushes for AI safety as G7 summit wraps up without Beijing",
-        "url": "https://www.cnbc.com/2026/06/17/china-pushes-for-ai-safety-as-g7-summit-wraps-up-without-beijing.html",
-        "source": "CNBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "SpaceX gains 3% after surpassing Amazon in market cap",
-        "url": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
-        "source": "CNBC",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "FBI helps take down AI phishing ring",
-        "url": "https://www.foxnews.com/tech/fbi-helps-take-ai-phishing-ring",
-        "source": "Fox News",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-        "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-        "url": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-        "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Google bets on Gemini to reinvent the smart home speaker",
-        "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-        "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-        "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Uber will bring its premium robotaxi service to Houston in 2027",
-        "url": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-        "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-        "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-        "source": "TechCrunch",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Anthropic got hit by export rules nobody understands",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-        "source": "The Verge",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "The next humanoid robot might not look human at all",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-        "source": "The Verge",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Two-thirds of Americans think AI is advancing too quickly",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-        "source": "The Verge",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-        "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-        "source": "The Verge",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
-        "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
-        "source": "VentureBeat",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
-        "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
-        "source": "VentureBeat",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
-        "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
-        "source": "VentureBeat",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-        "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-        "source": "Wired",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
-        "url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
-        "source": "Wired",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-        "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-        "source": "Wired",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
-        "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
-        "source": "Wired",
-        "date": "2026-06-17"
       }
     ]
   }
