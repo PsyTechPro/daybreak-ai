@@ -3,15 +3,63 @@
     "date": "2026-07-18",
     "articles": [
       {
+        "title": "Will AI fix prior authorization—or make it worse?",
+        "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+        "source": "Ars Technica",
+        "date": "2026-07-18"
+      },
+      {
         "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
         "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
         "source": "CNBC",
         "date": "2026-07-18"
       },
       {
+        "title": "The AI rotation stole the spotlight from a strong start to earnings season",
+        "url": "https://www.cnbc.com/2026/07/18/the-ai-rotation-stole-the-spotlight-from-a-strong-start-to-earnings-season-.html",
+        "source": "CNBC",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "HalluSquatting AI attack could hijack your computer",
+        "url": "https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer",
+        "source": "Fox News",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "Kimi: Threat or menace?",
+        "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+        "source": "TechCrunch",
+        "date": "2026-07-18"
+      },
+      {
         "title": "Neil Rimer thinks the AI money is coming back out",
         "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
         "source": "TechCrunch",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+        "source": "The Verge",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+        "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+        "source": "Wired",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+        "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+        "source": "Wired",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "Your Period Tracker Is (Probably) Spying on You",
+        "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+        "source": "Wired",
         "date": "2026-07-18"
       }
     ]
@@ -4286,179 +4334,6 @@
         "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
         "source": "Wired",
         "date": "2026-06-19"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-18",
-    "articles": [
-      {
-        "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-        "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-        "source": "Ars Technica",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "The first big exit in AI",
-        "url": "https://www.bensbites.com/p/the-first-big-exit-in-ai",
-        "source": "Ben's Bites",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Amazon investigating engineers who criticized AI data center expansion",
-        "url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
-        "source": "CNBC",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "California’s counting on an IPO tax windfall. Several factors are complicating the equation",
-        "url": "https://www.cnbc.com/2026/06/18/california-ipo-tax-windfall.html",
-        "source": "CNBC",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Godfather of AI blasts Musk's xAI as 'failure,' says labs are risking a 'big bubble explosion'",
-        "url": "https://www.cnbc.com/2026/06/18/yann-lecun-elon-musk-xai-failure-ai-labs-bubble-risk.html",
-        "source": "CNBC",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Google Gemini co-lead Noam Shazeer leaves for OpenAI",
-        "url": "https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html",
-        "source": "CNBC",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Jim Cramer says this chipmaker is still a buy after soaring more than 200% this year",
-        "url": "https://www.cnbc.com/2026/06/17/jim-cramer-intel.html",
-        "source": "CNBC",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "McDonald’s AI drive-thru may take your next order",
-        "url": "https://www.foxnews.com/tech/mcdonalds-ai-drive-thru-may-take-next-order",
-        "source": "Fox News",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-        "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "AI data centers just got a government-mandated fast lane to the grid",
-        "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-        "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-        "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-        "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "General Intuition in talks to raise $300M at around $2B valuation",
-        "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "How to turn off AI in your Google Docs",
-        "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-        "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
-        "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-        "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-        "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-        "source": "TechCrunch",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-        "source": "The Verge",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "This robotic self-driving toilet comes to you",
-        "url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
-        "source": "The Verge",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
-        "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
-        "source": "VentureBeat",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
-        "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
-        "source": "VentureBeat",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
-        "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
-        "source": "VentureBeat",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
-        "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
-        "source": "VentureBeat",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
-        "source": "Wired",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "Samsung The Frame Pro 2026 Review: Pricey But Worth It",
-        "url": "https://www.wired.com/review/samsung-the-frame-pro-2026/",
-        "source": "Wired",
-        "date": "2026-06-18"
-      },
-      {
-        "title": "The White House Is Making Up Its Rules for AI in Real Time",
-        "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
-        "source": "Wired",
-        "date": "2026-06-18"
       }
     ]
   }
