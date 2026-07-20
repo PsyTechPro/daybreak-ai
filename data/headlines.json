@@ -1,11 +1,87 @@
 [
   {
+    "date": "2026-07-20",
+    "articles": [
+      {
+        "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
+        "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+        "source": "CNBC",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "AI is more likely than humans to form biases when hiring",
+        "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-20"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "articles": [
+      {
+        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "source": "TechCrunch",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "source": "TechCrunch",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+        "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+        "source": "TechCrunch",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "TechCrunch Mobility: The battle over robotaxi rules",
+        "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+        "source": "TechCrunch",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "source": "TechCrunch",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
+        "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
+        "source": "The Verge",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "I hate that I don’t hate this song made with Suno",
+        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+        "source": "The Verge",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "The cleanup trap: Stop asking RAG to fix bad data",
+        "url": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
+        "source": "VentureBeat",
+        "date": "2026-07-19"
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "articles": [
       {
         "title": "Will AI fix prior authorization—or make it worse?",
         "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
         "source": "Ars Technica",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "Can you spot an AI image? Quiz shows how difficult it has become.",
+        "url": "https://www.cbsnews.com/news/ai-quiz-spotting-fake-images-verification-tool-veriff/",
+        "source": "CBS News",
         "date": "2026-07-18"
       },
       {
@@ -4227,113 +4303,6 @@
         "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
         "source": "Wired",
         "date": "2026-06-20"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-19",
-    "articles": [
-      {
-        "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-        "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-        "url": "https://www.bbc.co.uk/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Qualcomm CEO Cristiano Amon on the new world of AI agents",
-        "url": "https://www.cnbc.com/2026/06/19/tech-download-qualcomm-ai-agents-amon.html",
-        "source": "CNBC",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Fox News AI Newsletter: Bezos predicts labor shortage",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-bezos-predicts-labor-shortage",
-        "source": "Fox News",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "The Download: AI bottleneck debates, and BCI trials take off",
-        "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Billionaire Ambani wants AI in every call, app, and home",
-        "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-        "source": "TechCrunch",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-        "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-        "source": "TechCrunch",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-        "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-        "source": "TechCrunch",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-        "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-        "source": "TechCrunch",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-        "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-        "source": "TechCrunch",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Barret Zoph is out at OpenAI again after just five months",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-        "source": "The Verge",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "The film about Sam Altman has been dropped by Amazon MGM",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-        "source": "The Verge",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
-        "url": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
-        "source": "VentureBeat",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand.",
-        "url": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand",
-        "source": "VentureBeat",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Meta Quest Promo Codes and Coupons for June 2026",
-        "url": "https://www.wired.com/story/meta-quest-promo-code/",
-        "source": "Wired",
-        "date": "2026-06-19"
-      },
-      {
-        "title": "Try One of macOS 27’s Best Features Right Now",
-        "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
-        "source": "Wired",
-        "date": "2026-06-19"
       }
     ]
   }
