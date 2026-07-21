@@ -1,7 +1,66 @@
 [
   {
+    "date": "2026-07-21",
+    "articles": [
+      {
+        "title": "AI minister role boosted but tech department axed in Burnham shake-up",
+        "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "source": "TechCrunch",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
+        "url": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
+        "source": "Wired",
+        "date": "2026-07-21"
+      }
+    ]
+  },
+  {
     "date": "2026-07-20",
     "articles": [
+      {
+        "title": "Beyond grep: The case for a context-rich AI coding harness",
+        "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+        "source": "Ars Technica",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
+        "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
+        "source": "Ars Technica",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer",
+        "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+        "source": "CNBC",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Alphabet stock pops on report it's developing a more efficient AI chip",
+        "url": "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
+        "source": "CNBC",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials",
+        "url": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html",
+        "source": "CNBC",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
+        "url": "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html",
+        "source": "CNBC",
+        "date": "2026-07-20"
+      },
       {
         "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
         "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
@@ -9,9 +68,135 @@
         "date": "2026-07-20"
       },
       {
+        "title": "Trump administration's head of AI safety agency resigns after 3 months on job",
+        "url": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
+        "source": "CNBC",
+        "date": "2026-07-20"
+      },
+      {
         "title": "AI is more likely than humans to form biases when hiring",
         "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
         "source": "MIT Technology Review",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "China’s AI models have Trump’s AI world at war with itself",
+        "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "The Download: AI hiring biases, and weather data sabotage",
+        "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Who should regulate global AI? China makes a play for leadership",
+        "url": "https://www.npr.org/2026/07/20/nx-s1-5886477/who-should-regulate-global-ai-china-makes-a-play-for-leadership",
+        "source": "NPR",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "AI’s most important protocol is getting a little bit easier to use",
+        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "source": "TechCrunch",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Adobe camera app’s new feature will critique your photos using AI",
+        "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+        "source": "TechCrunch",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "source": "TechCrunch",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+        "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+        "source": "TechCrunch",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+        "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+        "source": "TechCrunch",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+        "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+        "source": "TechCrunch",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "OpenAI is scared of open-weight models. Should the US be?",
+        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+        "source": "TechCrunch",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Trump’s latest AI czar has already resigned",
+        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "source": "TechCrunch",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "YouTube clarifies policies around AI slop and upsetting videos",
+        "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+        "source": "TechCrunch",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+        "source": "The Verge",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
+        "url": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
+        "source": "VentureBeat",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "AI confidence just dropped 17 points in six months. That’s actually great news.",
+        "url": "https://venturebeat.com/security/ai-confidence-just-dropped-17-points-in-six-months-thats-actually-great-news",
+        "source": "VentureBeat",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build",
+        "url": "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build",
+        "source": "VentureBeat",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
+        "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+        "source": "VentureBeat",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "The cleanup trap: Stop asking RAG to fix bad data",
+        "url": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
+        "source": "VentureBeat",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Writer's AI harness cuts token spend nearly 40% — without sacrificing accuracy",
+        "url": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
+        "source": "VentureBeat",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
+        "url": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
+        "source": "Wired",
         "date": "2026-07-20"
       }
     ]
@@ -4238,71 +4423,6 @@
         "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
         "source": "Wired",
         "date": "2026-06-21"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-20",
-    "articles": [
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "AI buildout gives tech investors new reasons to watch bond market",
-        "url": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
-        "source": "CNBC",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "Meta offers paid training for AI data center jobs",
-        "url": "https://www.foxnews.com/tech/meta-offers-paid-training-ai-data-center-jobs",
-        "source": "Fox News",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "Every new iOS 27 feature that’s worth knowing about",
-        "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-        "source": "TechCrunch",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "In the Weights is your new AI-centric vanity search",
-        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-        "source": "TechCrunch",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-        "source": "TechCrunch",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-        "source": "TechCrunch",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "The Atlantic created a searchable database of the music used to train AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-        "source": "The Verge",
-        "date": "2026-06-20"
-      },
-      {
-        "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-        "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-        "source": "Wired",
-        "date": "2026-06-20"
       }
     ]
   }
