@@ -1,10 +1,153 @@
 [
   {
+    "date": "2026-07-23",
+    "articles": [
+      {
+        "title": "Google burning through cash with spiralling AI costs",
+        "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "OpenAI says its technology, on its own, hacked another AI company",
+        "url": "https://www.cbsnews.com/news/openai-technology-on-its-own-unprecedented-hack-another-ai-company-hugging-face/",
+        "source": "CBS News",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+        "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+        "source": "CNBC",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "IBM lowers full-year forecast after earnings warning",
+        "url": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+        "source": "CNBC",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Tesla and Alphabet shares slump in premarket trading as AI spending concerns spook investors",
+        "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+        "source": "CNBC",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "These Japanese AI winners don’t make chips. They make toilets, glass fiber and seasoning",
+        "url": "https://www.cnbc.com/2026/07/22/japanese-ai-winners-toilets-fiberglass-and-seasoning.html",
+        "source": "CNBC",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending",
+        "url": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
+        "source": "CNBC",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
+        "url": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
+        "source": "NPR",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+        "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
+        "source": "NPR",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "OpenAI says AI models hacked into another AI company without being instructed",
+        "url": "https://www.npr.org/2026/07/23/nx-s1-5903083/openai-says-ai-models-hacked-into-another-ai-company-without-being-instructed",
+        "source": "NPR",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+        "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+        "source": "TechCrunch",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
+        "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
+        "source": "Wired",
+        "date": "2026-07-23"
+      }
+    ]
+  },
+  {
     "date": "2026-07-22",
     "articles": [
       {
+        "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+        "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+        "source": "Ars Technica",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+        "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+        "source": "Ars Technica",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+        "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+        "url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+        "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+        "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
+        "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
         "title": "Google expands Gemini lineup with cheaper models and new Mythos rival",
         "url": "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
+        "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+        "url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+        "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+        "url": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
+        "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Reddit stock sinks on report it may not renew Google AI content deal",
+        "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+        "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+        "url": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+        "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "SpaceX ends its losing streak, oil prices jump, the Fed's AI red flags and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/07/22/5-things-to-know-before-the-stock-market-opens.html",
+        "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+        "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
         "source": "CNBC",
         "date": "2026-07-22"
       },
@@ -15,9 +158,69 @@
         "date": "2026-07-22"
       },
       {
+        "title": "This is the stock to buy after OpenAI's AI agent goes rogue in a cybersecurity test",
+        "url": "https://www.cnbc.com/2026/07/22/this-is-the-stock-to-buy-after-openais-ai-agent-goes-rogue-in-a-cybersecurity-test.html",
+        "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
         "title": "Trump's push for American-made AI chips hits TSMC's margins",
         "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
         "source": "CNBC",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+        "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+        "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+        "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+        "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Monday.com lays off hundreds to focus on AI",
+        "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "OpenAI’s AI spending spree has ballooned to $750B",
+        "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+        "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+        "source": "TechCrunch",
         "date": "2026-07-22"
       },
       {
@@ -33,9 +236,69 @@
         "date": "2026-07-22"
       },
       {
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+        "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+        "source": "TechCrunch",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
+        "url": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
+        "source": "The Verge",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering",
+        "url": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering",
+        "source": "VentureBeat",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Inflection AI returns to consumer market with Pi Journeys after Microsoft upheaval",
+        "url": "https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval",
+        "source": "VentureBeat",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
+        "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
+        "source": "VentureBeat",
+        "date": "2026-07-22"
+      },
+      {
         "title": "OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know",
         "url": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
         "source": "VentureBeat",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
+        "url": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now",
+        "source": "VentureBeat",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+        "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+        "source": "Wired",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+        "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+        "source": "Wired",
         "date": "2026-07-22"
       }
     ]
@@ -4484,161 +4747,6 @@
         "url": "https://www.wired.com/story/the-12-best-movies-to-stream-right-now/",
         "source": "Wired",
         "date": "2026-06-23"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-22",
-    "articles": [
-      {
-        "title": "How Anthropic may have talked itself into an AI export ban",
-        "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-        "source": "Ars Technica",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits",
-        "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-        "source": "CNBC",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
-        "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-        "source": "CNBC",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals",
-        "url": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html",
-        "source": "CNBC",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "These 2 stocks could be big winners from the next generation of AI chips",
-        "url": "https://www.cnbc.com/2026/06/22/these-2-stocks-could-be-big-winners-from-the-next-generation-of-ai-chips.html",
-        "source": "CNBC",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Three things to watch amid Anthropic’s latest feud with the government",
-        "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "An AI proxy war could reshape Congress — before Congress reshapes AI",
-        "url": "https://www.npr.org/2026/06/22/nx-s1-5856359/ai-anthropic-congress-spending-openai-midterms-election",
-        "source": "NPR",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-        "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-        "source": "TechCrunch",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Amazon is testing Alexa+ in India with Hindi support",
-        "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-        "source": "TechCrunch",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Anthropic says Claude may want to see your ID",
-        "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
-        "source": "TechCrunch",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-        "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-        "source": "TechCrunch",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-        "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-        "source": "TechCrunch",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-        "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-        "source": "TechCrunch",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "The AI world is getting ‘loopy’",
-        "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-        "source": "TechCrunch",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "AI is cursing renters with the promise of impossible homes",
-        "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-        "source": "The Verge",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Google invests in A24 to build AI movie tools",
-        "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
-        "source": "The Verge",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-        "source": "The Verge",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "AI hit the memory wall — now it needs a new context tier",
-        "url": "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier",
-        "source": "VentureBeat",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
-        "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
-        "source": "VentureBeat",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
-        "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
-        "source": "VentureBeat",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
-        "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
-        "source": "VentureBeat",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Why agentic enterprises need to become learning systems",
-        "url": "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
-        "source": "VentureBeat",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
-        "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
-        "source": "Wired",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
-        "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
-        "source": "Wired",
-        "date": "2026-06-22"
-      },
-      {
-        "title": "World Cup Scams Are Getting Harder to Spot",
-        "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
-        "source": "Wired",
-        "date": "2026-06-22"
       }
     ]
   }
