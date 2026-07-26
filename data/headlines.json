@@ -1,7 +1,42 @@
 [
   {
+    "date": "2026-07-26",
+    "articles": [
+      {
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "source": "TechCrunch",
+        "date": "2026-07-26"
+      }
+    ]
+  },
+  {
     "date": "2026-07-25",
     "articles": [
+      {
+        "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+        "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "Are you following brand-sponsored AI influencers?",
+        "url": "https://www.cbsnews.com/video/are-you-following-brand-sponsored-ai-influencers/",
+        "source": "CBS News",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "ChatGPT now has a space for sharing medical records. Should you?",
+        "url": "https://www.cbsnews.com/news/chatgpt-health-medical-records-advice-expert-risks/",
+        "source": "CBS News",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
+        "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+        "source": "CNBC",
+        "date": "2026-07-25"
+      },
       {
         "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
         "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
@@ -12,6 +47,30 @@
         "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
         "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
         "source": "TechCrunch",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+        "source": "TechCrunch",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+        "source": "TechCrunch",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "Google basically confirms the Pixel 11 is getting a price hike",
+        "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+        "source": "The Verge",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+        "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+        "source": "Wired",
         "date": "2026-07-25"
       }
     ]
@@ -4634,185 +4693,6 @@
         "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
         "source": "Wired",
         "date": "2026-06-26"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-25",
-    "articles": [
-      {
-        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-        "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-        "source": "Ars Technica",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-        "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-        "source": "Ars Technica",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-        "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-        "source": "Ars Technica",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Claude Code in Slack",
-        "url": "https://www.bensbites.com/p/claude-code-in-slack",
-        "source": "Ben's Bites",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Big Tech is all in on AI. Now all they need is customers.",
-        "url": "https://www.cbsnews.com/news/ai-bubble-tech-selloff-investment-consumer-business-demand/",
-        "source": "CBS News",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "How much water does AI really use?",
-        "url": "https://www.cbsnews.com/news/how-much-water-does-ai-really-use/",
-        "source": "CBS News",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next",
-        "url": "https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html",
-        "source": "CNBC",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
-        "url": "https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html",
-        "source": "CNBC",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Bionic hands are now teaching robots to feel",
-        "url": "https://www.foxnews.com/tech/bionic-hands-teaching-robots-feel",
-        "source": "Fox News",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Repositioning retail for the AI era",
-        "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Despite AI bubble fears, memory chip makers work to fill insatiable demand",
-        "url": "https://www.npr.org/2026/06/25/nx-s1-5869540/despite-ai-bubble-fears-memory-chip-makers-work-to-fill-insatiable-demand",
-        "source": "NPR",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-        "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-        "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-        "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-        "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Google Finance gets a dedicated app for Android",
-        "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-        "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Notion Mail shuts down amid agent takeover",
-        "url": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Rippling now wants to be your entire data stack",
-        "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-        "source": "TechCrunch",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "source": "The Verge",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-        "source": "The Verge",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
-        "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
-        "source": "VentureBeat",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API",
-        "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
-        "source": "VentureBeat",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
-        "url": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/",
-        "source": "Wired",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-        "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-        "source": "Wired",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-        "source": "Wired",
-        "date": "2026-06-25"
-      },
-      {
-        "title": "World Cup Teams Are in a Race for AI Dominance",
-        "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-        "source": "Wired",
-        "date": "2026-06-25"
       }
     ]
   }
