@@ -1,10 +1,57 @@
 [
   {
+    "date": "2026-07-27",
+    "articles": [
+      {
+        "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+        "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+        "source": "CNBC",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "Are brain waves the next unlock for physical AI?",
+        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "source": "TechCrunch",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+        "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+        "source": "TechCrunch",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "This Is Donald Trump’s AI Brain Trust",
+        "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+        "source": "Wired",
+        "date": "2026-07-27"
+      }
+    ]
+  },
+  {
     "date": "2026-07-26",
     "articles": [
       {
+        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "source": "TechCrunch",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "Making sense of the panic over Chinese AI",
+        "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "source": "TechCrunch",
+        "date": "2026-07-26"
+      },
+      {
         "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
         "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "source": "TechCrunch",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "TechCrunch Mobility: Uber bets on its former CEO",
+        "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
         "source": "TechCrunch",
         "date": "2026-07-26"
       }
@@ -4520,179 +4567,6 @@
         "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
         "source": "Wired",
         "date": "2026-06-27"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-26",
-    "articles": [
-      {
-        "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-        "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-        "source": "Ars Technica",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Big Tech is spending trillions on AI. Investors want proof it'll pay off.",
-        "url": "https://www.cbsnews.com/news/ai-bubble-tech-selloff-investment-consumer-business-demand/",
-        "source": "CBS News",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Gadget prices have fallen for decades. Then AI happened.",
-        "url": "https://www.cbsnews.com/news/ai-boom-chip-shortage-gadget-prices-apple-microsoft/",
-        "source": "CBS News",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
-        "url": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
-        "source": "CNBC",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will?",
-        "url": "https://www.cnbc.com/2026/06/26/metas-flurry-of-ai-initiatives-this-month-hasnt-helped-lift-the-stock-what-will.html",
-        "source": "CNBC",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "ON Semiconductor records worst day since 2020 as CEO defends Synaptics deal",
-        "url": "https://www.cnbc.com/2026/06/26/on-semi-stock-synaptics-ceo-hassane-el-khoury.html",
-        "source": "CNBC",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "OpenAI and Anthropic face new AI reality as users shift from 'tokenmaxxing' to efficiency",
-        "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-        "source": "CNBC",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
-        "url": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
-        "source": "CNBC",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
-        "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
-        "source": "CNBC",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
-        "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
-        "source": "CNBC",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
-        "url": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
-        "source": "CNBC",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Tumbling AI stocks signal another day of turmoil for tech companies",
-        "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
-        "source": "CNBC",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Fox News AI Newsletter: Waymo's robotaxi recall",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-waymos-robotaxi-recall",
-        "source": "Fox News",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "World Cup ticket scams target desperate fans",
-        "url": "https://www.foxnews.com/tech/world-cup-ticket-scams-target-desperate-fans",
-        "source": "Fox News",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-        "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "It’s not about Anthropic vs. OpenAI anymore",
-        "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-        "source": "TechCrunch",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-        "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-        "source": "TechCrunch",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-        "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-        "source": "TechCrunch",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
-        "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
-        "source": "TechCrunch",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-        "source": "TechCrunch",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
-        "url": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready",
-        "source": "VentureBeat",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Most companies think they're building a software factory. They're actually just shipping bugs faster.",
-        "url": "https://venturebeat.com/orchestration/most-companies-think-theyre-building-a-software-factory-theyre-actually-just-shipping-bugs-faster",
-        "source": "VentureBeat",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.",
-        "url": "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m",
-        "source": "VentureBeat",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
-        "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
-        "source": "VentureBeat",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-        "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-        "source": "Wired",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "Europe Is Fed Up and Wants Its Own AI",
-        "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
-        "source": "Wired",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
-        "url": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
-        "source": "Wired",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-        "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-        "source": "Wired",
-        "date": "2026-06-26"
       }
     ]
   }
