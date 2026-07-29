@@ -1,11 +1,136 @@
 [
   {
+    "date": "2026-07-29",
+    "articles": [
+      {
+        "title": "OpenAI says its rogue AI tried to hack other companies",
+        "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
+        "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+        "source": "CNBC",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+        "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+        "source": "CNBC",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Tech stocks extend sell-off with SoftBank losing 7% as AI plays take a hit",
+        "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+        "source": "CNBC",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "The AI Hype Index: Unsexy AI",
+        "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "'Machines are collaborators' at this new museum of AI art",
+        "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
+        "source": "NPR",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+        "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+        "source": "Wired",
+        "date": "2026-07-29"
+      }
+    ]
+  },
+  {
     "date": "2026-07-28",
     "articles": [
+      {
+        "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+        "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+        "source": "Ars Technica",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+        "source": "Ars Technica",
+        "date": "2026-07-28"
+      },
       {
         "title": "Some people's chats with Claude AI found to be publicly available online",
         "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Apple touches $5 trillion market cap for first time",
+        "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
+        "source": "CNBC",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
+        "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
+        "source": "CNBC",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
+        "url": "https://www.cnbc.com/2026/07/28/jim-cramer-wall-street-fleeing-ai-trade-buying-these-stocks.html",
+        "source": "CNBC",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Microsoft touts cost-saving AI model for cybersecurity",
+        "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+        "source": "CNBC",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "SpaceX stock-purchasing by Congress members fuels conflict concerns",
+        "url": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
+        "source": "CNBC",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+        "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "AI executive calls OpenAI hacking event a wake-up call for the industry",
+        "url": "https://www.npr.org/2026/07/28/nx-s1-5908495/ai-executive-calls-openai-hacking-event-a-wake-up-call-for-the-industry",
+        "source": "NPR",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "AI tokens could become the kilowatt-hour of the AI age",
+        "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
+        "source": "NPR",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Allegations of AI distillation spark debate about IP theft. But is it illegal?",
+        "url": "https://www.npr.org/2026/07/28/nx-s1-5909652/allegations-of-ai-distillation-spark-debate-about-ip-theft-but-is-it-illegal",
+        "source": "NPR",
         "date": "2026-07-28"
       },
       {
@@ -15,9 +140,75 @@
         "date": "2026-07-28"
       },
       {
+        "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+        "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+        "source": "TechCrunch",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Granola launches an Apple Watch app",
+        "url": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+        "source": "TechCrunch",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+        "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+        "source": "TechCrunch",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+        "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+        "source": "TechCrunch",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+        "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+        "source": "TechCrunch",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+        "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+        "source": "TechCrunch",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "AI leaders sign a statement asking the government to do something about automated AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+        "source": "The Verge",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "AI’s finally expensive enough to make Wall Street nervous",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+        "source": "The Verge",
+        "date": "2026-07-28"
+      },
+      {
         "title": "Hugging Face is being used to easily undress women and children",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
         "source": "The Verge",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Fiduciary AI: Agents need to prove trustworthiness, not just ability",
+        "url": "https://venturebeat.com/security/fiduciary-ai-agents-need-to-prove-trustworthiness-not-just-ability",
+        "source": "VentureBeat",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests",
+        "url": "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests",
+        "source": "VentureBeat",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Instacart's CTO says AI made the company stop worrying about tech debt",
+        "url": "https://venturebeat.com/orchestration/instacarts-cto-says-ai-made-the-company-stop-worrying-about-tech-debt",
+        "source": "VentureBeat",
         "date": "2026-07-28"
       },
       {
@@ -27,8 +218,44 @@
         "date": "2026-07-28"
       },
       {
+        "title": "MCP just got its biggest update ever — here’s what changes for AI agents",
+        "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
+        "source": "VentureBeat",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Runway couldn't fix a bug in its AI video model, so it turned the bug into a feature",
+        "url": "https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature",
+        "source": "VentureBeat",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
+        "url": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
+        "source": "VentureBeat",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
+        "url": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible",
+        "source": "VentureBeat",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+        "source": "Wired",
+        "date": "2026-07-28"
+      },
+      {
         "title": "Hugging Face Has a Deepfake Nudes Problem",
         "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+        "source": "Wired",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+        "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
         "source": "Wired",
         "date": "2026-07-28"
       }
@@ -4646,65 +4873,6 @@
         "url": "https://www.wired.com/review/yeasound-ric800-hearing-aids/",
         "source": "Wired",
         "date": "2026-06-29"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-28",
-    "articles": [
-      {
-        "title": "Midjourney’s wild body scanner scans you in water",
-        "url": "https://www.foxnews.com/tech/midjourney-wild-body-scanner-scans-water",
-        "source": "Fox News",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-        "source": "TechCrunch",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-        "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-        "source": "TechCrunch",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-        "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-        "source": "TechCrunch",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-        "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-        "source": "TechCrunch",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-        "source": "The Verge",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-        "source": "The Verge",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-        "source": "The Verge",
-        "date": "2026-06-28"
-      },
-      {
-        "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
-        "url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
-        "source": "VentureBeat",
-        "date": "2026-06-28"
       }
     ]
   }
