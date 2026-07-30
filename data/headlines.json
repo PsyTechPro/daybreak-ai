@@ -1,7 +1,96 @@
 [
   {
+    "date": "2026-07-30",
+    "articles": [
+      {
+        "title": "Trump considering AI controls after OpenAI hacking incidents",
+        "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech",
+        "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+        "source": "CNBC",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Microsoft's AI spending guide is music to our ears, quieting the bears — for now",
+        "url": "https://www.cnbc.com/2026/07/29/microsofts-ai-spending-guide-is-music-to-our-ears-quieting-the-bears-for-now.html",
+        "source": "CNBC",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Rolls-Royce hikes guidance as it benefits from both the defense boom and AI data center buildout",
+        "url": "https://www.cnbc.com/2026/07/30/rolls-royce-earnings-q2-stock-defense-ai.html",
+        "source": "CNBC",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "SpaceX faces House Energy Committee demand to tour its AI data centers in Memphis",
+        "url": "https://www.cnbc.com/2026/07/29/spacex-memphis-ai-data-centers-face-house-energy-committee-demands.html",
+        "source": "CNBC",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep",
+        "url": "https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html",
+        "source": "CNBC",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Massive demand from AI data centers drives up computer memory prices",
+        "url": "https://www.npr.org/2026/07/30/nx-s1-5909318/massive-demand-from-ai-data-centers-drives-up-computer-memory-prices",
+        "source": "NPR",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "source": "TechCrunch",
+        "date": "2026-07-30"
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "articles": [
+      {
+        "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+        "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+        "source": "Ars Technica",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+        "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+        "source": "Ars Technica",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
+        "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+        "source": "Ars Technica",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "What happens when you put AI to work deciphering lost languages?",
+        "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+        "source": "Ars Technica",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Who wins and who loses after US bans foreign robots?",
+        "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+        "source": "Ars Technica",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Meta shares fall as frustration grows over AI spending plans",
+        "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-29"
+      },
       {
         "title": "OpenAI says its rogue AI tried to hack other companies",
         "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
@@ -9,8 +98,38 @@
         "date": "2026-07-29"
       },
       {
+        "title": "AI workers at major companies call for slowdown of the technology's development",
+        "url": "https://www.cbsnews.com/video/ai-workers-at-major-companies-call-for-slowdown-of-the-technologys-development/",
+        "source": "CBS News",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Why are workers at leading AI companies calling for a slowdown in AI development?",
+        "url": "https://www.cbsnews.com/news/slow-down-ai-development-sam-altman/",
+        "source": "CBS News",
+        "date": "2026-07-29"
+      },
+      {
         "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
         "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+        "source": "CNBC",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Jim Cramer says Seagate is the ‘key to this market’ after blowout earnings",
+        "url": "https://www.cnbc.com/2026/07/29/jim-cramer-says-seagate-is-the-key-to-this-market-after-blowout-earnings.html",
+        "source": "CNBC",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Jim Cramer says software's comeback could be the blueprint for AI stocks' next rally",
+        "url": "https://www.cnbc.com/2026/07/29/jim-cramer-softwares-comeback-blueprint-ai-stocks-rally.html",
+        "source": "CNBC",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "OpenAI CFO Sarah Friar tells employees that annualized revenue in July topped all of Q2",
+        "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
         "source": "CNBC",
         "date": "2026-07-29"
       },
@@ -21,8 +140,20 @@
         "date": "2026-07-29"
       },
       {
+        "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
+        "url": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
+        "source": "CNBC",
+        "date": "2026-07-29"
+      },
+      {
         "title": "Tech stocks extend sell-off with SoftBank losing 7% as AI plays take a hit",
         "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+        "source": "CNBC",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+        "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html",
         "source": "CNBC",
         "date": "2026-07-29"
       },
@@ -33,15 +164,177 @@
         "date": "2026-07-29"
       },
       {
+        "title": "The Download: a chip talent battle, and deflating AI hype",
+        "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+        "source": "MIT Technology Review",
+        "date": "2026-07-29"
+      },
+      {
         "title": "'Machines are collaborators' at this new museum of AI art",
         "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
         "source": "NPR",
         "date": "2026-07-29"
       },
       {
+        "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+        "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
+        "source": "NPR",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
         "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
         "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
         "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+        "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+        "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+        "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "The Hugging Face break-in explained",
+        "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+        "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Waymo robotaxis are starting to return to freeways",
+        "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "source": "TechCrunch",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+        "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+        "source": "The Verge",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "source": "The Verge",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+        "source": "The Verge",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
+        "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+        "source": "The Verge",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+        "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+        "source": "The Verge",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "At Waymo, an AI project isn't ready until its evals are — not when the model performs well",
+        "url": "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well",
+        "source": "VentureBeat",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck",
+        "url": "https://venturebeat.com/infrastructure/bright-machines-says-its-new-hybrid-robot-cell-could-help-solve-a-major-ai-infrastructure-bottleneck",
+        "source": "VentureBeat",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Enterprise AI agents can't talk to each other, can't be trusted with permissions, and can't be audited — 5 startups are already fixing that",
+        "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that",
+        "source": "VentureBeat",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
+        "url": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
+        "source": "VentureBeat",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Target SVP says its real AI moat isn't the models — it's everything built around them",
+        "url": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
+        "source": "VentureBeat",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+        "url": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+        "source": "Wired",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+        "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+        "source": "Wired",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "Mac Mini Availability: Long Waits and Higher Prices",
+        "url": "https://www.wired.com/story/mac-mini-availability/",
+        "source": "Wired",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+        "url": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+        "source": "Wired",
         "date": "2026-07-29"
       },
       {
@@ -4700,179 +4993,6 @@
         "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
         "source": "Wired",
         "date": "2026-06-30"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-29",
-    "articles": [
-      {
-        "title": "Google warns EU's plans to weaken its monopoly could expose user data",
-        "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-        "source": "Ars Technica",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-        "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-        "source": "Ars Technica",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Ford rehires human engineers after AI fails to match quality checks",
-        "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Baidu shares jump 7% as AI chip arm Kunlunxin said to target $50 billion Hong Kong IPO",
-        "url": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
-        "source": "CNBC",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "South Korea says Samsung and SK Hynix investing in AI, semiconductor mega-projects",
-        "url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
-        "source": "CNBC",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "The AI boom is colliding with a new threat: severe weather",
-        "url": "https://www.cnbc.com/2026/06/29/ai-data-centers-heatwave-climate-risk-weather.html",
-        "source": "CNBC",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Waymo and Uber end robotaxi pilot in Phoenix",
-        "url": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html",
-        "source": "CNBC",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "AI may spot deadly heart risk in a routine ECG",
-        "url": "https://www.foxnews.com/tech/ai-may-spot-deadly-heart-risk-routine-ecg",
-        "source": "Fox News",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "AI agents are not your “coworkers”",
-        "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Agent confidence on the technical frontier",
-        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "The Download: metric weaknesses and AI elephant warnings",
-        "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-        "source": "MIT Technology Review",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-        "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-        "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Gemini’s personalized AI image generation is now free for US users",
-        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Omen AI’s plan to optimize data centers is all wet",
-        "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
-        "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-        "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "TIDAL cracks down on AI music by cutting off monetization",
-        "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Waymo and Uber quietly part ways in Phoenix",
-        "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
-        "source": "TechCrunch",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "OpenAI is teasing new hardware… for Codex",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-        "source": "The Verge",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "source": "The Verge",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
-        "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
-        "source": "VentureBeat",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
-        "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
-        "source": "VentureBeat",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-        "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-        "source": "Wired",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-        "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-        "source": "Wired",
-        "date": "2026-06-29"
-      },
-      {
-        "title": "Yeasound RIC800 Hearing Aids Review: Good Audio, Glitchy App",
-        "url": "https://www.wired.com/review/yeasound-ric800-hearing-aids/",
-        "source": "Wired",
-        "date": "2026-06-29"
       }
     ]
   }
