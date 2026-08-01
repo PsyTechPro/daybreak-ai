@@ -3,8 +3,62 @@
     "date": "2026-07-31",
     "articles": [
       {
+        "title": "AI scammers outperform humans when it comes to building trust",
+        "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+        "source": "Ars Technica",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+        "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+        "source": "Ars Technica",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+        "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+        "source": "Ars Technica",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+        "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+        "source": "Ars Technica",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+        "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+        "source": "Ars Technica",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+        "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+        "source": "Ars Technica",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+        "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+        "source": "Ars Technica",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "AI firms must answer for rogue bots, says boss of hacked company",
+        "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-31"
+      },
+      {
         "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
         "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+        "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-07-31"
       },
@@ -27,8 +81,38 @@
         "date": "2026-07-31"
       },
       {
+        "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+        "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+        "source": "CNBC",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+        "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+        "source": "CNBC",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+        "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+        "source": "CNBC",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'",
+        "url": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
+        "source": "CNBC",
+        "date": "2026-07-31"
+      },
+      {
         "title": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
         "url": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+        "source": "CNBC",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "The Tech Download: Anduril CEO Brian Schimpf talks AI in warfare and manufacturing push",
+        "url": "https://www.cnbc.com/2026/07/31/the-tech-download-anduril-ceo-brian-schimpf.html",
         "source": "CNBC",
         "date": "2026-07-31"
       },
@@ -36,6 +120,24 @@
         "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
         "url": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
         "source": "CNBC",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+        "url": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
+        "source": "CNBC",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Fox News AI Newsletter: AI models accessed systems of 3 real organizations, company reveals",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-models-accessed-systems-3-real-organizations-company-reveals",
+        "source": "Fox News",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+        "source": "NPR",
         "date": "2026-07-31"
       },
       {
@@ -51,8 +153,104 @@
         "date": "2026-07-31"
       },
       {
+        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+        "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+        "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+        "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Silicon Valley loves young founders. Until it doesn’t.",
+        "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Siri AI could come with a paywall for power users",
+        "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+        "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+        "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+        "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+        "source": "TechCrunch",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+        "source": "The Verge",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Here’s the problem with putting an AI image generator in Google Earth",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+        "source": "The Verge",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "The ban on robot vacuums won’t make them safer, only worse",
+        "url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
+        "source": "The Verge",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "The major labels propose rules to keep AI slop off the charts",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+        "source": "The Verge",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
+        "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
+        "source": "VentureBeat",
+        "date": "2026-07-31"
+      },
+      {
         "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
         "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+        "source": "VentureBeat",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
+        "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
         "source": "VentureBeat",
         "date": "2026-07-31"
       },
@@ -63,8 +261,26 @@
         "date": "2026-07-31"
       },
       {
+        "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+        "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+        "source": "Wired",
+        "date": "2026-07-31"
+      },
+      {
         "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
         "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+        "source": "Wired",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Chinese AI Researchers Are Finding Their Voice on X",
+        "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+        "source": "Wired",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+        "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
         "source": "Wired",
         "date": "2026-07-31"
       }
@@ -680,6 +896,12 @@
       {
         "title": "Tech Life",
         "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-07-28"
       },
@@ -4844,215 +5066,6 @@
         "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
         "source": "Wired",
         "date": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-01",
-    "articles": [
-      {
-        "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-        "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-        "source": "Ars Technica",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "US home battery installations hit record high on rising electricity costs",
-        "url": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
-        "source": "Ars Technica",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5",
-        "url": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
-        "source": "CNBC",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
-        "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
-        "source": "CNBC",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Employers who laid off workers citing AI are already starting to regret it",
-        "url": "https://www.cnbc.com/2026/07/01/employers-who-laid-off-workers-for-ai-are-reversing-their-decisions.html",
-        "source": "CNBC",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Meta pops 9% as company makes cloud push to sell excess AI compute power capacity",
-        "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
-        "source": "CNBC",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
-        "url": "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html",
-        "source": "CNBC",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
-        "url": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
-        "source": "CNBC",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "UAE's MGX raises one of the biggest AI funds ever as it closes at $49 billion",
-        "url": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html",
-        "source": "CNBC",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "We thought these 5 stocks could make a 2026 comeback. Here’s our midyear scorecard",
-        "url": "https://www.cnbc.com/2026/07/01/we-thought-these-5-stocks-could-make-a-2026-comeback-heres-our-midyear-scorecard.html",
-        "source": "CNBC",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "A missing kitten rode under a car hood. AI brought her home",
-        "url": "https://www.foxnews.com/tech/missing-kitten-rode-under-car-hood-ai-brought-her-home",
-        "source": "Fox News",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-        "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-        "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
-        "url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-        "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-        "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-        "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
-        "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-        "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-        "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-        "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-        "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "source": "The Verge",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
-        "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
-        "source": "The Verge",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
-        "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-        "source": "The Verge",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
-        "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
-        "source": "VentureBeat",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Digital resilience compounds when AI and human expertise scale together",
-        "url": "https://venturebeat.com/security/digital-resilience-compounds-when-ai-and-human-expertise-scale-together",
-        "source": "VentureBeat",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
-        "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
-        "source": "VentureBeat",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand",
-        "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
-        "source": "VentureBeat",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-        "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-        "source": "Wired",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-        "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-        "source": "Wired",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-        "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-        "source": "Wired",
-        "date": "2026-07-01"
       }
     ]
   }
