@@ -1,5 +1,81 @@
 [
   {
+    "date": "2026-08-02",
+    "articles": [
+      {
+        "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+        "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+        "source": "Wired",
+        "date": "2026-08-02"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-01",
+    "articles": [
+      {
+        "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
+        "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+        "source": "Ars Technica",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+        "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+        "source": "Ars Technica",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+        "source": "NPR",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+        "source": "TechCrunch",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+        "source": "TechCrunch",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+        "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+        "source": "TechCrunch",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+        "source": "TechCrunch",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "Is this Billboard Hot 100 hit AI slop?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+        "source": "The Verge",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+        "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+        "source": "Wired",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+        "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+        "source": "Wired",
+        "date": "2026-08-01"
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "articles": [
       {
@@ -4887,185 +4963,6 @@
         "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
         "source": "Wired",
         "date": "2026-07-03"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-02",
-    "articles": [
-      {
-        "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-        "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-        "source": "Ars Technica",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
-        "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-        "source": "Ars Technica",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-        "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-        "source": "Ars Technica",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "AI is 'not smart' so what's next in artificial intelligence?",
-        "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "AI agents will soon be able to match human traders, Robinhood CEO tells CNBC",
-        "url": "https://www.cnbc.com/2026/07/02/robinhood-ceo-ai-agents.html",
-        "source": "CNBC",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
-        "url": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
-        "source": "CNBC",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Amazon is designing its own AI chips for Echo, Fire TV and future devices, exec tells CNBC",
-        "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
-        "source": "CNBC",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins",
-        "url": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
-        "source": "CNBC",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
-        "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-        "source": "CNBC",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report",
-        "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
-        "source": "CNBC",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Fox News AI Newsletter: American manufacturer says AI is creating jobs, not replacing them",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-american-manufacturer-says-ai-creating-jobs-not-replacing-them",
-        "source": "Fox News",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Achieving operational excellence with AI",
-        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Teaching AI to run with the turbines",
-        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "The Download: a startup has a solution for AI’s groupthink problem",
-        "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
-        "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-        "source": "TechCrunch",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Anthropic is discussing a new custom chip with Samsung",
-        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-        "source": "TechCrunch",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-        "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-        "source": "TechCrunch",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-        "source": "TechCrunch",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-        "source": "TechCrunch",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Meta quietly launches vibe-coded gaming app Pocket",
-        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-        "source": "TechCrunch",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-        "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-        "source": "TechCrunch",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-        "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-        "source": "TechCrunch",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-        "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
-        "source": "TechCrunch",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
-        "url": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
-        "source": "The Verge",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
-        "url": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
-        "source": "The Verge",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
-        "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
-        "source": "The Verge",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
-        "url": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
-        "source": "VentureBeat",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
-        "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
-        "source": "VentureBeat",
-        "date": "2026-07-02"
-      },
-      {
-        "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-        "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-        "source": "Wired",
-        "date": "2026-07-02"
       }
     ]
   }
