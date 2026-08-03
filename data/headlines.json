@@ -1,10 +1,99 @@
 [
   {
+    "date": "2026-08-03",
+    "articles": [
+      {
+        "title": "Here’s why AI agents lie and cheat to reach their goals",
+        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+        "source": "TechCrunch",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "AI Conquered Coding. Fast Food Is Next",
+        "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+        "source": "Wired",
+        "date": "2026-08-03"
+      }
+    ]
+  },
+  {
     "date": "2026-08-02",
     "articles": [
       {
+        "title": "Hugging Face CEO calls hack by rogue OpenAI model \"very weird and unprecedented\"",
+        "url": "https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/",
+        "source": "CBS News",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "Resistance grows nationwide against AI data center boom",
+        "url": "https://www.cbsnews.com/video/resistance-grows-nationwide-against-ai-data-center-boom/",
+        "source": "CBS News",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "AI kill switch bill could shut down rogue models",
+        "url": "https://www.foxnews.com/tech/ai-kill-switch-bill-could-shut-down-rogue-models",
+        "source": "Fox News",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "NVIDIA is about to spend $750 billion on AI. Critics are calling it a bubble",
+        "url": "https://www.npr.org/2026/08/02/nx-s1-5913352/nvidia-is-about-to-spend-750-billion-on-ai-critics-are-calling-it-a-bubble",
+        "source": "NPR",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "Sam Altman and AI’s decel debate",
+        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "source": "TechCrunch",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+        "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+        "source": "TechCrunch",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+        "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+        "source": "TechCrunch",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+        "source": "The Verge",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "Is paying artists enough to convince them to embrace AI?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+        "source": "The Verge",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
+        "url": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
+        "source": "VentureBeat",
+        "date": "2026-08-02"
+      },
+      {
         "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
         "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+        "source": "Wired",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
+        "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
         "source": "Wired",
         "date": "2026-08-02"
       }
@@ -4886,83 +4975,6 @@
         "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
         "source": "VentureBeat",
         "date": "2026-07-04"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-03",
-    "articles": [
-      {
-        "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
-        "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
-        "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
-        "source": "CNBC",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
-        "url": "https://www.cnbc.com/2026/07/03/the-tech-download-amazon-devices-chief-panos-panay.html",
-        "source": "CNBC",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "The hunt for AI's next winners defined the stock market's holiday-shortened week",
-        "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
-        "source": "CNBC",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "The only AI glossary you’ll need this year",
-        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "source": "TechCrunch",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "Anthropic wants to develop its own drugs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "source": "The Verge",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "The Verge’s annual summer ‘in’ and ‘out’ list",
-        "url": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
-        "source": "The Verge",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
-        "url": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
-        "source": "VentureBeat",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
-        "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
-        "source": "VentureBeat",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
-        "url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
-        "source": "Wired",
-        "date": "2026-07-03"
-      },
-      {
-        "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-        "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-        "source": "Wired",
-        "date": "2026-07-03"
       }
     ]
   }
