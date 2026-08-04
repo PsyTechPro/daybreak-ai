@@ -1,10 +1,135 @@
 [
   {
+    "date": "2026-08-04",
+    "articles": [
+      {
+        "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
+        "url": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
+        "source": "CNBC",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
+        "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
+        "source": "CNBC",
+        "date": "2026-08-04"
+      }
+    ]
+  },
+  {
     "date": "2026-08-03",
     "articles": [
       {
+        "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+        "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+        "source": "Ars Technica",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+        "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+        "source": "Ars Technica",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Tokenomics: Why making AI pay is tricky",
+        "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Trump administration finalizes AI framework, official says",
+        "url": "https://www.cbsnews.com/news/trump-ai-framework-finalized/",
+        "source": "CBS News",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
+        "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+        "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
+        "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+        "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
+        "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+        "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'",
+        "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+        "url": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "U.S.-Iran talks, OpenAI's Hugging Face hack, Best Buy's new CEO and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/08/03/5-things-to-know-before-the-stock-market-opens.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+        "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "White House to host AI companies Tuesday to review new model-testing framework",
+        "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+        "source": "CNBC",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "New York school pauses humanoid classroom robot pilot program",
+        "url": "https://www.foxnews.com/tech/new-york-school-pauses-humanoid-classroom-robot-pilot",
+        "source": "Fox News",
+        "date": "2026-08-03"
+      },
+      {
         "title": "Here’s why AI agents lie and cheat to reach their goals",
         "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+        "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Trump’s AI protectionism has come for robotics",
+        "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
         "source": "MIT Technology Review",
         "date": "2026-08-03"
       },
@@ -15,8 +140,80 @@
         "date": "2026-08-03"
       },
       {
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "source": "TechCrunch",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+        "source": "TechCrunch",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Congress’ favorite AI tool? ChatGPT",
+        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+        "source": "TechCrunch",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "source": "TechCrunch",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+        "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+        "source": "TechCrunch",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "source": "TechCrunch",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+        "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+        "source": "TechCrunch",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Europe’s AI labeling and transparency rules are now in effect",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "source": "The Verge",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Asana's AI agents share memory across your company — but not your secrets",
+        "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
+        "source": "VentureBeat",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
+        "url": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
+        "source": "VentureBeat",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+        "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+        "source": "VentureBeat",
+        "date": "2026-08-03"
+      },
+      {
         "title": "AI Conquered Coding. Fast Food Is Next",
         "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+        "source": "Wired",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
+        "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
         "source": "Wired",
         "date": "2026-08-03"
       }
@@ -35,6 +232,12 @@
         "title": "Resistance grows nationwide against AI data center boom",
         "url": "https://www.cbsnews.com/video/resistance-grows-nationwide-against-ai-data-center-boom/",
         "source": "CBS News",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
+        "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+        "source": "CNBC",
         "date": "2026-08-02"
       },
       {
@@ -112,6 +315,12 @@
         "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
         "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
         "source": "Ars Technica",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+        "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+        "source": "CNBC",
         "date": "2026-08-01"
       },
       {
@@ -284,6 +493,12 @@
       {
         "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
         "url": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+        "source": "CNBC",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Trump's AI executive order nears key deadline as regulation debate intensifies",
+        "url": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
         "source": "CNBC",
         "date": "2026-07-31"
       },
@@ -4922,59 +5137,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
         "source": "The Verge",
         "date": "2026-07-05"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-04",
-    "articles": [
-      {
-        "title": "Macron and Modi turn on personal charm offensives as France and India race to secure AI investment",
-        "url": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
-        "source": "CNBC",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "Alibaba reportedly bans employees from using Claude Code",
-        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-        "source": "TechCrunch",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-        "source": "TechCrunch",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-        "source": "TechCrunch",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-        "source": "TechCrunch",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "The fanfiction community is at war with AI — and itself",
-        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-        "source": "The Verge",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "How America's 250th birthday became a test of AI-powered collective intelligence",
-        "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
-        "source": "VentureBeat",
-        "date": "2026-07-04"
-      },
-      {
-        "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
-        "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
-        "source": "VentureBeat",
-        "date": "2026-07-04"
       }
     ]
   }
