@@ -1,7 +1,96 @@
 [
   {
+    "date": "2026-08-12",
+    "articles": [
+      {
+        "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+        "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+        "source": "CNBC",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+        "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+        "source": "The Verge",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
+        "url": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
+        "source": "VentureBeat",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+        "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+        "source": "VentureBeat",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
+        "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
+        "source": "VentureBeat",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
+        "url": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+        "source": "VentureBeat",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
+        "url": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
+        "source": "VentureBeat",
+        "date": "2026-08-12"
+      }
+    ]
+  },
+  {
     "date": "2026-08-11",
     "articles": [
+      {
+        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+        "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+        "source": "Ars Technica",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "AI agent hacks gym to get its user a spot in pilates class",
+        "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Tokenomics: Why making AI pay is tricky",
+        "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+        "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Make it readable",
+        "url": "https://www.bensbites.com/p/make-it-readable",
+        "source": "Ben's Bites",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Behind Zuckerberg's essay on the future of AI and what he calls the \"most dangerous\" scenario",
+        "url": "https://www.cbsnews.com/video/zuckerbergs-essay-future-of-ai/",
+        "source": "CBS News",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
+        "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+        "source": "CNBC",
+        "date": "2026-08-11"
+      },
       {
         "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
         "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
@@ -9,9 +98,141 @@
         "date": "2026-08-11"
       },
       {
+        "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+        "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+        "source": "CNBC",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
+        "url": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
+        "source": "CNBC",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Nvidia unveils first open-source AI model since CEO Jensen Huang entered the chat",
+        "url": "https://www.cnbc.com/2026/08/11/nvidia-releases-nemotron-3point5-lightning-open-source-ai-model-.html",
+        "source": "CNBC",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
+        "url": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
+        "source": "CNBC",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+        "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+        "source": "CNBC",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+        "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+        "source": "CNBC",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+        "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+        "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+        "source": "TechCrunch",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+        "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+        "source": "TechCrunch",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+        "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+        "source": "TechCrunch",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Google’s Gemini app surges to 1 billion users",
+        "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+        "source": "TechCrunch",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "OpenAI launches ChatGPT desktop app for Linux",
+        "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+        "source": "TechCrunch",
+        "date": "2026-08-11"
+      },
+      {
         "title": "OpenAI reportedly completed a $7 billion employee tender offer",
         "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
         "source": "TechCrunch",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Uber surprised robotics company Serve by selling its entire stake",
+        "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+        "source": "TechCrunch",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Another OpenAI executive takes off",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+        "source": "The Verge",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "ChatGPT and Gemini both just passed 1 billion users",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "source": "The Verge",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
+        "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+        "source": "VentureBeat",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
+        "url": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale",
+        "source": "VentureBeat",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+        "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+        "source": "Wired",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+        "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+        "source": "Wired",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
+        "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+        "source": "Wired",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "AI Is Dead. Organoids Are Alive",
+        "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+        "source": "Wired",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+        "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+        "source": "Wired",
         "date": "2026-08-11"
       },
       {
@@ -5324,83 +5545,6 @@
         "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
         "source": "Wired",
         "date": "2026-07-13"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-12",
-    "articles": [
-      {
-        "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-        "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-        "source": "CNBC",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-        "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
-        "source": "CNBC",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
-        "url": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
-        "source": "CNBC",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "Google may use your photos and voice to train AI",
-        "url": "https://www.foxnews.com/tech/google-may-use-your-photos-voice-train-ai",
-        "source": "Fox News",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "Campaign text messages could soon get more effective — and annoying",
-        "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
-        "source": "NPR",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "Reed Jobs would rather talk about curing cancer than his last name",
-        "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-        "source": "TechCrunch",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "TechCrunch Mobility: A robotaxi ultimatum",
-        "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-        "source": "TechCrunch",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "source": "The Verge",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-        "source": "The Verge",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "DeepSeek cut prices 75%. The 100x problem remains",
-        "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
-        "source": "VentureBeat",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-        "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-        "source": "Wired",
-        "date": "2026-07-12"
-      },
-      {
-        "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
-        "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
-        "source": "Wired",
-        "date": "2026-07-12"
       }
     ]
   }
