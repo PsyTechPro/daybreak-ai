@@ -1,7 +1,90 @@
 [
   {
+    "date": "2026-08-13",
+    "articles": [
+      {
+        "title": "Amazon is using Twitch to train generative AI",
+        "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
+        "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
+        "source": "CNBC",
+        "date": "2026-08-13"
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "articles": [
+      {
+        "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+        "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+        "source": "Ars Technica",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+        "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+        "source": "Ars Technica",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+        "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+        "source": "Ars Technica",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Terabytes of credentials leaked in massive supply-chain attack",
+        "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+        "source": "Ars Technica",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "The web’s newest weapon against AI scrapers is a font",
+        "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+        "source": "Ars Technica",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+        "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+        "source": "Ars Technica",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Why Japanese firms are being so slow to use AI",
+        "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "AI’s costly build-out complicates the Fed’s inflation fight",
+        "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
+        "source": "CNBC",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Chinese tech giant Tencent sees spending surge, defends potential 'superior' AI returns",
+        "url": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
+        "source": "CNBC",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "CoreWeave gains 19%, Nebius surges 34% in post-earnings neocloud rally",
+        "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+        "source": "CNBC",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
+        "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+        "source": "CNBC",
+        "date": "2026-08-12"
+      },
       {
         "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
         "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
@@ -9,8 +92,98 @@
         "date": "2026-08-12"
       },
       {
+        "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+        "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+        "source": "CNBC",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback",
+        "url": "https://www.cnbc.com/2026/08/12/jim-cramer-ai-data-center-trade-leading-stocks.html",
+        "source": "CNBC",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
+        "url": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
+        "source": "CNBC",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Scaling AI agents with trustworthy data",
+        "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "AI chatbots are offering financial advice. Should you trust them?",
+        "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
+        "source": "NPR",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+        "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+        "source": "TechCrunch",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "AI nuclear power firm Fermi finally has a new CEO",
+        "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+        "source": "TechCrunch",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+        "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+        "source": "TechCrunch",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+        "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+        "source": "TechCrunch",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+        "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+        "source": "TechCrunch",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+        "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+        "source": "TechCrunch",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+        "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+        "source": "TechCrunch",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "source": "TechCrunch",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+        "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+        "source": "TechCrunch",
+        "date": "2026-08-12"
+      },
+      {
         "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
         "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+        "source": "The Verge",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Twitch streamers can now opt out from training Amazon’s AI",
+        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
         "source": "The Verge",
         "date": "2026-08-12"
       },
@@ -39,9 +212,57 @@
         "date": "2026-08-12"
       },
       {
+        "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+        "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+        "source": "VentureBeat",
+        "date": "2026-08-12"
+      },
+      {
         "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
         "url": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
         "source": "VentureBeat",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
+        "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
+        "source": "VentureBeat",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+        "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+        "source": "VentureBeat",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+        "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+        "source": "Wired",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+        "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+        "source": "Wired",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "The White House Is Going to Expand Its AI Policy",
+        "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+        "source": "Wired",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "You’re Thinking About Online Trends All Wrong",
+        "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+        "source": "Wired",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+        "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+        "source": "Wired",
         "date": "2026-08-12"
       }
     ]
@@ -5408,143 +5629,6 @@
         "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
         "source": "Wired",
         "date": "2026-07-14"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-13",
-    "articles": [
-      {
-        "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-        "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-        "source": "Ars Technica",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "AI companies are creating \"generative ghosts\" of deceased loved ones",
-        "url": "https://www.cbsnews.com/news/ai-ghost-chatbots-deceased-loved-ones/",
-        "source": "CBS News",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "AI is changing older workers' careers, research finds — here's how",
-        "url": "https://www.cnbc.com/2026/07/13/ai-older-workers-careers.html",
-        "source": "CNBC",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-        "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-        "source": "CNBC",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Iran strikes, Lindsey Graham, Apple takes OpenAI to court and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/07/13/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
-        "url": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
-        "source": "CNBC",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "The Download: a donor conception cap and world models for AI",
-        "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-        "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-        "source": "TechCrunch",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-        "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-        "source": "TechCrunch",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Satya Nadella has issued a shocking warning to companies using AI",
-        "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-        "source": "TechCrunch",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Should AI help you get away with killing your spouse?",
-        "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-        "source": "TechCrunch",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-        "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-        "source": "TechCrunch",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Waze adds new AI-powered features and customization updates",
-        "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-        "source": "TechCrunch",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Apple’s public betas for iOS 27 and more are out now",
-        "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
-        "source": "The Verge",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Siri AI is already changing how I use my iPhone",
-        "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-        "source": "The Verge",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-        "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-        "source": "The Verge",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Waze is getting a bunch of new AI-powered features",
-        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "source": "The Verge",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
-        "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
-        "source": "VentureBeat",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
-        "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
-        "source": "VentureBeat",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "The desktop infrastructure problem that Kubernetes finally solves",
-        "url": "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
-        "source": "VentureBeat",
-        "date": "2026-07-13"
-      },
-      {
-        "title": "Siri AI Is Becoming Apple’s Everything Tool",
-        "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-        "source": "Wired",
-        "date": "2026-07-13"
       }
     ]
   }
