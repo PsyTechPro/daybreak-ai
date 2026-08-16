@@ -1,5 +1,88 @@
 [
   {
+    "date": "2026-08-15",
+    "articles": [
+      {
+        "title": "Secondhand book sales are booming. Is it because of AI?",
+        "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+        "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "source": "CNBC",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+        "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+        "source": "CNBC",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "8 things we learned from Google's Pixel 11 event",
+        "url": "https://www.foxnews.com/tech/8-things-learned-googles-pixel-11-event",
+        "source": "Fox News",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Medicare and Social Security scams: Warning signs and tips",
+        "url": "https://www.foxnews.com/tech/medicare-social-security-scams-warning-signs-tips",
+        "source": "Fox News",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Are robotaxis finally here?",
+        "url": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+        "source": "NPR",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "source": "TechCrunch",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "How to tell if your AI platforms’ accounts have been hacked",
+        "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+        "source": "TechCrunch",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "source": "TechCrunch",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "source": "TechCrunch",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+        "source": "The Verge",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+        "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+        "source": "VentureBeat",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+        "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+        "source": "Wired",
+        "date": "2026-08-15"
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "articles": [
       {
@@ -5289,275 +5372,6 @@
         "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
         "source": "Wired",
         "date": "2026-07-17"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-16",
-    "articles": [
-      {
-        "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-        "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-        "source": "Ars Technica",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "It's official: EU will force Google to share search data and open up AI on Android",
-        "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-        "source": "Ars Technica",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-        "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-        "source": "Ars Technica",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-        "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-        "source": "Ars Technica",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Mayor to homeowner losing sleep over data center plant: \"Consider selling\"",
-        "url": "https://www.cbsnews.com/news/mississippi-elon-musk-xai-data-center-power-plant-noise/",
-        "source": "CBS News",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Meta says it's creating new safety features to help protect teens. Here's how",
-        "url": "https://www.cbsnews.com/video/meta-says-its-creating-new-safety-features-to-help-protect-teens-heres-how/",
-        "source": "CBS News",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "3 of our stocks rode the AI rally, while 3 others fell out of favor since last month",
-        "url": "https://www.cnbc.com/2026/07/16/3-of-our-stocks-rode-the-ai-rally-while-3-others-fell-out-of-favor-since-last-month.html",
-        "source": "CNBC",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
-        "url": "https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html",
-        "source": "CNBC",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
-        "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
-        "source": "CNBC",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Google DeepMind chief Demis Hassabis calls for U.S. to spearhead AI standards body",
-        "url": "https://www.cnbc.com/2026/07/14/google-deepmind-demis-hassabis-us-led-ai-standards-body.html",
-        "source": "CNBC",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Grocery sales, United earnings, Anthropic's IPO prep and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/07/16/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
-        "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
-        "source": "CNBC",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
-        "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
-        "source": "CNBC",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
-        "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
-        "source": "CNBC",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-        "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-        "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-        "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-        "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Google Vids now lets you star in your own AI videos",
-        "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
-        "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Google’s AI Mode now lets you link and interact with select apps",
-        "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-        "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-        "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-        "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
-        "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-        "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Why is OpenAI selling a ChatGPT basketball?",
-        "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "X cracks down on creators who steal content",
-        "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Yes, you can now order DoorDash from the command line",
-        "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-        "source": "TechCrunch",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
-        "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
-        "source": "The Verge",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Google is better than Apple at playing the AI regulations game",
-        "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
-        "source": "The Verge",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Google is renaming NotebookLM to Gemini Notebook",
-        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "source": "The Verge",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Netflix says around 300 titles used generative AI",
-        "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-        "source": "The Verge",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "source": "The Verge",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Roblox will let people use AI to make games on their phone",
-        "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
-        "source": "The Verge",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
-        "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
-        "source": "VentureBeat",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "source": "VentureBeat",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-        "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-        "source": "VentureBeat",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-        "source": "VentureBeat",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "source": "VentureBeat",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Zero trust must now move at agent speed",
-        "url": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
-        "source": "VentureBeat",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-        "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-        "source": "Wired",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Please Stop Making Me Opt Out of AI",
-        "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-        "source": "Wired",
-        "date": "2026-07-16"
-      },
-      {
-        "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-        "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-        "source": "Wired",
-        "date": "2026-07-16"
       }
     ]
   }
