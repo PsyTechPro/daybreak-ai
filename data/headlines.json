@@ -1,5 +1,64 @@
 [
   {
+    "date": "2026-08-16",
+    "articles": [
+      {
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "source": "TechCrunch",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "source": "TechCrunch",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "source": "TechCrunch",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "source": "The Verge",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "source": "The Verge",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "Rogue AI aren’t science fiction anymore",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "source": "The Verge",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+        "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+        "source": "VentureBeat",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+        "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+        "source": "VentureBeat",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "TerraMow V1000 Review: Show Your Lawn Some Love",
+        "url": "https://www.wired.com/review/terramow-v1000/",
+        "source": "Wired",
+        "date": "2026-08-16"
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "articles": [
       {
@@ -5193,185 +5252,6 @@
         "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
         "source": "Wired",
         "date": "2026-07-18"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-17",
-    "articles": [
-      {
-        "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-        "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Anthropic in early talks with Meta to acquire compute power",
-        "url": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
-        "source": "CNBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Apple, Nvidia vie for title of world's most valuable company",
-        "url": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
-        "source": "CNBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
-        "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
-        "source": "CNBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
-        "url": "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
-        "source": "CNBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
-        "url": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
-        "source": "CNBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "SoftBank sinks over 9% as Asia chip stocks track Wall Street AI sell-off",
-        "url": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
-        "source": "CNBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
-        "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
-        "source": "CNBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "U.S.-China AI feud sees ASML walk tightrope between sales and geopolitics",
-        "url": "https://www.cnbc.com/2026/07/17/us-china-ai-feud-asml-tightrope-sales-geopolitics.html",
-        "source": "CNBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
-        "url": "https://www.cnbc.com/2026/07/17/x-china-ai-summit-risks-security.html",
-        "source": "CNBC",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Fox News AI Newsletter: IBM's AI warning sends 'shockwave'",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-ibm-ai-warning-sends-shockwave",
-        "source": "Fox News",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-        "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
-        "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
-        "source": "NPR",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "AI-driven memory crunch jolts India’s smartphone market",
-        "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-        "source": "TechCrunch",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Agility Robotics plants its flag in Tesla’s backyard",
-        "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-        "source": "TechCrunch",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-        "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-        "source": "TechCrunch",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-        "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-        "source": "TechCrunch",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
-        "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-        "source": "TechCrunch",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-        "source": "TechCrunch",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-        "source": "TechCrunch",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-        "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-        "source": "TechCrunch",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Apple’s plot to crush OpenAI",
-        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-        "source": "The Verge",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "TikTok is testing an AI likeness detection tool",
-        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "source": "The Verge",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
-        "url": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
-        "source": "VentureBeat",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
-        "url": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
-        "source": "VentureBeat",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
-        "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
-        "source": "VentureBeat",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
-        "url": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
-        "source": "VentureBeat",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
-        "url": "https://www.wired.com/story/best-smart-speakers/",
-        "source": "Wired",
-        "date": "2026-07-17"
-      },
-      {
-        "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-        "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-        "source": "Wired",
-        "date": "2026-07-17"
       }
     ]
   }
