@@ -1,11 +1,208 @@
 [
   {
+    "date": "2026-08-19",
+    "articles": [
+      {
+        "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
+        "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+        "source": "VentureBeat",
+        "date": "2026-08-19"
+      }
+    ]
+  },
+  {
     "date": "2026-08-18",
     "articles": [
+      {
+        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+        "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+        "source": "Ars Technica",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+        "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+        "url": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Do you use a personal agent?",
+        "url": "https://www.bensbites.com/p/do-you-use-a-personal-agent",
+        "source": "Ben's Bites",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn",
+        "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
+        "source": "CNBC",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+        "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+        "source": "CNBC",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Nvidia's AI moat is shifting from chips to capital",
+        "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
+        "source": "CNBC",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
+        "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+        "source": "CNBC",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "AI’s recursive self-improvement might not come so quickly after all",
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "The Download: how people really use AI, and Flock’s design choices",
+        "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "We still don’t know how people are really using AI",
+        "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+        "source": "NPR",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+        "source": "NPR",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+        "source": "TechCrunch",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+        "url": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+        "source": "TechCrunch",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Etched’s valuation doubles to $21B in a month",
+        "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+        "source": "TechCrunch",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "source": "TechCrunch",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+        "source": "TechCrunch",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Perplexity’s free AI offer left it with millions more users in India",
+        "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+        "source": "TechCrunch",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+        "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+        "source": "TechCrunch",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+        "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+        "source": "TechCrunch",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+        "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+        "source": "TechCrunch",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "source": "The Verge",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+        "source": "The Verge",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
+        "url": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
+        "source": "VentureBeat",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+        "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+        "source": "VentureBeat",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Commerce AI is fragmenting. Here is why that matters.",
+        "url": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
+        "source": "VentureBeat",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x",
+        "url": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
+        "source": "VentureBeat",
+        "date": "2026-08-18"
+      },
       {
         "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
         "url": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
         "source": "VentureBeat",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+        "source": "Wired",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+        "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+        "source": "Wired",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+        "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+        "source": "Wired",
         "date": "2026-08-18"
       }
     ]
@@ -5288,59 +5485,6 @@
         "url": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
         "source": "Wired",
         "date": "2026-07-20"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-19",
-    "articles": [
-      {
-        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-        "source": "TechCrunch",
-        "date": "2026-07-19"
-      },
-      {
-        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-        "source": "TechCrunch",
-        "date": "2026-07-19"
-      },
-      {
-        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-        "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-        "source": "TechCrunch",
-        "date": "2026-07-19"
-      },
-      {
-        "title": "TechCrunch Mobility: The battle over robotaxi rules",
-        "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
-        "source": "TechCrunch",
-        "date": "2026-07-19"
-      },
-      {
-        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-        "source": "TechCrunch",
-        "date": "2026-07-19"
-      },
-      {
-        "title": "Birdfy&#8217;s solar-powered smart feeder is down to one of its best prices",
-        "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
-        "source": "The Verge",
-        "date": "2026-07-19"
-      },
-      {
-        "title": "I hate that I don’t hate this song made with Suno",
-        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-        "source": "The Verge",
-        "date": "2026-07-19"
-      },
-      {
-        "title": "The cleanup trap: Stop asking RAG to fix bad data",
-        "url": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
-        "source": "VentureBeat",
-        "date": "2026-07-19"
       }
     ]
   }
