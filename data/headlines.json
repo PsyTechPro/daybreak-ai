@@ -3,9 +3,201 @@
     "date": "2026-08-19",
     "articles": [
       {
+        "title": "OpenAI slows down training after its AI carried out hack",
+        "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Women lag in high-paying AI jobs boom, LinkedIn study finds",
+        "url": "https://www.cbsnews.com/news/ai-jobs-gender-gap-women-hiring/",
+        "source": "CBS News",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+        "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+        "source": "CNBC",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+        "url": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
+        "source": "CNBC",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+        "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+        "source": "CNBC",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+        "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
+        "source": "CNBC",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
+        "url": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
+        "source": "CNBC",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "U.S. retreat from global order ‘eroding’ European competitiveness, central bank boss warns",
+        "url": "https://www.cnbc.com/2026/08/19/lagarde-ecb-europe-economy-trump.html",
+        "source": "CNBC",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Thousands of North Korean IT workers are infiltrating corporate America",
+        "url": "https://www.foxnews.com/tech/thousands-north-korean-it-workers-infiltrating-corporate-america",
+        "source": "Fox News",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+        "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Trump administration launches $5B AI initiative aimed at advancing science",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5935542/trump-administration-launches-5b-ai-initiative-aimed-at-advancing-science",
+        "source": "NPR",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Why tech companies are buying up tons of rare old books to train their AI models",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5936438/why-tech-companies-are-buying-up-tons-of-rare-old-books-to-train-their-ai-models",
+        "source": "NPR",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "AI was supposed to win people over by now — it hasn’t",
+        "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Meet the startup helping Wall Street put a price on AI compute",
+        "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Researchers say OpenAI revoked their access to limited cyber program",
+        "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+        "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+        "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+        "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+        "source": "TechCrunch",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Google Gemini is getting a dedicated student hub",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "source": "The Verge",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Meta AI is getting a Mac app",
+        "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+        "source": "The Verge",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "OpenAI hit the brakes. Now what?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "source": "The Verge",
+        "date": "2026-08-19"
+      },
+      {
         "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
         "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
         "source": "VentureBeat",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+        "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+        "source": "VentureBeat",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+        "source": "VentureBeat",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+        "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+        "source": "Wired",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+        "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+        "source": "Wired",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Google Pixel Watch 5 Review: More Health, More AI",
+        "url": "https://www.wired.com/review/google-pixel-watch-5/",
+        "source": "Wired",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+        "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+        "source": "Wired",
         "date": "2026-08-19"
       }
     ]
@@ -5306,185 +5498,6 @@
         "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
         "source": "Wired",
         "date": "2026-07-21"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-20",
-    "articles": [
-      {
-        "title": "Beyond grep: The case for a context-rich AI coding harness",
-        "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-        "source": "Ars Technica",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-        "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
-        "source": "Ars Technica",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer",
-        "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
-        "source": "CNBC",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Alphabet stock pops on report it's developing a more efficient AI chip",
-        "url": "https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
-        "source": "CNBC",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Bezos backs CuspAI as startup teams up with Nvidia to hunt for chipmaking materials",
-        "url": "https://www.cnbc.com/2026/07/20/bezos-cuspai-new-chip-materials-nvidia.html",
-        "source": "CNBC",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
-        "url": "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html",
-        "source": "CNBC",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says",
-        "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
-        "source": "CNBC",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Trump administration's head of AI safety agency resigns after 3 months on job",
-        "url": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
-        "source": "CNBC",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "AI is more likely than humans to form biases when hiring",
-        "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "China’s AI models have Trump’s AI world at war with itself",
-        "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "The Download: AI hiring biases, and weather data sabotage",
-        "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Who should regulate global AI? China makes a play for leadership",
-        "url": "https://www.npr.org/2026/07/20/nx-s1-5886477/who-should-regulate-global-ai-china-makes-a-play-for-leadership",
-        "source": "NPR",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "AI’s most important protocol is getting a little bit easier to use",
-        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-        "source": "TechCrunch",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Adobe camera app’s new feature will critique your photos using AI",
-        "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-        "source": "TechCrunch",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-        "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-        "source": "TechCrunch",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-        "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
-        "source": "TechCrunch",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-        "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-        "source": "TechCrunch",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-        "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-        "source": "TechCrunch",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "OpenAI is scared of open-weight models. Should the US be?",
-        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-        "source": "TechCrunch",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Trump’s latest AI czar has already resigned",
-        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-        "source": "TechCrunch",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "YouTube clarifies policies around AI slop and upsetting videos",
-        "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-        "source": "TechCrunch",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-        "source": "The Verge",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
-        "url": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
-        "source": "VentureBeat",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "AI confidence just dropped 17 points in six months. That’s actually great news.",
-        "url": "https://venturebeat.com/security/ai-confidence-just-dropped-17-points-in-six-months-thats-actually-great-news",
-        "source": "VentureBeat",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build",
-        "url": "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build",
-        "source": "VentureBeat",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
-        "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
-        "source": "VentureBeat",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "The cleanup trap: Stop asking RAG to fix bad data",
-        "url": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
-        "source": "VentureBeat",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "Writer's AI harness cuts token spend nearly 40% — without sacrificing accuracy",
-        "url": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
-        "source": "VentureBeat",
-        "date": "2026-07-20"
-      },
-      {
-        "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
-        "url": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
-        "source": "Wired",
-        "date": "2026-07-20"
       }
     ]
   }
