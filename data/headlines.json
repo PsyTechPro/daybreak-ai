@@ -3,9 +3,69 @@
     "date": "2026-08-22",
     "articles": [
       {
+        "title": "Robot horse and rider steal the spotlight at Chinese conference",
+        "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Nvidia customers reportedly warned about AI-related price hikes",
+        "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+        "source": "CNBC",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
+        "url": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
+        "source": "CNBC",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Social robotics expert Naomi Fitter on why humanoid robots are reaching a tipping point",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5940003/social-robotics-expert-naomi-fitter-on-why-humanoid-robots-are-reaching-a-tipping-point",
+        "source": "NPR",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "source": "TechCrunch",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "source": "TechCrunch",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "source": "TechCrunch",
+        "date": "2026-08-22"
+      },
+      {
         "title": "Michael Polansky is training an AI model on skin that’s still alive",
         "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
         "source": "TechCrunch",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "source": "TechCrunch",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+        "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+        "source": "TechCrunch",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
+        "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
+        "source": "VentureBeat",
         "date": "2026-08-22"
       }
     ]
@@ -5048,317 +5108,6 @@
         "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
         "source": "Wired",
         "date": "2026-07-24"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-23",
-    "articles": [
-      {
-        "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-        "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-        "source": "Ars Technica",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-        "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-        "source": "Ars Technica",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Forgot your Google password? Now you can log in with a selfie.",
-        "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-        "source": "Ars Technica",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-        "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-        "source": "Ars Technica",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Google burning through cash with spiralling AI costs",
-        "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
-        "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Man sues OpenAI, alleging bad medical advice: \"It manipulated me\"",
-        "url": "https://www.cbsnews.com/video/man-sues-openai-alleging-bad-medical-advice-it-manipulated-me/",
-        "source": "CBS News",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "OpenAI says its technology, on its own, hacked another AI company",
-        "url": "https://www.cbsnews.com/news/openai-technology-on-its-own-unprecedented-hack-another-ai-company-hugging-face/",
-        "source": "CBS News",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
-        "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Cerebras stock gains on AMD partnership",
-        "url": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "IBM lowers full-year forecast after earnings warning",
-        "url": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
-        "url": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
-        "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
-        "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
-        "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
-        "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Tesla and Alphabet shares slump in premarket trading as AI spending concerns spook investors",
-        "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "These Japanese AI winners don’t make chips. They make toilets, glass fiber and seasoning",
-        "url": "https://www.cnbc.com/2026/07/22/japanese-ai-winners-toilets-fiberglass-and-seasoning.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending",
-        "url": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
-        "source": "CNBC",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "AI builds virtual homes where robots learn from their mistakes",
-        "url": "https://www.foxnews.com/tech/ai-builds-virtual-homes-robots-learn-mistakes",
-        "source": "Fox News",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Trump launches Gold Eagle to hunt cyber flaws with AI",
-        "url": "https://www.foxnews.com/tech/trump-launches-gold-eagle-hunt-cyber-flaws-ai",
-        "source": "Fox News",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "How AI helps scientists design the next generation of medicines",
-        "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "The Download: energy transmission and US threats against Chinese AI",
-        "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "A town renamed its festival 'AI Love Irondale Day.' Then came the comments",
-        "url": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
-        "source": "NPR",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
-        "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
-        "source": "NPR",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "OpenAI says AI models hacked into another AI company without being instructed",
-        "url": "https://www.npr.org/2026/07/23/nx-s1-5903083/openai-says-ai-models-hacked-into-another-ai-company-without-being-instructed",
-        "source": "NPR",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-        "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-        "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-        "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Anthropic updates Claude voice mode with more capable models",
-        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Google’s Gemini nears billion-user milestone",
-        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-        "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-        "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-        "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "OpenAI makes ChatGPT Health available to all US users",
-        "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Runway launches AI model router as generative media gets crowded",
-        "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-        "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-        "source": "TechCrunch",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "source": "The Verge",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Claude’s voice mode is now available for Opus and Sonnet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-        "source": "The Verge",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "source": "The Verge",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Patreon is laying off 20 percent of workers",
-        "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-        "source": "The Verge",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
-        "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
-        "source": "VentureBeat",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio — but in limited release to start",
-        "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
-        "source": "VentureBeat",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
-        "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
-        "source": "VentureBeat",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Multi-turn attacks broke AI models 88% of the time — single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026",
-        "url": "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time",
-        "source": "VentureBeat",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-        "url": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "source": "VentureBeat",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-        "url": "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-        "source": "VentureBeat",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "url": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "source": "VentureBeat",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-        "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-        "source": "Wired",
-        "date": "2026-07-23"
-      },
-      {
-        "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
-        "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
-        "source": "Wired",
-        "date": "2026-07-23"
       }
     ]
   }
