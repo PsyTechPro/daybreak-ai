@@ -1,5 +1,57 @@
 [
   {
+    "date": "2026-08-24",
+    "articles": [
+      {
+        "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+        "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+        "source": "CNBC",
+        "date": "2026-08-24"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "articles": [
+      {
+        "title": "America's AI backlash: How the effort to keep worker trust is evolving inside companies",
+        "url": "https://www.cnbc.com/2026/08/23/ai-backlash-workers-job-losses.html",
+        "source": "CNBC",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "AI agent hacks gym system to move up waitlist",
+        "url": "https://www.foxnews.com/tech/ai-agent-hacks-gym-system-move-up-waitlist",
+        "source": "Fox News",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+        "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "source": "TechCrunch",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+        "source": "TechCrunch",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "source": "TechCrunch",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+        "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+        "source": "VentureBeat",
+        "date": "2026-08-23"
+      }
+    ]
+  },
+  {
     "date": "2026-08-22",
     "articles": [
       {
@@ -4905,209 +4957,6 @@
         "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
         "source": "Wired",
         "date": "2026-07-25"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "articles": [
-      {
-        "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-        "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-        "source": "Ars Technica",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-        "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-        "source": "Ars Technica",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Canadian legislator reads out apparent LLM response in floor speech",
-        "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-        "source": "Ars Technica",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-        "url": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-        "source": "Ars Technica",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-        "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-        "source": "Ars Technica",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-        "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Lawmakers propose AI \"kill switch\" bill after unprecedented cyber attack",
-        "url": "https://www.cbsnews.com/video/lawmakers-propose-ai-kill-switch-bill-after-unprecedented-cyber-attack/",
-        "source": "CBS News",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "1 hyperscaler megacap down, 3 to go. Alphabet raises the stakes on AI spending",
-        "url": "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html",
-        "source": "CNBC",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Amazon cracks down on use of AI images by sellers after New York law",
-        "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
-        "source": "CNBC",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
-        "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
-        "source": "CNBC",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Bond market anxiety is growing over AI capex budgets",
-        "url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
-        "source": "CNBC",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
-        "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
-        "source": "CNBC",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-        "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-        "source": "CNBC",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
-        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-        "source": "CNBC",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
-        "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html",
-        "source": "CNBC",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Anthropic launches Opus 5",
-        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-        "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
-        "url": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Midjourney acquired the astrology app Co-Star",
-        "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-        "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-        "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-        "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-        "source": "TechCrunch",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Midjourney bought the astrology app Co-Star",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-        "source": "The Verge",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-        "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
-        "source": "VentureBeat",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
-        "url": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
-        "source": "VentureBeat",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast/",
-        "source": "Wired",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Kagi Brings Back Old-School Search, One Human-Made Website at a Time",
-        "url": "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/",
-        "source": "Wired",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-        "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-        "source": "Wired",
-        "date": "2026-07-24"
-      },
-      {
-        "title": "Some Kids Will Never Think AI Is Cool",
-        "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-        "source": "Wired",
-        "date": "2026-07-24"
       }
     ]
   }
