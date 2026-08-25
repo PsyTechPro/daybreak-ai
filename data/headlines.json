@@ -1,11 +1,142 @@
 [
   {
+    "date": "2026-08-25",
+    "articles": [
+      {
+        "title": "Songs created by AI banned from Australia's music charts",
+        "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "source": "TechCrunch",
+        "date": "2026-08-25"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "articles": [
+      {
+        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+        "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+        "source": "Ars Technica",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+        "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+        "source": "Ars Technica",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+        "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "How long before China is ready to deploy humanoid robot soldiers?",
+        "url": "https://www.cbsnews.com/news/china-humanoid-robot-soldiers-only-years-away-developer-tells-cbs-news/",
+        "source": "CBS News",
+        "date": "2026-08-24"
+      },
       {
         "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
         "url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
         "source": "CNBC",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+        "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+        "source": "CNBC",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Nvidia says Groq racks will be online this year following $20 billion purchase",
+        "url": "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
+        "source": "CNBC",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "AI chatbot privacy: What your AI may know about you",
+        "url": "https://www.foxnews.com/tech/ai-chatbot-privacy-what-your-ai-may-know-about-you",
+        "source": "Fox News",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "How to encourage smarter AI use in the classroom",
+        "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Kids outlearn AI—and we still don’t know why",
+        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "The Download: kids outlearning AI, and space travel agents",
+        "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "OpenAI says it will slow its AI model development to shore up safety",
+        "url": "https://www.npr.org/2026/08/24/nx-s1-5943167/openai-says-it-will-slow-its-ai-model-development-to-shore-up-safety",
+        "source": "NPR",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+        "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+        "source": "TechCrunch",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Hugging Face reportedly in talks to be acquired for $13B",
+        "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+        "source": "TechCrunch",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+        "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+        "source": "TechCrunch",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "source": "TechCrunch",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+        "source": "TechCrunch",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+        "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+        "source": "VentureBeat",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores",
+        "url": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
+        "source": "VentureBeat",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+        "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+        "source": "Wired",
         "date": "2026-08-24"
       }
     ]
@@ -4892,71 +5023,6 @@
         "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
         "source": "TechCrunch",
         "date": "2026-07-26"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "articles": [
-      {
-        "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-        "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Are you following brand-sponsored AI influencers?",
-        "url": "https://www.cbsnews.com/video/are-you-following-brand-sponsored-ai-influencers/",
-        "source": "CBS News",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "ChatGPT now has a space for sharing medical records. Should you?",
-        "url": "https://www.cbsnews.com/news/chatgpt-health-medical-records-advice-expert-risks/",
-        "source": "CBS News",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-        "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-        "source": "CNBC",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-        "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-        "source": "CNBC",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-        "source": "TechCrunch",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-        "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-        "source": "TechCrunch",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-        "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-        "source": "TechCrunch",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "Google basically confirms the Pixel 11 is getting a price hike",
-        "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-        "source": "The Verge",
-        "date": "2026-07-25"
-      },
-      {
-        "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-        "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-        "source": "Wired",
-        "date": "2026-07-25"
       }
     ]
   }
