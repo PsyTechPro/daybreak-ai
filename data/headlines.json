@@ -1,10 +1,171 @@
 [
   {
+    "date": "2026-08-28",
+    "articles": [
+      {
+        "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+        "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+        "source": "Ars Technica",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+        "source": "Ars Technica",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+        "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Younger workers are more scared of AI than older employees, survey finds",
+        "url": "https://www.cbsnews.com/news/gen-z-workers-fear-ai-glassdoor-survey/",
+        "source": "CBS News",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test",
+        "url": "https://www.cnbc.com/2026/08/28/big-techs-ai-spending-is-putting-a-longtime-strengths-to-the-test.html",
+        "source": "CNBC",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+        "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+        "source": "CNBC",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics",
+        "url": "https://www.cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
+        "source": "CNBC",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access",
+        "url": "https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html",
+        "source": "CNBC",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Fox News AI Newsletter: The industry sparking blue-collar jobs boom",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-industry-sparking-blue-collar-jobs-boom",
+        "source": "Fox News",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+        "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
+        "source": "NPR",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+        "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+        "source": "TechCrunch",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+        "source": "TechCrunch",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+        "source": "TechCrunch",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+        "source": "TechCrunch",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+        "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+        "source": "TechCrunch",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+        "source": "The Verge",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+        "source": "The Verge",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
+        "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
+        "source": "VentureBeat",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
+        "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+        "source": "VentureBeat",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
+        "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
+        "source": "VentureBeat",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
+        "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+        "source": "Wired",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+        "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+        "source": "Wired",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
+        "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+        "source": "Wired",
+        "date": "2026-08-28"
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "articles": [
       {
+        "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+        "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+        "source": "Ars Technica",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+        "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+        "source": "Ars Technica",
+        "date": "2026-08-27"
+      },
+      {
         "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
         "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+        "source": "Ars Technica",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+        "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
         "source": "Ars Technica",
         "date": "2026-08-27"
       },
@@ -21,6 +182,12 @@
         "date": "2026-08-27"
       },
       {
+        "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+        "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+        "source": "Ars Technica",
+        "date": "2026-08-27"
+      },
+      {
         "title": "Google, Microsoft and OpenAI among 100 firms calling for better cyber defences",
         "url": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
@@ -33,8 +200,32 @@
         "date": "2026-08-27"
       },
       {
+        "title": "OpenAI, Anthropic warn AI cyberattacks could surge in coming months",
+        "url": "https://www.cbsnews.com/news/openai-anthropic-ai-cyber-threat-warning/",
+        "source": "CBS News",
+        "date": "2026-08-27"
+      },
+      {
         "title": "'We have a limited window': 116 companies, entities sign on to major AI cyber defense push",
         "url": "https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html",
+        "source": "CNBC",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "AI bursts to the front of Massachusetts Democratic Senate primary",
+        "url": "https://www.cnbc.com/2026/08/27/ai-massachusetts-democratic-senate-primary-markey-moulton.html",
+        "source": "CNBC",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines",
+        "url": "https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html",
+        "source": "CNBC",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "CrowdStrike CEO: AI exposes dangerous cyber gaps that legacy tools can’t handle",
+        "url": "https://www.cnbc.com/2026/08/27/crowdstrike-ceo-ai-exposes-dangerous-cyber-gaps.html",
         "source": "CNBC",
         "date": "2026-08-27"
       },
@@ -111,8 +302,20 @@
         "date": "2026-08-27"
       },
       {
+        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "date": "2026-08-27"
+      },
+      {
         "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
         "url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+        "source": "TechCrunch",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+        "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
         "source": "TechCrunch",
         "date": "2026-08-27"
       },
@@ -189,6 +392,12 @@
         "date": "2026-08-27"
       },
       {
+        "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+        "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+        "source": "The Verge",
+        "date": "2026-08-27"
+      },
+      {
         "title": "OpenAI&#8217;s executive exodus has one big winner",
         "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
         "source": "The Verge",
@@ -225,6 +434,12 @@
         "date": "2026-08-27"
       },
       {
+        "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+        "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+        "source": "Wired",
+        "date": "2026-08-27"
+      },
+      {
         "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
         "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
         "source": "Wired",
@@ -239,6 +454,12 @@
       {
         "title": "The UK Power Grid Has a Phantom Data Center Problem",
         "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+        "source": "Wired",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+        "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
         "source": "Wired",
         "date": "2026-08-27"
       }
@@ -5078,221 +5299,6 @@
         "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
         "source": "Wired",
         "date": "2026-07-29"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "articles": [
-      {
-        "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-        "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-        "source": "Ars Technica",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-        "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-        "source": "Ars Technica",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Some people's chats with Claude AI found to be publicly available online",
-        "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Tech Life",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Tech Life",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Apple touches $5 trillion market cap for first time",
-        "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
-        "source": "CNBC",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
-        "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
-        "source": "CNBC",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
-        "url": "https://www.cnbc.com/2026/07/28/jim-cramer-wall-street-fleeing-ai-trade-buying-these-stocks.html",
-        "source": "CNBC",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Microsoft touts cost-saving AI model for cybersecurity",
-        "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
-        "source": "CNBC",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "SpaceX stock-purchasing by Congress members fuels conflict concerns",
-        "url": "https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html",
-        "source": "CNBC",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-        "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-        "source": "MIT Technology Review",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "AI executive calls OpenAI hacking event a wake-up call for the industry",
-        "url": "https://www.npr.org/2026/07/28/nx-s1-5908495/ai-executive-calls-openai-hacking-event-a-wake-up-call-for-the-industry",
-        "source": "NPR",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "AI tokens could become the kilowatt-hour of the AI age",
-        "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
-        "source": "NPR",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Allegations of AI distillation spark debate about IP theft. But is it illegal?",
-        "url": "https://www.npr.org/2026/07/28/nx-s1-5909652/allegations-of-ai-distillation-spark-debate-about-ip-theft-but-is-it-illegal",
-        "source": "NPR",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-        "source": "TechCrunch",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-        "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-        "source": "TechCrunch",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Granola launches an Apple Watch app",
-        "url": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
-        "source": "TechCrunch",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-        "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
-        "source": "TechCrunch",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-        "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-        "source": "TechCrunch",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-        "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-        "source": "TechCrunch",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-        "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-        "source": "TechCrunch",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "AI leaders sign a statement asking the government to do something about automated AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "source": "The Verge",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "AI’s finally expensive enough to make Wall Street nervous",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-        "source": "The Verge",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Hugging Face is being used to easily undress women and children",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-        "source": "The Verge",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Fiduciary AI: Agents need to prove trustworthiness, not just ability",
-        "url": "https://venturebeat.com/security/fiduciary-ai-agents-need-to-prove-trustworthiness-not-just-ability",
-        "source": "VentureBeat",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests",
-        "url": "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests",
-        "source": "VentureBeat",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Instacart's CTO says AI made the company stop worrying about tech debt",
-        "url": "https://venturebeat.com/orchestration/instacarts-cto-says-ai-made-the-company-stop-worrying-about-tech-debt",
-        "source": "VentureBeat",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
-        "url": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
-        "source": "VentureBeat",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "MCP just got its biggest update ever — here’s what changes for AI agents",
-        "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
-        "source": "VentureBeat",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Runway couldn't fix a bug in its AI video model, so it turned the bug into a feature",
-        "url": "https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature",
-        "source": "VentureBeat",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
-        "url": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
-        "source": "VentureBeat",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
-        "url": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible",
-        "source": "VentureBeat",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-        "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-        "source": "Wired",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Hugging Face Has a Deepfake Nudes Problem",
-        "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-        "source": "Wired",
-        "date": "2026-07-28"
-      },
-      {
-        "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-        "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-        "source": "Wired",
-        "date": "2026-07-28"
       }
     ]
   }
