@@ -1,7 +1,66 @@
 [
   {
+    "date": "2026-09-01",
+    "articles": [
+      {
+        "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+        "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+        "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+        "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+        "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
+        "url": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Made in America: How AI is keeping this U.S. factory competitive",
+        "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
+        "source": "NPR",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+        "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
+        "url": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
+        "source": "VentureBeat",
+        "date": "2026-09-01"
+      }
+    ]
+  },
+  {
     "date": "2026-08-31",
     "articles": [
+      {
+        "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+        "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+        "source": "Ars Technica",
+        "date": "2026-08-31"
+      },
       {
         "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
         "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
@@ -9,8 +68,38 @@
         "date": "2026-08-31"
       },
       {
+        "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+        "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+        "source": "Ars Technica",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Growing backlash against data centers in American cities as poll finds over 70% oppose them",
+        "url": "https://www.cbsnews.com/video/growing-backlash-data-centers-american-cities-poll-finds-over-70-oppose/",
+        "source": "CBS News",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Shocking details of OpenAI models' Hugging Face hack",
+        "url": "https://www.cbsnews.com/video/shocking-details-of-openai-models-hack-into-hugging-face/",
+        "source": "CBS News",
+        "date": "2026-08-31"
+      },
+      {
         "title": "Bank of England chief warns new AI models threaten global financial stability",
         "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+        "source": "CNBC",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
+        "url": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
+        "source": "CNBC",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
+        "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
         "source": "CNBC",
         "date": "2026-08-31"
       },
@@ -21,8 +110,50 @@
         "date": "2026-08-31"
       },
       {
+        "title": "Trump says U.S. communities opposing AI data centers could end up 'backwards and poor'",
+        "url": "https://www.cnbc.com/2026/08/31/trump-data-centers-backlash-elections-congress.html",
+        "source": "CNBC",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+        "source": "MIT Technology Review",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+        "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+        "source": "TechCrunch",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+        "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+        "source": "TechCrunch",
+        "date": "2026-08-31"
+      },
+      {
         "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
         "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+        "source": "TechCrunch",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+        "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+        "source": "TechCrunch",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Instagram puts new limits on undisclosed AI profiles",
+        "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+        "source": "TechCrunch",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
         "source": "TechCrunch",
         "date": "2026-08-31"
       },
@@ -47,6 +178,12 @@
       {
         "title": "Identity and permissions aren’t enough to govern AI agent behavior",
         "url": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
+        "source": "VentureBeat",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
+        "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
         "source": "VentureBeat",
         "date": "2026-08-31"
       },
@@ -4568,77 +4705,6 @@
         "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
         "source": "Wired",
         "date": "2026-08-02"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-01",
-    "articles": [
-      {
-        "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-        "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-        "source": "Ars Technica",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-        "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-        "source": "Ars Technica",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-        "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-        "source": "CNBC",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
-        "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-        "source": "NPR",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "source": "TechCrunch",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "Sam Altman is still making the case for parenting via ChatGPT",
-        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-        "source": "TechCrunch",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-        "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-        "source": "TechCrunch",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-        "source": "TechCrunch",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "Is this Billboard Hot 100 hit AI slop?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-        "source": "The Verge",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-        "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-        "source": "Wired",
-        "date": "2026-08-01"
-      },
-      {
-        "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-        "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-        "source": "Wired",
-        "date": "2026-08-01"
       }
     ]
   }
