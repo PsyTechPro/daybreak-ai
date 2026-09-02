@@ -1,5 +1,40 @@
 [
   {
+    "date": "2026-09-02",
+    "articles": [
+      {
+        "title": "G20 live updates: Canada blew up trade deal for political reasons, Lutnick tells CNBC",
+        "url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+        "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+        "source": "CNBC",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
+        "url": "https://www.cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html",
+        "source": "CNBC",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "This new Roomba seals itself to your carpet",
+        "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+        "source": "The Verge",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+        "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+        "source": "Wired",
+        "date": "2026-09-02"
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "articles": [
       {
@@ -9,8 +44,44 @@
         "date": "2026-09-01"
       },
       {
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Build your ideas",
+        "url": "https://www.bensbites.com/p/build-your-ideas",
+        "source": "Ben's Bites",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "MapQuest hits No. 1 on App Store after refusing to rename Lake Ontario",
+        "url": "https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/",
+        "source": "CBS News",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Anthropic changes data retention policy after pushback from customers",
+        "url": "https://www.cnbc.com/2026/09/01/anthropic-data-retention.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
         "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
         "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+        "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
+        "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
         "source": "CNBC",
         "date": "2026-09-01"
       },
@@ -21,8 +92,38 @@
         "date": "2026-09-01"
       },
       {
+        "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
+        "url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
         "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
         "url": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
+        "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Pa. Gov. Shapiro says too many data center developers 'don't care about our communities'",
+        "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
+        "url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+        "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
         "source": "CNBC",
         "date": "2026-09-01"
       },
@@ -33,9 +134,51 @@
         "date": "2026-09-01"
       },
       {
+        "title": "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI",
+        "url": "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
+        "source": "CNBC",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "How AI plotted an interstellar journey to Alpha Centauri",
+        "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Making the AI-powered case for legacy modernization",
+        "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+        "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-01"
+      },
+      {
         "title": "Made in America: How AI is keeping this U.S. factory competitive",
         "url": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
         "source": "NPR",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+        "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "source": "TechCrunch",
         "date": "2026-09-01"
       },
       {
@@ -45,9 +188,105 @@
         "date": "2026-09-01"
       },
       {
+        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+        "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Fambot introduces an ‘AI chief of staff’ for families",
+        "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "GoPro to be acquired for $285M, will remain a public company",
+        "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+        "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+        "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+        "source": "TechCrunch",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "source": "The Verge",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Google needs Hollywood more than the studios need AI",
+        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+        "source": "The Verge",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "AI is redefining the workforce — and most planning models aren’t ready",
+        "url": "https://venturebeat.com/orchestration/ai-is-redefining-the-workforce-and-most-planning-models-arent-ready",
+        "source": "VentureBeat",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+        "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+        "source": "VentureBeat",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
+        "url": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open",
+        "source": "VentureBeat",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
+        "url": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
+        "source": "VentureBeat",
+        "date": "2026-09-01"
+      },
+      {
         "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
         "url": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
         "source": "VentureBeat",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
+        "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
+        "source": "VentureBeat",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+        "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+        "source": "Wired",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+        "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+        "source": "Wired",
         "date": "2026-09-01"
       }
     ]
@@ -4622,89 +4861,6 @@
         "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
         "source": "Wired",
         "date": "2026-08-03"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "articles": [
-      {
-        "title": "Hugging Face CEO calls hack by rogue OpenAI model \"very weird and unprecedented\"",
-        "url": "https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/",
-        "source": "CBS News",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "Resistance grows nationwide against AI data center boom",
-        "url": "https://www.cbsnews.com/video/resistance-grows-nationwide-against-ai-data-center-boom/",
-        "source": "CBS News",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
-        "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
-        "source": "CNBC",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "AI kill switch bill could shut down rogue models",
-        "url": "https://www.foxnews.com/tech/ai-kill-switch-bill-could-shut-down-rogue-models",
-        "source": "Fox News",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "NVIDIA is about to spend $750 billion on AI. Critics are calling it a bubble",
-        "url": "https://www.npr.org/2026/08/02/nx-s1-5913352/nvidia-is-about-to-spend-750-billion-on-ai-critics-are-calling-it-a-bubble",
-        "source": "NPR",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "Sam Altman and AI’s decel debate",
-        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-        "source": "TechCrunch",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
-        "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-        "source": "TechCrunch",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-        "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-        "source": "TechCrunch",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-        "source": "The Verge",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "Is paying artists enough to convince them to embrace AI?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-        "source": "The Verge",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
-        "url": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
-        "source": "VentureBeat",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-        "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-        "source": "Wired",
-        "date": "2026-08-02"
-      },
-      {
-        "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
-        "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
-        "source": "Wired",
-        "date": "2026-08-02"
       }
     ]
   }
