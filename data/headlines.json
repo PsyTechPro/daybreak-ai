@@ -1,10 +1,135 @@
 [
   {
+    "date": "2026-09-03",
+    "articles": [
+      {
+        "title": "Watch: BBC travels in self-driving Uber around London",
+        "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+        "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+        "source": "CNBC",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+        "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+        "source": "CNBC",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom",
+        "url": "https://www.cnbc.com/2026/09/03/us-ai-data-centers-china-supply-chain.html",
+        "source": "CNBC",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Scaling agentic AI pilots across the enterprise",
+        "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+        "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+        "source": "The Verge",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+        "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+        "source": "The Verge",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+        "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+        "source": "VentureBeat",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
+        "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "This Is Flock’s AI Search Tool for Cops",
+        "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Ugly AI Food Photos Are Only the Beginning",
+        "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "articles": [
       {
+        "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+        "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+        "source": "Ars Technica",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+        "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+        "source": "Ars Technica",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Lords call for AI 'kill switch' powers in UK",
+        "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+        "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "MapQuest hits No. 1 on App Store after refusing to rename Lake Ontario",
+        "url": "https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/",
+        "source": "CBS News",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Meta says AI glasses fix stops users from secretly recording others",
+        "url": "https://www.cbsnews.com/news/meta-ai-glasses-privacy-security-fixes/",
+        "source": "CBS News",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Dell is now the most important stock in the market. Here's why",
+        "url": "https://www.cnbc.com/2026/09/02/dell-is-now-the-most-important-stock-in-the-market-heres-why-.html",
+        "source": "CNBC",
+        "date": "2026-09-02"
+      },
+      {
         "title": "G20 live updates: Canada blew up trade deal for political reasons, Lutnick tells CNBC",
         "url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
+        "url": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
         "source": "CNBC",
         "date": "2026-09-02"
       },
@@ -21,14 +146,152 @@
         "date": "2026-09-02"
       },
       {
+        "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+        "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+        "source": "CNBC",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Snowflake spikes 22% on healthy results and AI coding momentum",
+        "url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
+        "source": "CNBC",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Cybercrime losses near $21B: 5 ways to protect your money",
+        "url": "https://www.foxnews.com/tech/cybercrime-losses-near-21b-5-ways-protect-your-money",
+        "source": "Fox News",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Facilitating AI integration with simplicity at scale",
+        "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "The Download: AI puzzles and a path to our nearest star system",
+        "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
+        "source": "NPR",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Adobe acquires Indian market intelligence startup Rilo",
+        "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+        "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+        "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+        "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+        "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "source": "TechCrunch",
+        "date": "2026-09-02"
+      },
+      {
         "title": "This new Roomba seals itself to your carpet",
         "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
         "source": "The Verge",
         "date": "2026-09-02"
       },
       {
+        "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
+        "url": "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists",
+        "source": "VentureBeat",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Forward-deployed engineering is how enterprise AI learns",
+        "url": "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
+        "source": "VentureBeat",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
+        "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
+        "source": "VentureBeat",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
+        "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke",
+        "source": "VentureBeat",
+        "date": "2026-09-02"
+      },
+      {
         "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
         "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+        "source": "Wired",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+        "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+        "source": "Wired",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+        "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+        "source": "Wired",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+        "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
         "source": "Wired",
         "date": "2026-09-02"
       }
@@ -4658,209 +4921,6 @@
         "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
         "source": "Wired",
         "date": "2026-08-04"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "articles": [
-      {
-        "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-        "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-        "source": "Ars Technica",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-        "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-        "source": "Ars Technica",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Tokenomics: Why making AI pay is tricky",
-        "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Trump administration finalizes AI framework, official says",
-        "url": "https://www.cbsnews.com/news/trump-ai-framework-finalized/",
-        "source": "CBS News",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
-        "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
-        "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
-        "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-        "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
-        "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
-        "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'",
-        "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
-        "url": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "U.S.-Iran talks, OpenAI's Hugging Face hack, Best Buy's new CEO and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/08/03/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-        "url": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "White House to host AI companies Tuesday to review new model-testing framework",
-        "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
-        "source": "CNBC",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "New York school pauses humanoid classroom robot pilot program",
-        "url": "https://www.foxnews.com/tech/new-york-school-pauses-humanoid-classroom-robot-pilot",
-        "source": "Fox News",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Here’s why AI agents lie and cheat to reach their goals",
-        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-        "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Trump’s AI protectionism has come for robotics",
-        "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-        "source": "TechCrunch",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-        "source": "TechCrunch",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-        "source": "TechCrunch",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Congress’ favorite AI tool? ChatGPT",
-        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-        "source": "TechCrunch",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-        "source": "TechCrunch",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-        "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-        "source": "TechCrunch",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-        "source": "TechCrunch",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-        "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-        "source": "TechCrunch",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Europe’s AI labeling and transparency rules are now in effect",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-        "source": "The Verge",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Asana's AI agents share memory across your company — but not your secrets",
-        "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
-        "source": "VentureBeat",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
-        "url": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
-        "source": "VentureBeat",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
-        "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
-        "source": "VentureBeat",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "AI Conquered Coding. Fast Food Is Next",
-        "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-        "source": "Wired",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
-        "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
-        "source": "Wired",
-        "date": "2026-08-03"
       }
     ]
   }
