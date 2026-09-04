@@ -1,7 +1,96 @@
 [
   {
+    "date": "2026-09-04",
+    "articles": [
+      {
+        "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
+        "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+        "source": "CNBC",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "South Korea's AI rally is reshaping romance, reality shows and academic preferences",
+        "url": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
+        "source": "CNBC",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
+        "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+        "source": "CNBC",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "source": "TechCrunch",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+        "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+        "source": "The Verge",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+        "source": "The Verge",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "The unusually muted Tesla Cybercab launch",
+        "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+        "source": "The Verge",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "This NAS company wants to run your local smart home",
+        "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+        "source": "The Verge",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Why AI food looks like that",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+        "source": "The Verge",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+        "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+        "source": "Wired",
+        "date": "2026-09-04"
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "articles": [
+      {
+        "title": "Four major AI models suffer rare overlapping downtime",
+        "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+        "source": "Ars Technica",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+        "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+        "source": "Ars Technica",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "AI data centres are booming in Australia - but at what cost?",
+        "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+        "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-03"
+      },
       {
         "title": "Watch: BBC travels in self-driving Uber around London",
         "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
@@ -9,8 +98,26 @@
         "date": "2026-09-03"
       },
       {
+        "title": "AI interviews rolling out for some federal hires, sources say",
+        "url": "https://www.cbsnews.com/news/ai-interviews-federal-government-hires/",
+        "source": "CBS News",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
+        "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+        "source": "CNBC",
+        "date": "2026-09-03"
+      },
+      {
         "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
         "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+        "source": "CNBC",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "G20 on AI policy, Snowflake earnings, Ford's production push and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/09/03/5-things-to-know-before-the-stock-market-opens.html",
         "source": "CNBC",
         "date": "2026-09-03"
       },
@@ -27,9 +134,75 @@
         "date": "2026-09-03"
       },
       {
+        "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+        "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+        "source": "CNBC",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+        "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+        "source": "CNBC",
+        "date": "2026-09-03"
+      },
+      {
         "title": "Scaling agentic AI pilots across the enterprise",
         "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
         "source": "MIT Technology Review",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Abliteration.ai is making a business out of removing AI guardrails",
+        "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+        "source": "TechCrunch",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+        "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+        "source": "TechCrunch",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+        "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+        "source": "TechCrunch",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Meta is paying to peek at how you use their latest AI model",
+        "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+        "source": "TechCrunch",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+        "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+        "source": "TechCrunch",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+        "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+        "source": "TechCrunch",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+        "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+        "source": "TechCrunch",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Startup ARR is less secure than ever, new research shows",
+        "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+        "source": "TechCrunch",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+        "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+        "source": "TechCrunch",
         "date": "2026-09-03"
       },
       {
@@ -51,8 +224,44 @@
         "date": "2026-09-03"
       },
       {
+        "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+        "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      },
+      {
         "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
         "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+        "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+        "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+        "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+        "source": "Wired",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+        "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
         "source": "Wired",
         "date": "2026-09-03"
       },
@@ -4754,173 +4963,6 @@
         "url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
         "source": "Wired",
         "date": "2026-08-05"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-04",
-    "articles": [
-      {
-        "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-        "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-        "source": "Ars Technica",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Texas halts data center connections to power grid amid overwhelming demand",
-        "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-        "source": "Ars Technica",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
-        "url": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
-        "source": "CNBC",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers",
-        "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
-        "source": "CNBC",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-        "url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
-        "source": "CNBC",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
-        "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
-        "source": "CNBC",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
-        "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
-        "url": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
-        "source": "NPR",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-        "source": "TechCrunch",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-        "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-        "source": "TechCrunch",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-        "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-        "source": "TechCrunch",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-        "source": "TechCrunch",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-        "source": "TechCrunch",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-        "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-        "source": "TechCrunch",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Spotify expands AI remix and covers project with Merlin partnership",
-        "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-        "source": "TechCrunch",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Waymo opens up robotaxi service in Dallas to everyone",
-        "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
-        "source": "TechCrunch",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
-        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-        "source": "The Verge",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "How an OpenAI influencer trip backfired",
-        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-        "source": "The Verge",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "SpaceX made more revenue as an AI company than a space company",
-        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-        "source": "The Verge",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "AI coding agents are blowing through budgets — Replit, Kilo Code, and Symbotic explain how they're managing it",
-        "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
-        "source": "VentureBeat",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Commerce AI has a measurement problem no one is talking about",
-        "url": "https://venturebeat.com/technology/commerce-ai-has-a-measurement-problem-no-one-is-talking-about",
-        "source": "VentureBeat",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "How One Startup Built a (Mostly) China-Free Robot",
-        "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-        "source": "Wired",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Is This Poker Player Bluffing? The AI Thinks So",
-        "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
-        "source": "Wired",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "Mistral Is in the Right Place at the Right Time",
-        "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
-        "source": "Wired",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-        "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
-        "source": "Wired",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-        "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-        "source": "Wired",
-        "date": "2026-08-04"
-      },
-      {
-        "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
-        "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
-        "source": "Wired",
-        "date": "2026-08-04"
       }
     ]
   }
