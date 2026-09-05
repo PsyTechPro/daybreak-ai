@@ -1,7 +1,60 @@
 [
   {
+    "date": "2026-09-05",
+    "articles": [
+      {
+        "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+        "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
+        "source": "NPR",
+        "date": "2026-09-05"
+      },
+      {
+        "title": "OpenAI Agents Hacked Another Website",
+        "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+        "source": "Wired",
+        "date": "2026-09-05"
+      }
+    ]
+  },
+  {
     "date": "2026-09-04",
     "articles": [
+      {
+        "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+        "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+        "source": "Ars Technica",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+        "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+        "source": "Ars Technica",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+        "source": "Ars Technica",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+        "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "How AI is reshaping the U.S. Open for players and fans",
+        "url": "https://www.cbsnews.com/news/us-open-ai-tennis-players-fans/",
+        "source": "CBS News",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Back-to-school shopping brought to you by AI — how Amazon, Google are positioned to win",
+        "url": "https://www.cnbc.com/2026/09/04/back-to-school-shopping-brought-to-you-by-ai-how-amazon-google-are-positioned-to-win.html",
+        "source": "CNBC",
+        "date": "2026-09-04"
+      },
       {
         "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
         "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
@@ -21,14 +74,74 @@
         "date": "2026-09-04"
       },
       {
+        "title": "Fox News AI Newsletter: The network driving fight against data centers, Flock cameras",
+        "url": "https://www.foxnews.com/tech/ai-newsletter-network-driving-fight-against-data-centers-flock-cameras",
+        "source": "Fox News",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Architecting memory and storage in the AI era",
+        "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "The Download: selling battlefield drone data and AI reshaping language",
+        "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+        "source": "TechCrunch",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+        "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+        "source": "TechCrunch",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Google’s Gemini Spark can now manage your Google Photos library",
+        "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+        "source": "TechCrunch",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "source": "TechCrunch",
+        "date": "2026-09-04"
+      },
+      {
         "title": "The sameness problem behind those unappetizing AI-generated menus",
         "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
         "source": "TechCrunch",
         "date": "2026-09-04"
       },
       {
+        "title": "AGI is whatever you want it to be",
+        "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+        "source": "The Verge",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+        "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+        "source": "The Verge",
+        "date": "2026-09-04"
+      },
+      {
         "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
         "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+        "source": "The Verge",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Roland is getting into generative AI music with Melody Flip",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
         "source": "The Verge",
         "date": "2026-09-04"
       },
@@ -59,6 +172,12 @@
       {
         "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
         "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+        "source": "Wired",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+        "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
         "source": "Wired",
         "date": "2026-09-04"
       }
@@ -4664,305 +4783,6 @@
         "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
         "source": "Wired",
         "date": "2026-08-06"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "articles": [
-      {
-        "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-        "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-        "source": "Ars Technica",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Google plans to kill Assistant on your phone on September 4",
-        "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-        "source": "Ars Technica",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
-        "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-        "source": "Ars Technica",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-        "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-        "source": "Ars Technica",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "AI or real? BBC analyses viral China disaster videos",
-        "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "AI models are behaving unexpectedly. Experts warn of a \"bumpy road\" ahead.",
-        "url": "https://www.cbsnews.com/news/ai-models-behaving-unexpectedly-security-experts/",
-        "source": "CBS News",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "SpaceX shows strong growth in its first earnings report since IPO",
-        "url": "https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/",
-        "source": "CBS News",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Why SpaceX stock is falling despite strong revenue growth",
-        "url": "https://www.cbsnews.com/news/spacex-stock-falls-ai-spending/",
-        "source": "CBS News",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "AMD plummets 8% in premarket trading despite beating expectations",
-        "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Anthropic's Mythos created fake identities to fool humans in new cyber incident",
-        "url": "https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
-        "url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-        "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push",
-        "url": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "SoftBank jumps 13% as Asia tech stocks track Wall Street AI rally",
-        "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "SpaceX dives 10% after AI spending surge rattles investors",
-        "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "SpaceX earnings takeaways: Soaring AI costs outweigh revenue beat in first report since IPO",
-        "url": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
-        "url": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff",
-        "url": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "We're adding to our position in a chipmaker as the AI trade regains its footing",
-        "url": "https://www.cnbc.com/2026/08/05/were-adding-to-our-position-in-a-chipmaker-as-the-ai-trade-regains-its-footing.html",
-        "source": "CNBC",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-        "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-        "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-        "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
-        "url": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-        "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-        "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Why Lightspeed is going all-in on creator-led venture capital",
-        "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-        "source": "TechCrunch",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Google just announced a major shakeup of its top AI leadership",
-        "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-        "source": "The Verge",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Reddit is introducing a new moderator: AI",
-        "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-        "source": "The Verge",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Rogue AI agents created fake online identities in another hacking attempt",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-        "source": "The Verge",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "SpaceX is barely Space and mostly X",
-        "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-        "source": "The Verge",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-        "source": "The Verge",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "AI is exposing the limits of traditional network architecture",
-        "url": "https://venturebeat.com/infrastructure/ai-is-exposing-the-limits-of-traditional-network-architecture",
-        "source": "VentureBeat",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
-        "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
-        "source": "VentureBeat",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know",
-        "url": "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know",
-        "source": "VentureBeat",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
-        "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
-        "source": "VentureBeat",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "The Shai-Hulud npm worm didn't fake its security check — it earned a legitimate one",
-        "url": "https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one",
-        "source": "VentureBeat",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
-        "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
-        "source": "Wired",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "AI Influencers Are Heading Into Uncharted Territory",
-        "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
-        "source": "Wired",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-        "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
-        "source": "Wired",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Meta Quest Promo Codes and Coupons for August 2026",
-        "url": "https://www.wired.com/story/meta-quest-promo-code/",
-        "source": "Wired",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-        "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-        "source": "Wired",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-        "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-        "source": "Wired",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "The AI Notetaker Has Been Invited to All the Meetings",
-        "url": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
-        "source": "Wired",
-        "date": "2026-08-05"
-      },
-      {
-        "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-        "url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
-        "source": "Wired",
-        "date": "2026-08-05"
       }
     ]
   }
