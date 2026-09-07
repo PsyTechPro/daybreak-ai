@@ -1,11 +1,82 @@
 [
   {
+    "date": "2026-09-07",
+    "articles": [
+      {
+        "title": "The complex corporate web behind a $3.2 billion AI data center",
+        "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+        "source": "Ars Technica",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+        "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+        "url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+        "source": "CNBC",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+        "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-07"
+      }
+    ]
+  },
+  {
     "date": "2026-09-06",
     "articles": [
       {
         "title": "Watch: CBS News reporter tests out autonomous, AI-powered Uber in London",
         "url": "https://www.cbsnews.com/video/watch-cbs-news-reporter-tests-out-autonomous-ai-powered-uber-in-london/",
         "source": "CBS News",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "Many truckers don't feel like the rest of America about AI data centers as business booms",
+        "url": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
+        "source": "CNBC",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+        "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+        "source": "CNBC",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "Autonomous excavators are digging with empty cabs",
+        "url": "https://www.foxnews.com/tech/autonomous-excavators-digging-empty-cabs",
+        "source": "Fox News",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "source": "TechCrunch",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+        "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+        "source": "TechCrunch",
+        "date": "2026-09-06"
+      },
+      {
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "source": "The Verge",
         "date": "2026-09-06"
       },
       {
@@ -4430,191 +4501,6 @@
         "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
         "source": "Wired",
         "date": "2026-08-08"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "articles": [
-      {
-        "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-        "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-        "source": "Ars Technica",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-        "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-        "source": "Ars Technica",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-        "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-        "source": "Ars Technica",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Energy company sues data center over who should pay for AI buildout",
-        "url": "https://www.cbsnews.com/news/nevada-data-center-lawsuit-ai-energy-costs/",
-        "source": "CBS News",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
-        "url": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
-        "source": "CNBC",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "China is gaining ground in AI. But the U.S. still has a major advantage",
-        "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
-        "source": "CNBC",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
-        "url": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
-        "source": "CNBC",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "The unwind of Situational Awareness isn't the only reason the AI trade is back",
-        "url": "https://www.cnbc.com/2026/08/07/the-situational-awareness-unwind-is-only-one-reason-the-ai-trade-is-back.html",
-        "source": "CNBC",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-        "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-        "source": "CNBC",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Fox News AI Newsletter: AI company accused of favoring foreigners over American workers",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-company-accused-favoring-foreigners-over-american-workers",
-        "source": "Fox News",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-        "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-        "source": "TechCrunch",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-        "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-        "source": "TechCrunch",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-        "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-        "source": "TechCrunch",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-        "source": "TechCrunch",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-        "source": "TechCrunch",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-        "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-        "source": "TechCrunch",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-        "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-        "source": "TechCrunch",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Disney Plus tries a new AI-powered search",
-        "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-        "source": "The Verge",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-        "source": "The Verge",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-        "source": "The Verge",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Watching Roku’s AI channel is like eating from a trough",
-        "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-        "source": "The Verge",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "What&#8217;s behind the Google AI shake-up",
-        "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-        "source": "The Verge",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
-        "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
-        "source": "VentureBeat",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
-        "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
-        "source": "VentureBeat",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
-        "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
-        "source": "VentureBeat",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-        "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-        "source": "Wired",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Ranking the Best Smart Glasses: Meta, Viture, & More (2026)",
-        "url": "https://www.wired.com/gallery/best-smart-glasses/",
-        "source": "Wired",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "Scientists Used AI to Create 16 New Viruses",
-        "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-        "source": "Wired",
-        "date": "2026-08-07"
-      },
-      {
-        "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-        "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-        "source": "Wired",
-        "date": "2026-08-07"
       }
     ]
   }
