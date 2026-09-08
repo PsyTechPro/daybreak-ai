@@ -1,10 +1,57 @@
 [
   {
+    "date": "2026-09-08",
+    "articles": [
+      {
+        "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+        "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+        "source": "CNBC",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand",
+        "url": "https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html",
+        "source": "CNBC",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+        "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+        "source": "TechCrunch",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+        "url": "https://www.wired.com/story/best-smart-speakers/",
+        "source": "Wired",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
+        "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+        "source": "Wired",
+        "date": "2026-09-08"
+      }
+    ]
+  },
+  {
     "date": "2026-09-07",
     "articles": [
       {
         "title": "The complex corporate web behind a $3.2 billion AI data center",
         "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+        "source": "Ars Technica",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "The complex corporate web behind a $3.2 billion AI data center",
+        "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
         "source": "Ars Technica",
         "date": "2026-09-07"
       },
@@ -30,6 +77,12 @@
         "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
         "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
         "source": "MIT Technology Review",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "source": "TechCrunch",
         "date": "2026-09-07"
       }
     ]
@@ -4448,59 +4501,6 @@
         "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
         "source": "Wired",
         "date": "2026-08-09"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "articles": [
-      {
-        "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-        "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-        "source": "Ars Technica",
-        "date": "2026-08-08"
-      },
-      {
-        "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-        "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-        "source": "Ars Technica",
-        "date": "2026-08-08"
-      },
-      {
-        "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-        "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-08"
-      },
-      {
-        "title": "Here’s how we played the massive rebound in AI stocks this week",
-        "url": "https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html",
-        "source": "CNBC",
-        "date": "2026-08-08"
-      },
-      {
-        "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-        "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-        "source": "CNBC",
-        "date": "2026-08-08"
-      },
-      {
-        "title": "Meta AI breaches external firm during security testing sandbox error",
-        "url": "https://www.npr.org/2026/08/08/nx-s1-5924878/meta-ai-breaches-external-firm-during-security-testing-sandbox-error",
-        "source": "NPR",
-        "date": "2026-08-08"
-      },
-      {
-        "title": "OpenAI acquires presentation startup NextSlide",
-        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-        "source": "TechCrunch",
-        "date": "2026-08-08"
-      },
-      {
-        "title": "How to Disable Gemini in Gmail and Google Docs",
-        "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-        "source": "Wired",
-        "date": "2026-08-08"
       }
     ]
   }
