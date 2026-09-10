@@ -1,10 +1,105 @@
 [
   {
+    "date": "2026-09-10",
+    "articles": [
+      {
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Another Anthropic model gained access to open internet during testing",
+        "url": "https://www.cbsnews.com/news/anthropic-ai-model-internet-hack-fourth-time/",
+        "source": "CBS News",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+        "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+        "source": "CNBC",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more",
+        "url": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Healthcare AI’s next test is integration",
+        "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Powering AI is an architecture problem",
+        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "source": "TechCrunch",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Mathematicians want proof OpenAI didn’t use their work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+        "source": "The Verge",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+        "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+        "source": "The Verge",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+        "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+        "source": "Wired",
+        "date": "2026-09-10"
+      },
+      {
+        "title": "Everything New You Can Do With Siri AI",
+        "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+        "source": "Wired",
+        "date": "2026-09-10"
+      }
+    ]
+  },
+  {
     "date": "2026-09-09",
     "articles": [
       {
+        "title": "4 groups caught using the same Chrome and Windows exploit kit",
+        "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+        "source": "Ars Technica",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+        "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+        "source": "Ars Technica",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Google's AI genome system evaluates every possible one-base change",
+        "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+        "source": "Ars Technica",
+        "date": "2026-09-09"
+      },
+      {
         "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
         "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+        "source": "Ars Technica",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+        "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
         "source": "Ars Technica",
         "date": "2026-09-09"
       },
@@ -15,8 +110,44 @@
         "date": "2026-09-09"
       },
       {
+        "title": "Anthropic model gains access to third-party organization without permission, company says",
+        "url": "https://www.cbsnews.com/video/anthropic-model-access-third-party-without-permission-company-says/",
+        "source": "CBS News",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+        "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
+        "source": "CBS News",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Ex-Anthropic researcher says he believes out-of-control AI development could \"kill us all\"",
+        "url": "https://www.cbsnews.com/video/ex-anthropic-researcher-says-he-believes-out-of-control-ai-development-could-kill-us-all/",
+        "source": "CBS News",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Humans \"close to being outsmarted\" by superintelligence, AI expert says",
+        "url": "https://www.cbsnews.com/news/ai-superintelligence-anthropic-jacob-coxon/",
+        "source": "CBS News",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "AI data centers won't create as many UK jobs as the tech sector projects, think tank warns",
+        "url": "https://www.cnbc.com/2026/09/09/ai-data-centers-jobs-tech-buildout.html",
+        "source": "CNBC",
+        "date": "2026-09-09"
+      },
+      {
         "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
         "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+        "source": "CNBC",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier",
+        "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
         "source": "CNBC",
         "date": "2026-09-09"
       },
@@ -33,14 +164,86 @@
         "date": "2026-09-09"
       },
       {
+        "title": "Silver Lake to merge two software firms in $11.6 billion bet on AI",
+        "url": "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html",
+        "source": "CNBC",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "The Download: OpenAI’s turning point for math and a battery record",
+        "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-09"
+      },
+      {
         "title": "What OpenAI’s latest controversy tells us about the future of math",
         "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
         "source": "MIT Technology Review",
         "date": "2026-09-09"
       },
       {
+        "title": "Anthropic researcher resigns amid AI safety concerns",
+        "url": "https://www.npr.org/2026/09/09/nx-s1-5962889/anthropic-researcher-resigns-amid-ai-safety-concerns",
+        "source": "NPR",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+        "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+        "source": "TechCrunch",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+        "source": "TechCrunch",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+        "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+        "source": "TechCrunch",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+        "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+        "source": "TechCrunch",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+        "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+        "source": "TechCrunch",
+        "date": "2026-09-09"
+      },
+      {
         "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
         "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+        "source": "TechCrunch",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+        "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+        "source": "TechCrunch",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "source": "TechCrunch",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Superintelligence is coming. Should we let it?",
+        "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+        "source": "TechCrunch",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "The hinge for Apple’s new foldable phone was built with AI",
+        "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
         "source": "TechCrunch",
         "date": "2026-09-09"
       },
@@ -51,8 +254,38 @@
         "date": "2026-09-09"
       },
       {
+        "title": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
+        "url": "https://www.wired.com/story/everything-apple-announced-september-2026/",
+        "source": "Wired",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+        "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+        "source": "Wired",
+        "date": "2026-09-09"
+      },
+      {
         "title": "Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos",
         "url": "https://www.wired.com/story/lyft-waymo-partnership-nashville/",
+        "source": "Wired",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+        "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+        "source": "Wired",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+        "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+        "source": "Wired",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
+        "url": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/",
         "source": "Wired",
         "date": "2026-09-09"
       }
@@ -4448,215 +4681,6 @@
         "url": "https://www.wired.com/story/meta-quest-promo-code/",
         "source": "Wired",
         "date": "2026-08-11"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "articles": [
-      {
-        "title": "Amazon backs power plant that may become top source of US climate pollution",
-        "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-        "source": "Ars Technica",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Peer review is overwhelmed—can it survive in the AI era?",
-        "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-        "source": "Ars Technica",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Valve slowly expands SteamOS support on non-Valve hardware",
-        "url": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
-        "source": "Ars Technica",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-        "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-        "source": "Ars Technica",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-        "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-        "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
-        "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
-        "source": "CNBC",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’",
-        "url": "https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html",
-        "source": "CNBC",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
-        "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
-        "source": "CNBC",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve",
-        "url": "https://www.cnbc.com/2026/08/10/open-ai-daybreak-cybersecurity.html",
-        "source": "CNBC",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies",
-        "url": "https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html",
-        "source": "CNBC",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "OpenAI wraps $7 billion share sale ahead of potential IPO",
-        "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
-        "source": "CNBC",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
-        "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
-        "source": "CNBC",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "AI for science needs reasoning, not just data",
-        "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "AI professors are negotiating the new realities of academic research",
-        "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
-        "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "These startups are chasing the next big thing in LLMs",
-        "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "China's courts side with workers displaced by AI but employees remain anxious",
-        "url": "https://www.npr.org/2026/08/10/nx-s1-5822592/chinas-courts-side-with-workers-displaced-by-ai-but-employees-remain-anxious",
-        "source": "NPR",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-        "source": "TechCrunch",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-        "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-        "source": "TechCrunch",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-        "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-        "source": "TechCrunch",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-        "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-        "source": "TechCrunch",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-        "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-        "source": "TechCrunch",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-        "source": "The Verge",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Mark Zuckerberg doesn’t understand how to live",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-        "source": "The Verge",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "What happens to Bose when headphones become AI?",
-        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-        "source": "The Verge",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
-        "url": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
-        "source": "VentureBeat",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Brex assumes its AI agents could do anything — so it watches the network, not the code",
-        "url": "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code",
-        "source": "VentureBeat",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
-        "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
-        "source": "VentureBeat",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
-        "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
-        "source": "VentureBeat",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Token-maxxing is dead. Agentic memory is what comes next.",
-        "url": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next",
-        "source": "VentureBeat",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "Your agent didn’t hallucinate; it exceeded its authority",
-        "url": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
-        "source": "VentureBeat",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "The AI Slop Backlash Is Actually Having an Impact",
-        "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-        "source": "Wired",
-        "date": "2026-08-10"
-      },
-      {
-        "title": "The Rise of the 1 am Job Interview",
-        "url": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-        "source": "Wired",
-        "date": "2026-08-10"
       }
     ]
   }
