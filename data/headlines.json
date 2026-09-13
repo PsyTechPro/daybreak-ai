@@ -1,7 +1,66 @@
 [
   {
+    "date": "2026-09-13",
+    "articles": [
+      {
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+        "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+        "source": "CNBC",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "AI robot for seniors can alert family after a call for help",
+        "url": "https://www.foxnews.com/tech/ai-robot-seniors-alert-family-call-help",
+        "source": "Fox News",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Could AI kill us all? Professor weighs in on former Anthropic employee's claim",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5966638/could-ai-kill-us-all-professor-weighs-in-on-former-anthropic-employees-claim",
+        "source": "NPR",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "AI Agents Are Thirsty for Power",
+        "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+        "source": "Wired",
+        "date": "2026-09-13"
+      }
+    ]
+  },
+  {
     "date": "2026-09-12",
     "articles": [
+      {
+        "title": "I spent $4,000 on a robot dog from China",
+        "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+        "source": "Ars Technica",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "Conversations that AIs are having in the office that may influence your performance review and pay",
+        "url": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
+        "source": "CNBC",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+        "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+        "source": "CNBC",
+        "date": "2026-09-12"
+      },
       {
         "title": "Why are the people building the most powerful AI so worried about what it could do?",
         "url": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
@@ -9,8 +68,44 @@
         "date": "2026-09-12"
       },
       {
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "source": "TechCrunch",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "source": "TechCrunch",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+        "source": "The Verge",
+        "date": "2026-09-12"
+      },
+      {
         "title": "OpenAI just wants to win",
         "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+        "source": "The Verge",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "source": "The Verge",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+        "source": "The Verge",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "Trump is giving data centers a pass to pollute",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
         "source": "The Verge",
         "date": "2026-09-12"
       },
@@ -4358,251 +4453,6 @@
         "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
         "source": "Wired",
         "date": "2026-08-14"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "articles": [
-      {
-        "title": "Anthropic could be worth $2 trillion when it goes public",
-        "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-        "source": "Ars Technica",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-        "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-        "source": "Ars Technica",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-        "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-        "source": "Ars Technica",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "The new Instagram logo is the perfect embodiment of AI slop",
-        "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-        "source": "Ars Technica",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Amazon is using Twitch to train generative AI",
-        "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-        "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Grok Bot is not what you think",
-        "url": "https://www.bensbites.com/p/grok-bot-is-not-what-you-think",
-        "source": "Ben's Bites",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "AI is driving up consumer prices. That won't stop anytime soon.",
-        "url": "https://www.cbsnews.com/news/ai-investment-is-driving-up-consumer-prices-computers-inflation/",
-        "source": "CBS News",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "3 of our stocks surged in the AI trade came back. 3 others stumbled",
-        "url": "https://www.cnbc.com/2026/08/13/3-of-our-stocks-surged-in-the-ai-trade-came-back-3-others-stumbled.html",
-        "source": "CNBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "AI’s costly build-out complicates the Fed’s inflation fight",
-        "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-        "source": "CNBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
-        "url": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
-        "source": "CNBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-        "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
-        "source": "CNBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Cisco shares slide 8% despite earnings beat and stronger-than-expected guidance",
-        "url": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
-        "source": "CNBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
-        "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-        "source": "CNBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days",
-        "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
-        "source": "CNBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
-        "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
-        "source": "CNBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Workday shares post best day in 10 years on Silver Lake takeover report",
-        "url": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
-        "source": "CNBC",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "California law puts digital fingerprints on AI fakes",
-        "url": "https://www.foxnews.com/tech/california-law-puts-digital-fingerprints-ai-fakes",
-        "source": "Fox News",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Fox News AI Newsletter: One year until AI market busts, investor says",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-one-year-until-ai-market-busts-investor-says",
-        "source": "Fox News",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "How kids feel about AI, in their own words",
-        "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-        "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-        "source": "TechCrunch",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "IBM partners with OpenAI to bolster enterprise AI push",
-        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-        "source": "TechCrunch",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-        "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-        "source": "TechCrunch",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-        "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-        "source": "TechCrunch",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "OpenAI hires new CRO as executive shake-up continues",
-        "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-        "source": "TechCrunch",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-        "source": "TechCrunch",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-        "source": "TechCrunch",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-        "source": "The Verge",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "OpenAI is losing its second executive this week",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-        "source": "The Verge",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "The fight over Flock and other ALPRs",
-        "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
-        "source": "The Verge",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-        "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
-        "source": "VentureBeat",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-        "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-        "source": "VentureBeat",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
-        "url": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
-        "source": "VentureBeat",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Why Capital One built its multi-agent AI platform around open-weight models",
-        "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
-        "source": "VentureBeat",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-        "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
-        "source": "VentureBeat",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-        "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-        "source": "Wired",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "The Safety Reckoning Inside OpenAI",
-        "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-        "source": "Wired",
-        "date": "2026-08-13"
-      },
-      {
-        "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-        "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-        "source": "Wired",
-        "date": "2026-08-13"
       }
     ]
   }
