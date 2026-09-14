@@ -1,11 +1,184 @@
 [
   {
+    "date": "2026-09-14",
+    "articles": [
+      {
+        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+        "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Anthropic CEO Dario Amodei: \"For too long the industry lied\" about AI risks",
+        "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Anthropic CEO says pace of AI development needs to slow down, but \"it doesn't mean we need to panic\"",
+        "url": "https://www.cbsnews.com/video/anthropic-ceo-says-pace-of-ai-development-needs-to-slow-down-but-it-doesnt-mean-we-need-to-panic/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Tech expert weighs in on Anthropic CEO's proposal for AI safeguards",
+        "url": "https://www.cbsnews.com/video/tech-expert-weighs-in-on-anthropic-ceos-proposal-for-ai-safeguards/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Trump brushes off AI fears: \"Whoever wins AI wins\"",
+        "url": "https://www.cbsnews.com/video/trump-brushes-off-ai-fears-whoever-wins-ai-wins/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Where Trump, Congress stand on AI regulation amid recent warnings",
+        "url": "https://www.cbsnews.com/video/where-trump-congress-stand-on-ai-regulation-amid-recent-warnings/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "AI models are becoming the ‘most potent cyber weapon’ ever created, Cohere CEO says",
+        "url": "https://www.cnbc.com/2026/09/14/ai-models-cyber-weapon-cohere-safety-debate.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "AI safety fears, rising oil prices, a big season for prediction markets and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/09/14/5-things-to-know-before-the-stock-market-opens.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "AI stocks slide after major CEOs unite to urge slowdown",
+        "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+        "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Microsoft sets limits for future AI models as industry throttles frontier development",
+        "url": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
+        "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
+        "url": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+        "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "AI industry leaders call for development to slow down after recent safety concerns",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968079/ai-industry-leaders-call-for-development-to-slow-down-after-recent-safety-concerns",
+        "source": "NPR",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
+        "source": "NPR",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+        "source": "The Verge",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "What happens after a town de-Flocks",
+        "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+        "source": "The Verge",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+        "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+        "source": "Wired",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+        "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+        "source": "Wired",
+        "date": "2026-09-14"
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "articles": [
       {
         "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Questions mount over what an AI 'slowdown' would look like",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Anthropic CEO Dario Amodei: \"For too long the industry lied\" about AI risks",
+        "url": "https://www.cbsnews.com/video/anthropic-ceo-dario-amodei-for-too-long-the-industry-lied-about-ai-risks/",
+        "source": "CBS News",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Extended Interview: Dario Amodei",
+        "url": "https://www.cbsnews.com/video/extended-interview-dario-amodei/",
+        "source": "CBS News",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+        "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+        "source": "CNBC",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+        "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+        "source": "CNBC",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "The wages of American workers are under pressure. AI's potential role is drawing more attention",
+        "url": "https://www.cnbc.com/2026/09/13/ai-jobs-pay-inflation.html",
+        "source": "CNBC",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+        "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+        "source": "CNBC",
         "date": "2026-09-13"
       },
       {
@@ -21,9 +194,51 @@
         "date": "2026-09-13"
       },
       {
+        "title": "AI CEOs call for industry slowdown",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5967558/ai-ceos-call-for-industry-slowdown",
+        "source": "NPR",
+        "date": "2026-09-13"
+      },
+      {
         "title": "Could AI kill us all? Professor weighs in on former Anthropic employee's claim",
         "url": "https://www.npr.org/2026/09/13/nx-s1-5966638/could-ai-kill-us-all-professor-weighs-in-on-former-anthropic-employees-claim",
         "source": "NPR",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Trump downplays calls for AI slowdown",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+        "source": "NPR",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+        "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+        "source": "TechCrunch",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "source": "TechCrunch",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+        "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+        "source": "TechCrunch",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "What’s behind the AI industry’s latest warnings of doom?",
+        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+        "source": "TechCrunch",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Trump and Mike Johnson think the AI industry is overreacting",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+        "source": "The Verge",
         "date": "2026-09-13"
       },
       {
@@ -4304,155 +4519,6 @@
         "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
         "source": "Wired",
         "date": "2026-08-15"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "articles": [
-      {
-        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-        "source": "Ars Technica",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-        "source": "Ars Technica",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Why tech bosses keep sharing their manifestos about AI",
-        "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "AI is driving up consumer prices. That won't stop anytime soon.",
-        "url": "https://www.cbsnews.com/news/ai-investment-is-driving-up-consumer-prices-computers-inflation/",
-        "source": "CBS News",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "People are using AI to help their love life. Here's how to set boundaries and navigate it.",
-        "url": "https://www.cbsnews.com/video/using-ai-romantic-relationships/",
-        "source": "CBS News",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Arm co-founder Hermann Hauser’s AI warning: The revolution is real, but so is the bubble risk",
-        "url": "https://www.cnbc.com/2026/08/14/arm-ai-bubble-hermann-hauser-the-tech-download.html",
-        "source": "CNBC",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-        "url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-        "source": "CNBC",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
-        "url": "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html",
-        "source": "CNBC",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-        "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-        "source": "CNBC",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
-        "url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
-        "source": "CNBC",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Recent AI 'escapes' are a warning of how unpredictable the technology can be",
-        "url": "https://www.npr.org/2026/08/14/nx-s1-5929579/recent-ai-escapes-are-a-warning-of-how-unpredictable-the-technology-can-be",
-        "source": "NPR",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-        "source": "TechCrunch",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-        "source": "TechCrunch",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-        "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-        "source": "TechCrunch",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Self-driving trucks are officially testing on California highways",
-        "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-        "source": "TechCrunch",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-        "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-        "source": "TechCrunch",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-        "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-        "source": "TechCrunch",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
-        "url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
-        "source": "The Verge",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-        "source": "The Verge",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
-        "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
-        "source": "VentureBeat",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-        "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-        "source": "Wired",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-        "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-        "source": "Wired",
-        "date": "2026-08-14"
-      },
-      {
-        "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-        "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-        "source": "Wired",
-        "date": "2026-08-14"
       }
     ]
   }
