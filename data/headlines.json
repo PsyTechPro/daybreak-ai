@@ -1,11 +1,106 @@
 [
   {
+    "date": "2026-09-15",
+    "articles": [
+      {
+        "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+        "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+        "source": "Ars Technica",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Why my interview with AI actor Tilly Norwood creeped me out",
+        "url": "https://www.cbsnews.com/news/tilly-norwood-ai-actor-interview-creeped-me-out/",
+        "source": "CBS News",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO",
+        "url": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Trump’s opposition to AI rules undercuts industry's calls for a slowdown",
+        "url": "https://www.cnbc.com/2026/09/15/trump-opposition-to-ai-rules-undercuts-industrys-calls-for-a-slowdown.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Wall Street weighs prospect of an AI slowdown on data center buildout",
+        "url": "https://www.cnbc.com/2026/09/15/investors-ai-slowdown-data-center-buildout.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "What’s at stake in AI’s trillion-dollar gamble",
+        "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Anthropic co-founder Jack Clark on AI risks and potential solutions",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-co-founder-jack-clark-on-ai-risks-and-potential-solutions",
+        "source": "NPR",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+        "source": "NPR",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "articles": [
+      {
+        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+        "source": "Ars Technica",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "AI leaders want to hit the brakes after years of reckless speed",
+        "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+        "source": "Ars Technica",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+        "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+        "source": "Ars Technica",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+        "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+        "source": "Ars Technica",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "What is AI, how does it work and why are some people concerned about it?",
+        "url": "https://www.bbc.co.uk/news/articles/c2l799gxjjpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-14"
+      },
       {
         "title": "Why are there concerns AI could threaten humanity, and how real are they?",
         "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "AI companies must ensure their tech is safe, says top Trump adviser on AI",
+        "url": "https://www.cbsnews.com/news/david-sacks-ai-developers-safety-regulation/",
+        "source": "CBS News",
         "date": "2026-09-14"
       },
       {
@@ -21,14 +116,50 @@
         "date": "2026-09-14"
       },
       {
+        "title": "As AI rhetoric heats up, Congress stalls on action",
+        "url": "https://www.cbsnews.com/news/ai-congress-stalls-trump/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "How a slowdown in AI development would impact markets",
+        "url": "https://www.cbsnews.com/video/how-a-slowdown-in-ai-development-would-impact-markets/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
         "title": "Tech expert weighs in on Anthropic CEO's proposal for AI safeguards",
         "url": "https://www.cbsnews.com/video/tech-expert-weighs-in-on-anthropic-ceos-proposal-for-ai-safeguards/",
         "source": "CBS News",
         "date": "2026-09-14"
       },
       {
+        "title": "Tech stocks slump after AI execs call for industry slowdown",
+        "url": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "The AI bubble is leaking air, some economists say. Should investors worry?",
+        "url": "https://www.cbsnews.com/news/ai-bubble-stocks-investors/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Top Trump AI adviser says if China wins AI race, U.S. \"will not be the number one country\" anymore",
+        "url": "https://www.cbsnews.com/video/top-trump-ai-adviser-says-china-wins-ai-race-us-not-number-one/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
         "title": "Trump brushes off AI fears: \"Whoever wins AI wins\"",
         "url": "https://www.cbsnews.com/video/trump-brushes-off-ai-fears-whoever-wins-ai-wins/",
+        "source": "CBS News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Trump dismisses push for AI guardrails despite warnings from tech leaders",
+        "url": "https://www.cbsnews.com/news/trump-dismisses-ai-regulation-tech-slowdown/",
         "source": "CBS News",
         "date": "2026-09-14"
       },
@@ -57,8 +188,26 @@
         "date": "2026-09-14"
       },
       {
+        "title": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
+        "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+        "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
         "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
         "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "CrowdStrike CEO on Anthropic’s AI safety warning: ‘The genie’s out of the bottle’",
+        "url": "https://www.cnbc.com/2026/09/14/crowdstrike-ceo-anthropics-ai-safety-warning.html",
         "source": "CNBC",
         "date": "2026-09-14"
       },
@@ -75,15 +224,51 @@
         "date": "2026-09-14"
       },
       {
+        "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
+        "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+        "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
+        "source": "CNBC",
+        "date": "2026-09-14"
+      },
+      {
         "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
         "url": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
         "source": "CNBC",
         "date": "2026-09-14"
       },
       {
+        "title": "How AI could transform cancer treatment and medicine",
+        "url": "https://www.foxnews.com/tech/how-ai-could-transform-cancer-treatment-medicine",
+        "source": "Fox News",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "AI agents blew the whistle on their cheating colleagues",
+        "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "The AI industry has taken a doomer turn. What now?",
+        "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-14"
+      },
+      {
         "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
         "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
         "source": "MIT Technology Review",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "A roundtable on the rapid acceleration of AI",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968624/a-roundtable-on-the-rapid-acceleration-of-ai",
+        "source": "NPR",
         "date": "2026-09-14"
       },
       {
@@ -99,8 +284,74 @@
         "date": "2026-09-14"
       },
       {
+        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+        "source": "TechCrunch",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+        "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+        "source": "TechCrunch",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+        "source": "TechCrunch",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+        "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+        "source": "TechCrunch",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "source": "TechCrunch",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "macOS 27: new Siri takes on AI productivity apps",
+        "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+        "source": "TechCrunch",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Apple Home’s new security camera features cost as much as $60 a month",
+        "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+        "source": "The Verge",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "source": "The Verge",
+        "date": "2026-09-14"
+      },
+      {
         "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
         "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+        "source": "The Verge",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "Trump throws out power plant climate pollution rules",
+        "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+        "source": "The Verge",
+        "date": "2026-09-14"
+      },
+      {
+        "title": "What execs and politicians are saying about slowing down AI development",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
         "source": "The Verge",
         "date": "2026-09-14"
       },
@@ -4436,89 +4687,6 @@
         "url": "https://www.wired.com/review/terramow-v1000/",
         "source": "Wired",
         "date": "2026-08-16"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "articles": [
-      {
-        "title": "Secondhand book sales are booming. Is it because of AI?",
-        "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-        "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-        "source": "CNBC",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
-        "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
-        "source": "CNBC",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "8 things we learned from Google's Pixel 11 event",
-        "url": "https://www.foxnews.com/tech/8-things-learned-googles-pixel-11-event",
-        "source": "Fox News",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Medicare and Social Security scams: Warning signs and tips",
-        "url": "https://www.foxnews.com/tech/medicare-social-security-scams-warning-signs-tips",
-        "source": "Fox News",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Are robotaxis finally here?",
-        "url": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
-        "source": "NPR",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-        "source": "TechCrunch",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "How to tell if your AI platforms’ accounts have been hacked",
-        "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-        "source": "TechCrunch",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-        "source": "TechCrunch",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-        "source": "TechCrunch",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-        "source": "The Verge",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
-        "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
-        "source": "VentureBeat",
-        "date": "2026-08-15"
-      },
-      {
-        "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-        "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-        "source": "Wired",
-        "date": "2026-08-15"
       }
     ]
   }
