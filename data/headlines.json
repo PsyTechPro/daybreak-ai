@@ -1,11 +1,130 @@
 [
   {
+    "date": "2026-09-16",
+    "articles": [
+      {
+        "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+        "url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+        "source": "CNBC",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "OpenAI CFO Sarah Friar tells CNBC she isn't worried about slowing AI development",
+        "url": "https://www.cnbc.com/2026/09/15/open-ai-sarah-friar-safety.html",
+        "source": "CNBC",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+        "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+        "source": "CNBC",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "'Machine Gods' explores the latest developments in the world of AI",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5969921/machine-gods-explores-the-latest-developments-in-the-world-of-ai",
+        "source": "NPR",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "As campaign season gears up, AI-generated ads are everywhere",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5953990/ai-political-ads-2026-midterms",
+        "source": "NPR",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "Steve Bannon shares why he think AI development needs to be slowed down",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-shares-why-he-think-ai-development-needs-to-be-slowed-down",
+        "source": "NPR",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+        "source": "TechCrunch",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "A brief history of AI executives calling for regulation",
+        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+        "source": "The Verge",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+        "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+        "source": "Wired",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "How Self-Driving Cars Might Change Crash Testing Forever",
+        "url": "https://www.wired.com/story/how-self-driving-cars-might-change-crash-testing-forever/",
+        "source": "Wired",
+        "date": "2026-09-16"
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "articles": [
+      {
+        "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+        "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+        "source": "Ars Technica",
+        "date": "2026-09-15"
+      },
       {
         "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
         "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
         "source": "Ars Technica",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Good luck slowing this down",
+        "url": "https://www.bensbites.com/p/good-luck-slowing-this-down",
+        "source": "Ben's Bites",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "AI expert on the path to tech safety and security",
+        "url": "https://www.cbsnews.com/video/ai-expert-on-the-path-to-tech-safety-and-security/",
+        "source": "CBS News",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "OpenAI backs measure that would require independent audits of AI models",
+        "url": "https://www.cbsnews.com/news/openai-sam-altman-frontier-act/",
+        "source": "CBS News",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Sanders says potential danger of AI is \"probably greater\" than nuclear weapons",
+        "url": "https://www.cbsnews.com/news/bernie-sanders-interview-ai-nuclear-weapons/",
+        "source": "CBS News",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Top White House AI adviser pushes back on AI leaders calling for safeguards: \"Not acceptable\"",
+        "url": "https://www.cbsnews.com/video/top-white-house-ai-adviser-pushes-back-on-ai-leaders-calling-for-safeguards-not-acceptable/",
+        "source": "CBS News",
         "date": "2026-09-15"
       },
       {
@@ -15,8 +134,50 @@
         "date": "2026-09-15"
       },
       {
+        "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
+        "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+        "url": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'",
+        "url": "https://www.cnbc.com/2026/09/15/nvidia-huang-ai-slowdown-antitrust.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+        "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
         "title": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO",
         "url": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Salesforce CEO Marc Benioff joins growing chorus of tech leaders warning about AI risks",
+        "url": "https://www.cnbc.com/2026/09/15/salesforce-marc-benioff-ai-risks.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Trump admin. says private sector can solve AI threats as critics balk",
+        "url": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Trump calls AI fears a 'hoax', Treasury yields surge, Moynihan's warning and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/09/15/5-things-to-know-before-the-stock-market-opens.html",
         "source": "CNBC",
         "date": "2026-09-15"
       },
@@ -27,9 +188,33 @@
         "date": "2026-09-15"
       },
       {
+        "title": "Two camps have emerged in the debate over AI safety and regulation",
+        "url": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
+        "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
         "title": "Wall Street weighs prospect of an AI slowdown on data center buildout",
         "url": "https://www.cnbc.com/2026/09/15/investors-ai-slowdown-data-center-buildout.html",
         "source": "CNBC",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "AI models need more data about biology, and OpenAI is paying to create it",
+        "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Roundtables: Could AI really kill us all?",
+        "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+        "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+        "source": "MIT Technology Review",
         "date": "2026-09-15"
       },
       {
@@ -45,15 +230,105 @@
         "date": "2026-09-15"
       },
       {
+        "title": "Anthropic co-founder says slowing AI is a 'collective action problem'",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-jack-clark-ai-risks-safety",
+        "source": "NPR",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "As AI execs worry publicly, Bill Gates would like a word",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5960470/as-ai-execs-worry-publicly-bill-gates-would-like-a-word",
+        "source": "NPR",
+        "date": "2026-09-15"
+      },
+      {
         "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
         "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
         "source": "NPR",
         "date": "2026-09-15"
       },
       {
+        "title": "What to make of warnings that AI may pose an existential threat to humanity",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5969783/what-to-make-of-warnings-that-ai-may-pose-an-existential-threat-to-humanity",
+        "source": "NPR",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "AI agents now have a place to snitch",
+        "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+        "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Meta expands subscription push with new AI-focused plans",
+        "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
         "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
         "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
         "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "The AI data center boom is colliding with cities scarred by big industry",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+        "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+        "source": "TechCrunch",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "AI and data centers are incredibly unpopular in every poll",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+        "source": "The Verge",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Microsoft announces Windows and Surface event for October 7th",
+        "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+        "source": "The Verge",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+        "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+        "source": "Wired",
         "date": "2026-09-15"
       }
     ]
@@ -4628,65 +4903,6 @@
         "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
         "source": "Wired",
         "date": "2026-08-17"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "articles": [
-      {
-        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-        "source": "TechCrunch",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-        "source": "TechCrunch",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-        "source": "TechCrunch",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "source": "The Verge",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "source": "The Verge",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "Rogue AI aren’t science fiction anymore",
-        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-        "source": "The Verge",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
-        "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
-        "source": "VentureBeat",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
-        "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
-        "source": "VentureBeat",
-        "date": "2026-08-16"
-      },
-      {
-        "title": "TerraMow V1000 Review: Show Your Lawn Some Love",
-        "url": "https://www.wired.com/review/terramow-v1000/",
-        "source": "Wired",
-        "date": "2026-08-16"
       }
     ]
   }
