@@ -1,10 +1,111 @@
 [
   {
+    "date": "2026-09-19",
+    "articles": [
+      {
+        "title": "Google's Gemini AI hacked three companies in security test",
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "AI security experts say they used Claude to hack ChatGPT",
+        "url": "https://www.cbsnews.com/news/claude-hack-chatgpt-anthropic-openai/",
+        "source": "CBS News",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang says we should go \"as fast as we can\" with AI",
+        "url": "https://www.cbsnews.com/video/nvidia-ceo-jensen-huang-says-we-should-go-as-fast-as-we-can-with-ai/",
+        "source": "CBS News",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Nvidia CEO calls for AI to be developed \"as fast as we can\"",
+        "url": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-ai-development-fast-as-we-can/",
+        "source": "CBS News",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+        "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+        "source": "CNBC",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Delivery robots swarm Chicago sidewalk in viral video",
+        "url": "https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video",
+        "source": "Fox News",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "source": "TechCrunch",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+        "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+        "source": "Wired",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Mathematicians Hate AI. They Can’t Quit It",
+        "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+        "source": "Wired",
+        "date": "2026-09-19"
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "articles": [
       {
+        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "source": "Ars Technica",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+        "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+        "source": "Ars Technica",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Researchers used Claude to hack OpenAI",
+        "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+        "source": "Ars Technica",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "US government website used Chinese model the FBI called \"malicious\"",
+        "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+        "source": "Ars Technica",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Use of AI backfires on an expert witness in court",
+        "url": "https://www.cbsnews.com/news/ai-expert-witness-lawsuit-trial/",
+        "source": "CBS News",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Will AI harm humans? Poll finds Americans want to slow development but not stop",
+        "url": "https://www.cbsnews.com/news/will-a-i-harm-humans-opinion-poll/",
+        "source": "CBS News",
+        "date": "2026-09-18"
+      },
+      {
         "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
         "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+        "source": "CNBC",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "AI cloud provider Nscale files to go public",
+        "url": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
         "source": "CNBC",
         "date": "2026-09-18"
       },
@@ -21,8 +122,56 @@
         "date": "2026-09-18"
       },
       {
+        "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+        "url": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
+        "source": "CNBC",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+        "url": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+        "source": "CNBC",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
+        "url": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+        "source": "CNBC",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+        "url": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+        "source": "CNBC",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+        "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+        "source": "CNBC",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+        "url": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
+        "source": "CNBC",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "The U.S. says China's AI progress is down to 'distillation.' But is it that clear cut?",
+        "url": "https://www.cnbc.com/2026/09/18/china-ai-progress-distillation-tech-download.html",
+        "source": "CNBC",
+        "date": "2026-09-18"
+      },
+      {
         "title": "Could AI really kill us all? Your questions, answered.",
         "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "The Download: AI’s extinction risk and bioweapons threat",
+        "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
         "source": "MIT Technology Review",
         "date": "2026-09-18"
       },
@@ -33,14 +182,146 @@
         "date": "2026-09-18"
       },
       {
+        "title": "Despite calls for Congress to take action on AI, the House went home early",
+        "url": "https://www.npr.org/2026/09/18/nx-s1-5973025/despite-calls-for-congress-to-take-action-on-ai-the-house-went-home-early",
+        "source": "NPR",
+        "date": "2026-09-18"
+      },
+      {
         "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
         "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
         "source": "NPR",
         "date": "2026-09-18"
       },
       {
+        "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+        "url": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
+        "source": "NPR",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "AI hallucination nearly triggers US military operation",
+        "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+        "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+        "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Family offices are clamoring for AI investments",
+        "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+        "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+        "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Disney’s first CTO is Character.AI’s former CEO",
+        "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+        "source": "The Verge",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Gavin Newsom is pushing for an AI kill switch",
+        "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+        "source": "The Verge",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "source": "The Verge",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Security researchers used Claude to help them hack into OpenAI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+        "source": "The Verge",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+        "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+        "source": "The Verge",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "What Hollywood thinks about existential AI warnings",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+        "source": "The Verge",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+        "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+        "source": "Wired",
+        "date": "2026-09-18"
+      },
+      {
         "title": "He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature",
         "url": "https://www.wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature/",
+        "source": "Wired",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+        "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+        "source": "Wired",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+        "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
         "source": "Wired",
         "date": "2026-09-18"
       },
@@ -4952,209 +5233,6 @@
         "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
         "source": "Wired",
         "date": "2026-08-20"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "articles": [
-      {
-        "title": "OpenAI slows down training after its AI carried out hack",
-        "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Women lag in high-paying AI jobs boom, LinkedIn study finds",
-        "url": "https://www.cbsnews.com/news/ai-jobs-gender-gap-women-hiring/",
-        "source": "CBS News",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-        "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-        "source": "CNBC",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-        "url": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
-        "source": "CNBC",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
-        "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-        "source": "CNBC",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-        "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
-        "source": "CNBC",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole",
-        "url": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
-        "source": "CNBC",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "U.S. retreat from global order ‘eroding’ European competitiveness, central bank boss warns",
-        "url": "https://www.cnbc.com/2026/08/19/lagarde-ecb-europe-economy-trump.html",
-        "source": "CNBC",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Thousands of North Korean IT workers are infiltrating corporate America",
-        "url": "https://www.foxnews.com/tech/thousands-north-korean-it-workers-infiltrating-corporate-america",
-        "source": "Fox News",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-        "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Trump administration launches $5B AI initiative aimed at advancing science",
-        "url": "https://www.npr.org/2026/08/19/nx-s1-5935542/trump-administration-launches-5b-ai-initiative-aimed-at-advancing-science",
-        "source": "NPR",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Why tech companies are buying up tons of rare old books to train their AI models",
-        "url": "https://www.npr.org/2026/08/19/nx-s1-5936438/why-tech-companies-are-buying-up-tons-of-rare-old-books-to-train-their-ai-models",
-        "source": "NPR",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "AI was supposed to win people over by now — it hasn’t",
-        "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-        "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Google packs Search and Gemini with new AI study tools",
-        "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Meet the startup helping Wall Street put a price on AI compute",
-        "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Researchers say OpenAI revoked their access to limited cyber program",
-        "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-        "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-        "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
-        "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
-        "source": "TechCrunch",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Google Gemini is getting a dedicated student hub",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-        "source": "The Verge",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Meta AI is getting a Mac app",
-        "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-        "source": "The Verge",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "OpenAI hit the brakes. Now what?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-        "source": "The Verge",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
-        "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-        "source": "VentureBeat",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-        "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-        "source": "VentureBeat",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-        "source": "VentureBeat",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-        "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-        "source": "Wired",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-        "url": "https://www.wired.com/story/flock-safety-os-investigate/",
-        "source": "Wired",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "Google Pixel Watch 5 Review: More Health, More AI",
-        "url": "https://www.wired.com/review/google-pixel-watch-5/",
-        "source": "Wired",
-        "date": "2026-08-19"
-      },
-      {
-        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-        "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-        "source": "Wired",
-        "date": "2026-08-19"
       }
     ]
   }
