@@ -1,7 +1,66 @@
 [
   {
+    "date": "2026-09-25",
+    "articles": [
+      {
+        "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
+        "url": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
+        "source": "CNBC",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
+        "url": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
+        "source": "CNBC",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+        "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+        "source": "The Verge",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+        "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+        "source": "The Verge",
+        "date": "2026-09-25"
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "articles": [
+      {
+        "title": "Meta puts its AI assistant on a keychain",
+        "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+        "source": "Ars Technica",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+        "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+        "source": "Ars Technica",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+        "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+        "source": "Ars Technica",
+        "date": "2026-09-24"
+      },
       {
         "title": "Are we back in big tech's 'move fast and break things' era?",
         "url": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
@@ -21,8 +80,32 @@
         "date": "2026-09-24"
       },
       {
+        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+        "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Back to Claude",
+        "url": "https://www.bensbites.com/p/back-to-claude",
+        "source": "Ben's Bites",
+        "date": "2026-09-24"
+      },
+      {
         "title": "Australia says rogue OpenAI model hacked into its healthcare system",
         "url": "https://www.cbsnews.com/news/australia-openai-rogue-model-hack-healthcare-system-sam-altman/",
+        "source": "CBS News",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Australia's prime minister slams OpenAI after its agent hacked government website",
+        "url": "https://www.cbsnews.com/video/australias-prime-minister-slams-openai-after-its-agent-hacked-government-website/",
         "source": "CBS News",
         "date": "2026-09-24"
       },
@@ -45,8 +128,20 @@
         "date": "2026-09-24"
       },
       {
+        "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
+        "url": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
+        "source": "CNBC",
+        "date": "2026-09-24"
+      },
+      {
         "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
         "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
+        "source": "CNBC",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+        "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html",
         "source": "CNBC",
         "date": "2026-09-24"
       },
@@ -75,14 +170,50 @@
         "date": "2026-09-24"
       },
       {
+        "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+        "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-24"
+      },
+      {
         "title": "OpenAI's breach of Australian health department website prompts rebuke",
         "url": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
         "source": "NPR",
         "date": "2026-09-24"
       },
       {
+        "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+        "source": "TechCrunch",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+        "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+        "source": "TechCrunch",
+        "date": "2026-09-24"
+      },
+      {
         "title": "Everything new coming to Meta’s AI agent Muse",
         "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+        "source": "TechCrunch",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+        "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+        "source": "TechCrunch",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Google tests letting Gemini call businesses for you",
+        "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+        "source": "TechCrunch",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+        "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
         "source": "TechCrunch",
         "date": "2026-09-24"
       },
@@ -93,8 +224,44 @@
         "date": "2026-09-24"
       },
       {
+        "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+        "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+        "source": "TechCrunch",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+        "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+        "source": "TechCrunch",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+        "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+        "source": "TechCrunch",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+        "source": "The Verge",
+        "date": "2026-09-24"
+      },
+      {
         "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
         "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+        "source": "The Verge",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Jensen Huang talks about AI and climate change like a supervillain",
+        "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
         "source": "The Verge",
         "date": "2026-09-24"
       },
@@ -119,6 +286,18 @@
       {
         "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
         "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+        "source": "Wired",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+        "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+        "source": "Wired",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "I Think I Found an AI Agent Worth the Risk",
+        "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
         "source": "Wired",
         "date": "2026-09-24"
       }
@@ -5462,155 +5641,6 @@
         "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
         "source": "Wired",
         "date": "2026-08-26"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "articles": [
-      {
-        "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-        "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-        "source": "Ars Technica",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Apple's new desktop computers are designed specifically for local AI development",
-        "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-        "source": "Ars Technica",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "AI gold rush draws crypto firms away from Bitcoin",
-        "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Songs created by AI banned from Australia's music charts",
-        "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Agents on your mobile",
-        "url": "https://www.bensbites.com/p/agents-on-your-mobile",
-        "source": "Ben's Bites",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Highlights from China's World Humanoid Games, and what it means for the future",
-        "url": "https://www.cbsnews.com/video/highlights-from-chinas-world-humanoid-games-and-what-it-means-for-the-future/",
-        "source": "CBS News",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
-        "url": "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html",
-        "source": "CNBC",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
-        "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-        "source": "CNBC",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Cramer says Nvidia has become 'all-important' to the AI trade. Here's what to watch beyond the numbers",
-        "url": "https://www.cnbc.com/2026/08/25/cramer-nvidia-all-important-ai-trade.html",
-        "source": "CNBC",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
-        "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
-        "source": "CNBC",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
-        "url": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
-        "source": "CNBC",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "AI may answer some New Orleans 911 calls",
-        "url": "https://www.foxnews.com/tech/ai-answer-new-orleans-911-calls",
-        "source": "Fox News",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Your brain on AI",
-        "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Claude Cowork finally remembers what you told the app in chat",
-        "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-        "source": "TechCrunch",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-        "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-        "source": "TechCrunch",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-        "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
-        "source": "TechCrunch",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-        "source": "TechCrunch",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-        "source": "TechCrunch",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Waymo robotaxis are headed to Munich",
-        "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-        "source": "TechCrunch",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-        "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-        "source": "VentureBeat",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
-        "url": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
-        "source": "VentureBeat",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
-        "url": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
-        "source": "Wired",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "It Should Be Harder to Apply for a Job. No, Really",
-        "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-        "source": "Wired",
-        "date": "2026-08-25"
-      },
-      {
-        "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-        "url": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
-        "source": "Wired",
-        "date": "2026-08-25"
       }
     ]
   }
