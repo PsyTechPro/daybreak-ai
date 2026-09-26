@@ -1,7 +1,90 @@
 [
   {
+    "date": "2026-09-26",
+    "articles": [
+      {
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "Chinese AI models surge in global popularity — and Washington is worried",
+        "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+        "source": "CNBC",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "Delivery drones could be waiting before you even order",
+        "url": "https://www.foxnews.com/tech/delivery-drones-waiting-before-you-even-order",
+        "source": "Fox News",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "The AI safety debate is confusing. Here's our guide to the different factions",
+        "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+        "source": "NPR",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+        "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+        "source": "Wired",
+        "date": "2026-09-26"
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "articles": [
+      {
+        "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+        "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+        "source": "Ars Technica",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+        "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+        "source": "Ars Technica",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+        "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+        "source": "Ars Technica",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+        "source": "Ars Technica",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Ready or not, here come the AI gadgets, from \"charms\" to smart speakers",
+        "url": "https://www.cbsnews.com/news/new-ai-gadgets-tech-companies/",
+        "source": "CBS News",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Trump and Xi to meet two more times before end of year as they wrap state visit",
+        "url": "https://www.cbsnews.com/video/trump-and-xi-to-meet-two-more-times-before-end-of-year-as-they-wrap-state-visit/",
+        "source": "CBS News",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Trump touts \"great friendship\" with Xi while unresolved issues, including AI and trade, linger",
+        "url": "https://www.cbsnews.com/video/trump-touts-great-friendship-with-xi-while-unresolved-issues-including-ai-and-trade-linger/",
+        "source": "CBS News",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "How recent grads and college students should be thinking about AI, the CV, and the job market",
+        "url": "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
+        "source": "CNBC",
+        "date": "2026-09-25"
+      },
       {
         "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
         "url": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
@@ -15,15 +98,117 @@
         "date": "2026-09-25"
       },
       {
+        "title": "Trump says Scott Bessent won't be AI czar",
+        "url": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
+        "source": "CNBC",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "source": "CNBC",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Fox News AI Newsletter: Tech company says scientific discovery could change medicine",
+        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-tech-company-says-scientific-discovery-could-change-medicine",
+        "source": "Fox News",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+        "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-25"
+      },
+      {
         "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
         "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
         "source": "MIT Technology Review",
         "date": "2026-09-25"
       },
       {
+        "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+        "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+        "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Anthropic’s founders seek voting control ahead of IPO",
+        "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Astra and Opus just passed Turing’s other test",
+        "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
         "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
         "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
         "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+        "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Meta’s AI Tamagotchi bet is…working?",
+        "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+        "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+        "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+        "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+        "source": "TechCrunch",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Meta makes the Muse filesystem even more accessible",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+        "source": "The Verge",
         "date": "2026-09-25"
       },
       {
@@ -36,6 +221,18 @@
         "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
         "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
         "source": "The Verge",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "One company is at the center of a wave of rogue AI attacks",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+        "source": "The Verge",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+        "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+        "source": "Wired",
         "date": "2026-09-25"
       }
     ]
@@ -5480,167 +5677,6 @@
         "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
         "source": "Wired",
         "date": "2026-08-27"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-26",
-    "articles": [
-      {
-        "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-        "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-        "source": "Ars Technica",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-        "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-        "source": "Ars Technica",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Nvidia revenue doubles on continued AI demand",
-        "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Ring camera founder announces new privacy measures amid Flock surveillance concerns",
-        "url": "https://www.cbsnews.com/video/ring-camera-founder-announces-new-privacy-measures-amid-flock-surveillance-concerns/",
-        "source": "CBS News",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
-        "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
-        "source": "CNBC",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
-        "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
-        "source": "CNBC",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Nvidia's 70% sales growth projection for 2028 wows analysts on earnings call",
-        "url": "https://www.cnbc.com/2026/08/26/nvidias-70percent-sales-growth-projection-for-2028-wows-analysts-on-earnings-call.html",
-        "source": "CNBC",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-        "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
-        "source": "CNBC",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-        "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-        "source": "CNBC",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
-        "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
-        "source": "CNBC",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "AI models flub these intelligence tests. Can you fare any better?",
-        "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-        "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Raised on AI",
-        "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-        "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "The inside story on why OpenAI agents hacked Hugging Face",
-        "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-        "source": "MIT Technology Review",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-        "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-        "source": "TechCrunch",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-        "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-        "source": "TechCrunch",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-        "source": "TechCrunch",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-        "source": "TechCrunch",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-        "source": "VentureBeat",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
-        "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
-        "source": "VentureBeat",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
-        "url": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
-        "source": "VentureBeat",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "AI Slop Is Ruining Cute Animals on the Internet",
-        "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
-        "source": "Wired",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-        "url": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-        "source": "Wired",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
-        "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-        "source": "Wired",
-        "date": "2026-08-26"
       }
     ]
   }
