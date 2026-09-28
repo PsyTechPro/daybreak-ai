@@ -1,7 +1,150 @@
 [
   {
+    "date": "2026-09-28",
+    "articles": [
+      {
+        "title": "Nvidia announces security system to stop AI agents from going rogue",
+        "url": "https://www.cbsnews.com/news/nvidia-openshell-ai-safety-rogue-agents/",
+        "source": "CBS News",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "OpenAI hack sparks further concern over AI models going rogue",
+        "url": "https://www.cbsnews.com/video/openai-hack-sparks-further-concern-over-ai-models-going-rogue/",
+        "source": "CBS News",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Jensen Huang says AI distillation is 'competition.' Scott Bessent has called it 'theft'",
+        "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+        "source": "CNBC",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+        "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+        "source": "CNBC",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Nvidia releases software platform to stop AI agents from misbehaving",
+        "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+        "source": "CNBC",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Nvidia's new AI platform, Nor'easter flight delays, NFL's drone focus and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/09/28/5-things-to-know-before-the-stock-market-opens.html",
+        "source": "CNBC",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Malicious browser extensions can hijack AI assistants",
+        "url": "https://www.foxnews.com/tech/malicious-browser-extensions-hijack-ai-assistants",
+        "source": "Fox News",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "The Download: rogue agent liability and the AI Hype Index",
+        "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Who’s liable when AI agents go rogue?",
+        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "AI assessors says current science hasn't caught up to the safety measures people want",
+        "url": "https://www.npr.org/2026/09/28/nx-s1-5974206/ai-assessors-says-current-science-hasnt-caught-up-to-the-safety-measures-people-want",
+        "source": "NPR",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+        "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+        "source": "TechCrunch",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+        "source": "TechCrunch",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+        "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+        "source": "The Verge",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+        "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
+        "source": "The Verge",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+        "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+        "source": "Wired",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
+        "url": "https://www.wired.com/story/best-security-cameras/",
+        "source": "Wired",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+        "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+        "source": "Wired",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+        "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+        "source": "Wired",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+        "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+        "source": "Wired",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+        "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+        "source": "Wired",
+        "date": "2026-09-28"
+      }
+    ]
+  },
+  {
     "date": "2026-09-27",
     "articles": [
+      {
+        "title": "AI risks: Will artificial intelligence really kill us all?",
+        "url": "https://www.cbsnews.com/video/will-artificial-intelligence-really-kill-us-all/",
+        "source": "CBS News",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "Will artificial intelligence really kill us all?",
+        "url": "https://www.cbsnews.com/news/will-artificial-intelligence-really-kill-us-all/",
+        "source": "CBS News",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+        "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+        "source": "CNBC",
+        "date": "2026-09-27"
+      },
       {
         "title": "Debt-hungry AI companies face increased risk as bond yields spike",
         "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
@@ -21,9 +164,45 @@
         "date": "2026-09-27"
       },
       {
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+        "source": "TechCrunch",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "source": "TechCrunch",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+        "source": "TechCrunch",
+        "date": "2026-09-27"
+      },
+      {
         "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
         "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
         "source": "TechCrunch",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "TechCrunch Mobility: AV companies pick their lanes",
+        "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+        "source": "TechCrunch",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "Engram is a sampler that turns broken AI hallucinations into music",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+        "source": "The Verge",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+        "source": "The Verge",
         "date": "2026-09-27"
       }
     ]
@@ -220,6 +399,12 @@
         "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
         "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
         "source": "MIT Technology Review",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "A surprising number of Americans use AI for spiritual reasons. Here's what they told us",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5944346/a-surprising-number-of-americans-use-ai-for-spiritual-reasons-heres-what-they-told-us",
+        "source": "NPR",
         "date": "2026-09-25"
       },
       {
@@ -5288,167 +5473,6 @@
         "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
         "source": "Wired",
         "date": "2026-08-29"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-28",
-    "articles": [
-      {
-        "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-        "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-        "source": "Ars Technica",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-        "source": "Ars Technica",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-        "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Younger workers are more scared of AI than older employees, survey finds",
-        "url": "https://www.cbsnews.com/news/gen-z-workers-fear-ai-glassdoor-survey/",
-        "source": "CBS News",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test",
-        "url": "https://www.cnbc.com/2026/08/28/big-techs-ai-spending-is-putting-a-longtime-strengths-to-the-test.html",
-        "source": "CNBC",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
-        "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
-        "source": "CNBC",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics",
-        "url": "https://www.cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html",
-        "source": "CNBC",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access",
-        "url": "https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html",
-        "source": "CNBC",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Fox News AI Newsletter: The industry sparking blue-collar jobs boom",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-industry-sparking-blue-collar-jobs-boom",
-        "source": "Fox News",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
-        "url": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
-        "source": "NPR",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-        "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-        "source": "TechCrunch",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-        "source": "TechCrunch",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-        "source": "TechCrunch",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-        "source": "TechCrunch",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-        "source": "TechCrunch",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-        "source": "TechCrunch",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-        "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-        "source": "TechCrunch",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-        "source": "The Verge",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
-        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-        "source": "The Verge",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Google further buries search results under AI mode",
-        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-        "source": "The Verge",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
-        "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
-        "source": "VentureBeat",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
-        "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
-        "source": "VentureBeat",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
-        "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
-        "source": "VentureBeat",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-        "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-        "source": "Wired",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-        "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-        "source": "Wired",
-        "date": "2026-08-28"
-      },
-      {
-        "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-        "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-        "source": "Wired",
-        "date": "2026-08-28"
       }
     ]
   }
