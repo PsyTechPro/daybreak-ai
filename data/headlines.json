@@ -1,11 +1,196 @@
 [
   {
+    "date": "2026-09-30",
+    "articles": [
+      {
+        "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+        "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Regulating AI 'not the right place to start' says Bailey",
+        "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "AI broke the job application. What replaces it?",
+        "url": "https://www.cnbc.com/2026/09/30/ai-resume-cv-job-application-interview.html",
+        "source": "CNBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "China's inside man at the Fed, OpenAI debuts Dots, an IPO trend and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/09/30/5-things-to-know-before-the-stock-market-opens.html",
+        "source": "CNBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "OpenAI DevDay recap: AI lab rolls out Dots agents, Altman and Friar comment on IPO",
+        "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
+        "url": "https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
+        "source": "CNBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
+        "url": "https://www.cnbc.com/2026/09/30/openai-sued-cyberattack.html",
+        "source": "CNBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
+        "url": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
+        "source": "CNBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
+        "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
+        "source": "CNBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+        "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+        "source": "CNBC",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+        "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+        "source": "MIT Technology Review",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Takeaways from Trump's summit with AI leaders",
+        "url": "https://www.npr.org/2026/09/30/nx-s1-5984944/takeaways-from-trumps-summit-with-ai-leaders",
+        "source": "NPR",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Trump meets with top tech leaders to discuss regulations and launch new website",
+        "url": "https://www.npr.org/2026/09/30/nx-s1-5984963/trump-meets-with-top-tech-leaders-to-discuss-regulations-and-launch-new-website",
+        "source": "NPR",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Trump says top tech firms have signed accord to 'self-police' AI development",
+        "url": "https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development",
+        "source": "NPR",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Airbnb adds AI search, more social features",
+        "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+        "source": "TechCrunch",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+        "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+        "source": "TechCrunch",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
+        "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+        "source": "The Verge",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+        "source": "The Verge",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+        "source": "The Verge",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "You’ll soon be able to order DoorDash by text message",
+        "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+        "source": "The Verge",
+        "date": "2026-09-30"
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "articles": [
+      {
+        "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+        "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+        "source": "Ars Technica",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+        "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+        "source": "Ars Technica",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+        "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+        "source": "Ars Technica",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+        "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+        "source": "Ars Technica",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Protests against OpenAI get increasingly creative",
+        "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+        "source": "Ars Technica",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Chinese AI tool told researchers how to make bioweapons",
+        "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-29"
+      },
       {
         "title": "OpenAI scraps rollout of new model over safety concerns",
         "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Tech Life",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Country stars band together against AI data centers",
+        "url": "https://www.cbsnews.com/video/country-stars-ban-together-against-ai-data-centers/",
+        "source": "CBS News",
         "date": "2026-09-29"
       },
       {
@@ -15,8 +200,26 @@
         "date": "2026-09-29"
       },
       {
+        "title": "Sam Altman unveils \"dots,\" OpenAI's new AI personal agent",
+        "url": "https://www.cbsnews.com/news/sam-altman-openai-dots-chatgpt-agents-safety/",
+        "source": "CBS News",
+        "date": "2026-09-29"
+      },
+      {
         "title": "Tech leaders to meet with Trump amid ramped-up concern over AI",
         "url": "https://www.cbsnews.com/video/tech-leaders-to-meet-with-trump-amid-ramped-up-concern-over-ai/",
+        "source": "CBS News",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Trump agrees to let AI leaders police themselves",
+        "url": "https://www.cbsnews.com/video/trump-agrees-let-ai-leaders-police-themselves/",
+        "source": "CBS News",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
+        "url": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
         "source": "CBS News",
         "date": "2026-09-29"
       },
@@ -33,8 +236,20 @@
         "date": "2026-09-29"
       },
       {
+        "title": "Cramer warns the narrative around AI is turning — and stocks could pay the price",
+        "url": "https://www.cnbc.com/2026/09/29/jim-cramer-ai-public-perception.html",
+        "source": "CNBC",
+        "date": "2026-09-29"
+      },
+      {
         "title": "House Speaker Johnson says he hopes AI guardrails are 'voluntary' amid Congress inaction",
         "url": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
+        "source": "CNBC",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Meta is bringing Muse AI to small businesses — and it already has a huge head start",
+        "url": "https://www.cnbc.com/2026/09/29/meta-is-bringing-muse-ai-to-small-businesses-and-it-already-has-a-huge-head-start.html",
         "source": "CNBC",
         "date": "2026-09-29"
       },
@@ -47,6 +262,18 @@
       {
         "title": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence'",
         "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+        "source": "CNBC",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Muse is crushing these consumer stocks. Cramer says some may be worth a look",
+        "url": "https://www.cnbc.com/2026/09/29/jim-cramer-meta-muse-consumer-inertia.html",
+        "source": "CNBC",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+        "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
         "source": "CNBC",
         "date": "2026-09-29"
       },
@@ -69,9 +296,21 @@
         "date": "2026-09-29"
       },
       {
+        "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+        "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+        "source": "CNBC",
+        "date": "2026-09-29"
+      },
+      {
         "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
         "url": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
         "source": "CNBC",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Apple's $250M Siri settlement: How to claim up to $95",
+        "url": "https://www.foxnews.com/tech/apple-250m-siri-settlement-claim-95",
+        "source": "Fox News",
         "date": "2026-09-29"
       },
       {
@@ -99,8 +338,26 @@
         "date": "2026-09-29"
       },
       {
+        "title": "Trump hosts tech executives as administration doubles down on AI",
+        "url": "https://www.npr.org/2026/09/29/nx-s1-5984657/trump-hosts-tech-executives-as-administration-doubles-down-on-ai",
+        "source": "NPR",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "AI-powered app maker Wabi pivots to a messaging experience",
+        "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+        "source": "TechCrunch",
+        "date": "2026-09-29"
+      },
+      {
         "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
         "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+        "source": "TechCrunch",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+        "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
         "source": "TechCrunch",
         "date": "2026-09-29"
       },
@@ -111,8 +368,50 @@
         "date": "2026-09-29"
       },
       {
+        "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+        "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+        "source": "TechCrunch",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "OpenAI launches Dots, its bubbly agentic avatar",
+        "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+        "source": "TechCrunch",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+        "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+        "source": "TechCrunch",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+        "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+        "source": "TechCrunch",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+        "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+        "source": "TechCrunch",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "OpenAI’s latest features take direct aim at the app store model",
+        "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+        "source": "TechCrunch",
+        "date": "2026-09-29"
+      },
+      {
         "title": "Reco raises $55M as AI agent security startups crowd the market",
         "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+        "source": "TechCrunch",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
         "source": "TechCrunch",
         "date": "2026-09-29"
       },
@@ -123,14 +422,38 @@
         "date": "2026-09-29"
       },
       {
+        "title": "Trump orders US government to call AI ‘Super Intelligence’",
+        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+        "source": "The Verge",
+        "date": "2026-09-29"
+      },
+      {
         "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
         "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
         "source": "The Verge",
         "date": "2026-09-29"
       },
       {
+        "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+        "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+        "source": "Wired",
+        "date": "2026-09-29"
+      },
+      {
         "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
         "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+        "source": "Wired",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+        "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+        "source": "Wired",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+        "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
         "source": "Wired",
         "date": "2026-09-29"
       },
@@ -5636,65 +5959,6 @@
         "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
         "source": "Wired",
         "date": "2026-08-31"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "articles": [
-      {
-        "title": "AI bursts to the front of Massachusetts Democratic Senate primary",
-        "url": "https://www.cnbc.com/2026/08/27/ai-massachusetts-democratic-senate-primary-markey-moulton.html",
-        "source": "CNBC",
-        "date": "2026-08-30"
-      },
-      {
-        "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
-        "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
-        "source": "NPR",
-        "date": "2026-08-30"
-      },
-      {
-        "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
-        "url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
-        "source": "NPR",
-        "date": "2026-08-30"
-      },
-      {
-        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-        "source": "TechCrunch",
-        "date": "2026-08-30"
-      },
-      {
-        "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-        "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-        "source": "TechCrunch",
-        "date": "2026-08-30"
-      },
-      {
-        "title": "China’s robots race ahead",
-        "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-        "source": "The Verge",
-        "date": "2026-08-30"
-      },
-      {
-        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-        "source": "The Verge",
-        "date": "2026-08-30"
-      },
-      {
-        "title": "AI agents need their own identity before they need a gateway",
-        "url": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
-        "source": "VentureBeat",
-        "date": "2026-08-30"
-      },
-      {
-        "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
-        "url": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
-        "source": "VentureBeat",
-        "date": "2026-08-30"
       }
     ]
   }
