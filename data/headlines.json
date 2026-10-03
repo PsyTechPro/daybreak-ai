@@ -1,11 +1,70 @@
 [
   {
+    "date": "2026-10-03",
+    "articles": [
+      {
+        "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+        "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+        "source": "CNBC",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "AI agents can now make phone calls for you",
+        "url": "https://www.foxnews.com/tech/ai-agents-make-phone-calls",
+        "source": "Fox News",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "An AI-generated influencer entered Alabama 'RushTok' — Some fans didn't care that she was fake",
+        "url": "https://www.foxnews.com/tech/ai-generated-influencer-entered-alabama-rushtok-fans-didnt-care-fake",
+        "source": "Fox News",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+        "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+        "source": "Wired",
+        "date": "2026-10-03"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "articles": [
+      {
+        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+        "source": "Ars Technica",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+        "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+        "source": "Ars Technica",
+        "date": "2026-10-02"
+      },
       {
         "title": "OpenAI fires workers for 'mishandling sensitive information'",
         "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "How some AI models are more vulnerable to manipulation",
+        "url": "https://www.cbsnews.com/news/open-weight-ai-models-safety-risks/",
+        "source": "CBS News",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Some topics are off limits in Chinese AI, researchers find",
+        "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
+        "source": "CBS News",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "What AI could mean for the next generation of workers",
+        "url": "https://www.cbsnews.com/video/what-ai-could-mean-for-the-next-generation-of-workers/",
+        "source": "CBS News",
         "date": "2026-10-02"
       },
       {
@@ -21,8 +80,20 @@
         "date": "2026-10-02"
       },
       {
+        "title": "Anthropic to invest $100 million to train AI engineer talent",
+        "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+        "source": "CNBC",
+        "date": "2026-10-02"
+      },
+      {
         "title": "CNBC AI Forum takeaways: AI costs, security and scale in focus",
         "url": "https://www.cnbc.com/2026/10/01/cnbc-ai-forum-2026-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Facebook whistleblower Frances Haugen questions whether AI companies can police themselves",
+        "url": "https://www.cnbc.com/2026/10/02/frances-haugen-ai-self-regulation.html",
         "source": "CNBC",
         "date": "2026-10-02"
       },
@@ -39,9 +110,21 @@
         "date": "2026-10-02"
       },
       {
+        "title": "Nvidia just hit a record high. Here’s why the stock still looks cheap to me",
+        "url": "https://www.cnbc.com/2026/10/02/nvidia-is-a-best-in-breed-stock-on-sale-heres-why-im-buying.html",
+        "source": "CNBC",
+        "date": "2026-10-02"
+      },
+      {
         "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
         "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
         "source": "CNBC",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Android malware can steal your PIN and bank logins",
+        "url": "https://www.foxnews.com/tech/android-malware-steal-pin-bank-logins",
+        "source": "Fox News",
         "date": "2026-10-02"
       },
       {
@@ -51,9 +134,63 @@
         "date": "2026-10-02"
       },
       {
+        "title": "Fox News AI Newsletter: The neighborhood on the edge of America's tech frontier",
+        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-neighborhood-edge-americas-tech-frontier",
+        "source": "Fox News",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-02"
+      },
+      {
         "title": "Google launches satellite to test feasibility of building data centers in space",
         "url": "https://www.npr.org/2026/10/02/nx-s1-5988044/google-launches-satellite-to-test-feasibility-of-building-data-centers-in-space",
         "source": "NPR",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "source": "TechCrunch",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+        "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+        "source": "TechCrunch",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+        "source": "TechCrunch",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Pope Leo XIV is not a fan of AI-generated art",
+        "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+        "source": "TechCrunch",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+        "source": "TechCrunch",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+        "source": "TechCrunch",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+        "source": "TechCrunch",
         "date": "2026-10-02"
       },
       {
@@ -81,14 +218,50 @@
         "date": "2026-10-02"
       },
       {
+        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+        "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+        "source": "The Verge",
+        "date": "2026-10-02"
+      },
+      {
         "title": "If a data center is camouflaged in the woods, will anyone hate it?",
         "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
         "source": "The Verge",
         "date": "2026-10-02"
       },
       {
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "source": "The Verge",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "source": "The Verge",
+        "date": "2026-10-02"
+      },
+      {
         "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
         "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+        "source": "Wired",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+        "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
+        "source": "Wired",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+        "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+        "source": "Wired",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+        "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
         "source": "Wired",
         "date": "2026-10-02"
       },
@@ -5852,227 +6025,6 @@
         "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/",
         "source": "Wired",
         "date": "2026-09-03"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-02",
-    "articles": [
-      {
-        "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-        "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-        "source": "Ars Technica",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-        "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-        "source": "Ars Technica",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Lords call for AI 'kill switch' powers in UK",
-        "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-        "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "MapQuest hits No. 1 on App Store after refusing to rename Lake Ontario",
-        "url": "https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/",
-        "source": "CBS News",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Meta says AI glasses fix stops users from secretly recording others",
-        "url": "https://www.cbsnews.com/news/meta-ai-glasses-privacy-security-fixes/",
-        "source": "CBS News",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Dell is now the most important stock in the market. Here's why",
-        "url": "https://www.cnbc.com/2026/09/02/dell-is-now-the-most-important-stock-in-the-market-heres-why-.html",
-        "source": "CNBC",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "G20 live updates: Canada blew up trade deal for political reasons, Lutnick tells CNBC",
-        "url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-        "source": "CNBC",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
-        "url": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
-        "source": "CNBC",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-        "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-        "source": "CNBC",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
-        "url": "https://www.cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html",
-        "source": "CNBC",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
-        "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
-        "source": "CNBC",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Snowflake spikes 22% on healthy results and AI coding momentum",
-        "url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
-        "source": "CNBC",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Cybercrime losses near $21B: 5 ways to protect your money",
-        "url": "https://www.foxnews.com/tech/cybercrime-losses-near-21b-5-ways-protect-your-money",
-        "source": "Fox News",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Facilitating AI integration with simplicity at scale",
-        "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "The Download: AI puzzles and a path to our nearest star system",
-        "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
-        "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
-        "source": "NPR",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Adobe acquires Indian market intelligence startup Rilo",
-        "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-        "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-        "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-        "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-        "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-        "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-        "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-        "source": "TechCrunch",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "This new Roomba seals itself to your carpet",
-        "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
-        "source": "The Verge",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
-        "url": "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists",
-        "source": "VentureBeat",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Forward-deployed engineering is how enterprise AI learns",
-        "url": "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
-        "source": "VentureBeat",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
-        "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
-        "source": "VentureBeat",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
-        "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke",
-        "source": "VentureBeat",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-        "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-        "source": "Wired",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-        "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
-        "source": "Wired",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-        "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-        "source": "Wired",
-        "date": "2026-09-02"
-      },
-      {
-        "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-        "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-        "source": "Wired",
-        "date": "2026-09-02"
       }
     ]
   }
