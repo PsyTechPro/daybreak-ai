@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-04",
+    "articles": [
+      {
+        "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+        "url": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
+        "source": "CNBC",
+        "date": "2026-10-04"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "articles": [
       {
@@ -21,8 +32,50 @@
         "date": "2026-10-03"
       },
       {
+        "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check",
+        "url": "https://www.foxnews.com/tech/former-anthropic-security-leader-warns-ai-agents-becoming-too-autonomous-humans-keep-check",
+        "source": "Fox News",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "All the AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+        "source": "TechCrunch",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "An OpenAI safety employee has quit and is sounding the alarm",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+        "source": "The Verge",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "source": "The Verge",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+        "source": "The Verge",
+        "date": "2026-10-03"
+      },
+      {
         "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
         "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+        "source": "Wired",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+        "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
         "source": "Wired",
         "date": "2026-10-03"
       }
@@ -5804,227 +5857,6 @@
         "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
         "source": "Wired",
         "date": "2026-09-04"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-03",
-    "articles": [
-      {
-        "title": "Four major AI models suffer rare overlapping downtime",
-        "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-        "source": "Ars Technica",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-        "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-        "source": "Ars Technica",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "AI data centres are booming in Australia - but at what cost?",
-        "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-        "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Watch: BBC travels in self-driving Uber around London",
-        "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "AI interviews rolling out for some federal hires, sources say",
-        "url": "https://www.cbsnews.com/news/ai-interviews-federal-government-hires/",
-        "source": "CBS News",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
-        "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
-        "source": "CNBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
-        "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
-        "source": "CNBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "G20 on AI policy, Snowflake earnings, Ford's production push and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/09/03/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-        "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-        "source": "CNBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom",
-        "url": "https://www.cnbc.com/2026/09/03/us-ai-data-centers-china-supply-chain.html",
-        "source": "CNBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-        "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-        "source": "CNBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
-        "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-        "source": "CNBC",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Scaling agentic AI pilots across the enterprise",
-        "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Abliteration.ai is making a business out of removing AI guardrails",
-        "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-        "source": "TechCrunch",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-        "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-        "source": "TechCrunch",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-        "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-        "source": "TechCrunch",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Meta is paying to peek at how you use their latest AI model",
-        "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-        "source": "TechCrunch",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-        "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-        "source": "TechCrunch",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-        "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-        "source": "TechCrunch",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-        "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-        "source": "TechCrunch",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Startup ARR is less secure than ever, new research shows",
-        "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-        "source": "TechCrunch",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-        "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-        "source": "TechCrunch",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
-        "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
-        "source": "The Verge",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-        "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-        "source": "The Verge",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-        "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
-        "source": "VentureBeat",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-        "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-        "source": "Wired",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-        "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-        "source": "Wired",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-        "source": "Wired",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-        "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-        "source": "Wired",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-        "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-        "source": "Wired",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-        "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-        "source": "Wired",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-        "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-        "source": "Wired",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
-        "url": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/",
-        "source": "Wired",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "This Is Flock’s AI Search Tool for Cops",
-        "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
-        "source": "Wired",
-        "date": "2026-09-03"
-      },
-      {
-        "title": "Ugly AI Food Photos Are Only the Beginning",
-        "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/",
-        "source": "Wired",
-        "date": "2026-09-03"
       }
     ]
   }
