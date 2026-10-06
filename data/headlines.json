@@ -1,11 +1,94 @@
 [
   {
+    "date": "2026-10-06",
+    "articles": [
+      {
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "source": "Ars Technica",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Italian PM files to trademark her voice against AI threats",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+        "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+        "source": "CNBC",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
+        "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+        "source": "CNBC",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Mistral unveils new AI model it says rivals best open systems from China",
+        "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+        "source": "CNBC",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Paramount-WBD merger, Musk's return to trillionaire, AI researchers' warning and more in Morning Squawk",
+        "url": "https://www.cnbc.com/2026/10/06/5-things-to-know-before-the-stock-market-opens.html",
+        "source": "CNBC",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+        "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Google is about to remove free access to Gemini Flash and Pro",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+        "source": "The Verge",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+        "source": "Wired",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+        "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+        "source": "Wired",
+        "date": "2026-10-06"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "articles": [
+      {
+        "title": "AI glasses face their first major government crackdown",
+        "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+        "source": "Ars Technica",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-05"
+      },
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
         "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "Mayor to homeowner losing sleep over data center plant: \"Consider selling\"",
+        "url": "https://www.cbsnews.com/news/mississippi-elon-musk-xai-data-center-power-plant-noise/",
+        "source": "CBS News",
         "date": "2026-10-05"
       },
       {
@@ -27,9 +110,27 @@
         "date": "2026-10-05"
       },
       {
+        "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
+        "url": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
+        "source": "CNBC",
+        "date": "2026-10-05"
+      },
+      {
         "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
         "url": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
         "source": "CNBC",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+        "url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+        "source": "CNBC",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "Windows malware uses Grok AI to help stay hidden, researchers say",
+        "url": "https://www.foxnews.com/tech/windows-malware-uses-grok-ai-help-stay-hidden-researchers-say",
+        "source": "Fox News",
         "date": "2026-10-05"
       },
       {
@@ -57,6 +158,42 @@
         "date": "2026-10-05"
       },
       {
+        "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+        "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+        "source": "TechCrunch",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+        "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+        "source": "TechCrunch",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "Etched fields funding offers at $40B+ valuation, sources say",
+        "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+        "source": "TechCrunch",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+        "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+        "source": "TechCrunch",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+        "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+        "source": "TechCrunch",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+        "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+        "source": "TechCrunch",
+        "date": "2026-10-05"
+      },
+      {
         "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
         "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
         "source": "TechCrunch",
@@ -75,8 +212,26 @@
         "date": "2026-10-05"
       },
       {
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+        "source": "TechCrunch",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+        "source": "TechCrunch",
+        "date": "2026-10-05"
+      },
+      {
         "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
         "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+        "source": "TechCrunch",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+        "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
         "source": "TechCrunch",
         "date": "2026-10-05"
       },
@@ -5780,71 +5935,6 @@
         "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
         "source": "Wired",
         "date": "2026-09-06"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-05",
-    "articles": [
-      {
-        "title": "Many truckers don't feel like the rest of America about AI data centers as business booms",
-        "url": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
-        "source": "CNBC",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-        "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
-        "source": "CNBC",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "We got more defensive last week as Wall Street raised the bar for AI stocks",
-        "url": "https://www.cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html",
-        "source": "CNBC",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "AI robot pet could know your family too well",
-        "url": "https://www.foxnews.com/tech/ai-robot-pet-could-know-your-family-too-well",
-        "source": "Fox News",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-        "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-        "source": "NPR",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "source": "TechCrunch",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-        "source": "TechCrunch",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "source": "TechCrunch",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "OpenAI admits to German wiki ‘incident’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-        "source": "The Verge",
-        "date": "2026-09-05"
-      },
-      {
-        "title": "OpenAI Agents Hacked Another Website",
-        "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-        "source": "Wired",
-        "date": "2026-09-05"
       }
     ]
   }
