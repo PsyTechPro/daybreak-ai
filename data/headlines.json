@@ -1,10 +1,93 @@
 [
   {
+    "date": "2026-10-07",
+    "articles": [
+      {
+        "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
+        "url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+        "source": "CNBC",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
+        "url": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
+        "source": "CNBC",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
+        "url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+        "source": "CNBC",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+        "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+        "source": "CNBC",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "AI voice scam traps mom in 5-hour kidnapping nightmare",
+        "url": "https://www.foxnews.com/tech/ai-voice-scam-traps-mom-5-hour-kidnapping-nightmare",
+        "source": "Fox News",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+        "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+        "source": "TechCrunch",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Google’s new SynthID website can identify AI-generated media",
+        "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+        "source": "TechCrunch",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "AI could upend food delivery",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+        "source": "The Verge",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Google now lets you make games with AI",
+        "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+        "source": "The Verge",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Windows and Surface event: how to watch and what to expect",
+        "url": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
+        "source": "The Verge",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+        "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+        "source": "Wired",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Your Next Great Read Might Be Certified ‘Organic’",
+        "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+        "source": "Wired",
+        "date": "2026-10-07"
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "articles": [
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
         "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "source": "Ars Technica",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+        "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
         "source": "Ars Technica",
         "date": "2026-10-06"
       },
@@ -21,8 +104,26 @@
         "date": "2026-10-06"
       },
       {
+        "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+        "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+        "source": "CNBC",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
+        "url": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
+        "source": "CNBC",
+        "date": "2026-10-06"
+      },
+      {
         "title": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
         "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+        "source": "CNBC",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
+        "url": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
         "source": "CNBC",
         "date": "2026-10-06"
       },
@@ -39,8 +140,68 @@
         "date": "2026-10-06"
       },
       {
+        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+        "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
         "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
         "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Hark releases an AI personal assistant with a focus on privacy",
+        "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "How AI decision models could change content moderation",
+        "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+        "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "LibreOffice says ‘no AI’ is now a software feature",
+        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Mirror Particle is building a ‘world model’ of human behavior",
+        "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+        "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "The next hurdle for AI agents: getting websites to let them in",
+        "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+        "source": "TechCrunch",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+        "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
         "source": "TechCrunch",
         "date": "2026-10-06"
       },
@@ -59,6 +220,18 @@
       {
         "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
         "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+        "source": "Wired",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+        "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+        "source": "Wired",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+        "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
         "source": "Wired",
         "date": "2026-10-06"
       }
@@ -5882,59 +6055,6 @@
         "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
         "source": "TechCrunch",
         "date": "2026-09-07"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-06",
-    "articles": [
-      {
-        "title": "Watch: CBS News reporter tests out autonomous, AI-powered Uber in London",
-        "url": "https://www.cbsnews.com/video/watch-cbs-news-reporter-tests-out-autonomous-ai-powered-uber-in-london/",
-        "source": "CBS News",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "Many truckers don't feel like the rest of America about AI data centers as business booms",
-        "url": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
-        "source": "CNBC",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-        "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-        "source": "CNBC",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "Autonomous excavators are digging with empty cabs",
-        "url": "https://www.foxnews.com/tech/autonomous-excavators-digging-empty-cabs",
-        "source": "Fox News",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-        "source": "TechCrunch",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-        "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-        "source": "TechCrunch",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-        "source": "The Verge",
-        "date": "2026-09-06"
-      },
-      {
-        "title": "My Brief Summer Fling With Siri AI",
-        "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-        "source": "Wired",
-        "date": "2026-09-06"
       }
     ]
   }
