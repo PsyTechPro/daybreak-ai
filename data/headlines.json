@@ -1,7 +1,156 @@
 [
   {
+    "date": "2026-10-08",
+    "articles": [
+      {
+        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+        "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+        "source": "Ars Technica",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+        "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+        "source": "Ars Technica",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "AI chip boom pushes Samsung profits to record $80bn",
+        "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Text is so 2023",
+        "url": "https://www.bensbites.com/p/text-is-so-2023",
+        "source": "Ben's Bites",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+        "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+        "source": "CNBC",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
+        "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+        "source": "CNBC",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+        "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+        "source": "CNBC",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+        "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+        "source": "CNBC",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
+        "url": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+        "source": "CNBC",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Building a safer path to autonomous industrial AI",
+        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+        "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+        "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+        "source": "The Verge",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Cupertino might be made for your mom, but it&#8217;s a good take on tech",
+        "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
+        "source": "The Verge",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "WIRED’s Midterms Races to Watch",
+        "url": "https://www.wired.com/story/wireds-midterms-races-to-watch/",
+        "source": "Wired",
+        "date": "2026-10-08"
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "articles": [
+      {
+        "title": "AI/ML is becoming a performance factor in motorsport",
+        "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
+        "source": "Ars Technica",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+        "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+        "source": "Ars Technica",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Google rolls out improved SynthID AI content detector, now available globally",
+        "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+        "source": "Ars Technica",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+        "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+        "source": "Ars Technica",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+        "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+        "source": "Ars Technica",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "source": "CNBC",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+        "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+        "source": "CNBC",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage",
+        "url": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
+        "source": "CNBC",
+        "date": "2026-10-07"
+      },
       {
         "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
         "url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
@@ -29,6 +178,12 @@
       {
         "title": "AI voice scam traps mom in 5-hour kidnapping nightmare",
         "url": "https://www.foxnews.com/tech/ai-voice-scam-traps-mom-5-hour-kidnapping-nightmare",
+        "source": "Fox News",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "The best defense against high-tech AI scams is low-tech skepticism, expert warns",
+        "url": "https://www.foxnews.com/tech/best-defense-against-high-tech-ai-scams-low-tech-skepticism-expert-warns",
         "source": "Fox News",
         "date": "2026-10-07"
       },
@@ -65,6 +220,24 @@
       {
         "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
         "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+        "source": "Wired",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "The New ChatGPT Is More Show Than Tell",
+        "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+        "source": "Wired",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+        "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+        "source": "Wired",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+        "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
         "source": "Wired",
         "date": "2026-10-07"
       },
@@ -6008,53 +6181,6 @@
         "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
         "source": "Wired",
         "date": "2026-09-08"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "articles": [
-      {
-        "title": "The complex corporate web behind a $3.2 billion AI data center",
-        "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-        "source": "Ars Technica",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "The complex corporate web behind a $3.2 billion AI data center",
-        "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-        "source": "Ars Technica",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-        "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
-        "url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
-        "source": "CNBC",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-        "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "Opaque recurrence, and other AI terms that you should probably know",
-        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "source": "TechCrunch",
-        "date": "2026-09-07"
       }
     ]
   }
