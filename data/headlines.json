@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026-10-11",
+    "articles": [
+      {
+        "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+        "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+        "source": "CNBC",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+        "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+        "source": "CNBC",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+        "source": "The Verge",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "I Made Terrible Games With Google’s AI Playground",
+        "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+        "source": "Wired",
+        "date": "2026-10-11"
+      }
+    ]
+  },
+  {
     "date": "2026-10-10",
     "articles": [
       {
@@ -21,8 +50,38 @@
         "date": "2026-10-10"
       },
       {
+        "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+        "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+        "source": "CNBC",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
+        "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+        "source": "CNBC",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "8 seriously annoying tasks you can hand off to an AI agent",
+        "url": "https://www.foxnews.com/tech/8-annoying-tasks-hand-off-ai-agent",
+        "source": "Fox News",
+        "date": "2026-10-10"
+      },
+      {
         "title": "Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture",
         "url": "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
+        "source": "NPR",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "For reporters covering AI, keeping up with story is both tough and exciting",
+        "url": "https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting",
+        "source": "NPR",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "What are they saying about AI at San Francisco Tech Week?",
+        "url": "https://www.npr.org/2026/10/10/nx-s1-5995420/what-are-they-saying-about-ai-at-san-francisco-tech-week",
         "source": "NPR",
         "date": "2026-10-10"
       },
@@ -33,14 +92,50 @@
         "date": "2026-10-10"
       },
       {
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "source": "TechCrunch",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+        "source": "TechCrunch",
+        "date": "2026-10-10"
+      },
+      {
         "title": "AI agent makers are promising privacy — will they deliver?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
         "source": "The Verge",
         "date": "2026-10-10"
       },
       {
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "source": "The Verge",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+        "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+        "source": "The Verge",
+        "date": "2026-10-10"
+      },
+      {
         "title": "My brief romance with an AI bird feeder",
         "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+        "source": "The Verge",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
         "source": "The Verge",
         "date": "2026-10-10"
       },
@@ -5960,209 +6055,6 @@
         "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
         "source": "Wired",
         "date": "2026-09-11"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-10",
-    "articles": [
-      {
-        "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-        "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-        "source": "Ars Technica",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "UK needs new laws for AI in healthcare, says watchdog",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Everyone needs a Muse",
-        "url": "https://www.bensbites.com/p/everyone-needs-a-muse",
-        "source": "Ben's Bites",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Another Anthropic model gained access to open internet during testing",
-        "url": "https://www.cbsnews.com/news/anthropic-ai-model-internet-hack-fourth-time/",
-        "source": "CBS News",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Anthropic says scientists used AI for possible biological weapons development",
-        "url": "https://www.cbsnews.com/news/anthropic-ai-claude-biological-weapons-development/",
-        "source": "CBS News",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Former Anthropic researcher who said AI could \"kill us all\" explains his reasoning",
-        "url": "https://www.cbsnews.com/video/former-anthropic-researcher-who-said-ai-could-kill-us-all-explains-his-reasoning/",
-        "source": "CBS News",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "How concerned should people be about Anthropic insiders' AI warnings?",
-        "url": "https://www.cbsnews.com/video/how-concerned-should-people-be-about-anthropic-insiders-ai-warnings/",
-        "source": "CBS News",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "The OpenAI-Hugging Face hack was just the beginning, experts say",
-        "url": "https://www.cbsnews.com/news/openai-hugging-face-hack-ai-risks/",
-        "source": "CBS News",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
-        "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
-        "source": "CNBC",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT",
-        "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
-        "source": "CNBC",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more",
-        "url": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
-        "source": "CNBC",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
-        "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
-        "source": "CNBC",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-        "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-        "source": "CNBC",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Healthcare AI’s next test is integration",
-        "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Powering AI is an architecture problem",
-        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "AI agents are flooding public services with new requests",
-        "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-        "source": "TechCrunch",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-        "source": "TechCrunch",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-        "source": "TechCrunch",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-        "source": "TechCrunch",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-        "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-        "source": "TechCrunch",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Maven Robotics wants to steal your robot deployment deal",
-        "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-        "source": "TechCrunch",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-        "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-        "source": "TechCrunch",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-        "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-        "source": "TechCrunch",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Mathematicians want proof OpenAI didn’t use their work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-        "source": "The Verge",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Meta’s Muse AI works and creeps me out",
-        "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-        "source": "The Verge",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Schools are catching on to Big Tech’s playbook",
-        "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-        "source": "The Verge",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Slack can now vibe-code interactive charts and reports inside chats",
-        "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-        "source": "The Verge",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Universal Music is launching an AI music platform with ElevenLabs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-        "source": "The Verge",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-        "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-        "source": "The Verge",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-        "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-        "source": "Wired",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Everything New You Can Do With Siri AI",
-        "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-        "source": "Wired",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "Is AI Actually Going to Kill Us All?",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-        "source": "Wired",
-        "date": "2026-09-10"
-      },
-      {
-        "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-        "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-        "source": "Wired",
-        "date": "2026-09-10"
       }
     ]
   }
