@@ -1,7 +1,108 @@
 [
   {
+    "date": "2026-10-12",
+    "articles": [
+      {
+        "title": "AI is less regulated than milk, says Microsoft president",
+        "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+        "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+        "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+        "source": "CNBC",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+        "url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
+        "source": "CNBC",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+        "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+        "source": "CNBC",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+        "url": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+        "source": "CNBC",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+        "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+        "source": "CNBC",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "IKEA turns to driverless semis with nobody in the cab",
+        "url": "https://www.foxnews.com/tech/ikea-turns-driverless-semis-nobody-cab",
+        "source": "Fox News",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+        "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+        "source": "TechCrunch",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "source": "TechCrunch",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "source": "TechCrunch",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "source": "TechCrunch",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "source": "TechCrunch",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+        "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+        "source": "The Verge",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "‘The Sixty-Year Mission’ Brings the Legacy of ‘Star Trek’ to a New Generation",
+        "url": "https://www.wired.com/story/new-york-comic-con-star-trek/",
+        "source": "Wired",
+        "date": "2026-10-12"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "articles": [
+      {
+        "title": "AI is automating coding. So why are software developer job postings on the rise?",
+        "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+        "source": "CNBC",
+        "date": "2026-10-11"
+      },
       {
         "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
         "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
@@ -12,6 +113,24 @@
         "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
         "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
         "source": "CNBC",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+        "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+        "source": "TechCrunch",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+        "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+        "source": "TechCrunch",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+        "source": "TechCrunch",
         "date": "2026-10-11"
       },
       {
@@ -5846,215 +5965,6 @@
         "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
         "source": "Wired",
         "date": "2026-09-12"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-11",
-    "articles": [
-      {
-        "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-        "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-        "source": "Ars Technica",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Claude users found ways around safeguards for bioweapons research",
-        "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-        "source": "Ars Technica",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-        "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-        "source": "Ars Technica",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Does this AI comic make you laugh?",
-        "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "UK government rejects 'kill switch' idea for dangerous AI",
-        "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Telling AI to design is hard",
-        "url": "https://www.bensbites.com/p/telling-ai-to-design-is-hard",
-        "source": "Ben's Bites",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "AI could \"kill us all,\" researcher says",
-        "url": "https://www.cbsnews.com/video/ai-could-kill-us-all-researcher-says/",
-        "source": "CBS News",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Are bioweapons a looming AI threat?",
-        "url": "https://www.cbsnews.com/video/are-bioweapons-a-looming-ai-threat/",
-        "source": "CBS News",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Ex-Anthropic researcher warns AI could grow \"smart enough to kill us\"",
-        "url": "https://www.cbsnews.com/news/anthropic-researcher-jacob-coxon-ai-warning/",
-        "source": "CBS News",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "AI regulation calls grow in DC after researcher's extinction warning",
-        "url": "https://www.cnbc.com/2026/09/11/ai-regulation-anthropic-researcher-extinction-warning.html",
-        "source": "CNBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Altimeter's Gerstner blasts researchers voicing AI extinction warnings, questions 'political agenda'",
-        "url": "https://www.cnbc.com/2026/09/11/altimeters-gerstner-blasts-researchers-voicing-ai-extinction-warnings.html",
-        "source": "CNBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-        "url": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
-        "source": "CNBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
-        "url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
-        "source": "CNBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-        "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-        "source": "CNBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Oracle jumps 6% after reporting 30% revenue growth fueled by AI cloud demand",
-        "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-        "source": "CNBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
-        "url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
-        "source": "CNBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI",
-        "url": "https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html",
-        "source": "CNBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
-        "url": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
-        "source": "CNBC",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Fox News AI Newsletter: Researcher delivers extinction warning",
-        "url": "https://www.foxnews.com/tech/ai-newsletter-researcher-delivers-extinction-warning",
-        "source": "Fox News",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Roundtables: AI’s apocalypse crisis",
-        "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Former Anthropic researcher outlines threat of AI going rogue",
-        "url": "https://www.npr.org/2026/09/10/nx-s1-5964864/former-anthropic-researcher-outlines-threat-of-ai-going-rogue",
-        "source": "NPR",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-        "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-        "source": "TechCrunch",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-        "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-        "source": "TechCrunch",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "source": "TechCrunch",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-        "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-        "source": "TechCrunch",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "source": "TechCrunch",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-        "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-        "source": "TechCrunch",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "source": "TechCrunch",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Anthropic spent this week in hot water over cybersecurity",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-        "source": "The Verge",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-        "source": "The Verge",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-        "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-        "source": "Wired",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-        "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-        "source": "Wired",
-        "date": "2026-09-11"
-      },
-      {
-        "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-        "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-        "source": "Wired",
-        "date": "2026-09-11"
       }
     ]
   }
