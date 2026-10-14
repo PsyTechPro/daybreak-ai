@@ -1,7 +1,90 @@
 [
   {
+    "date": "2026-10-14",
+    "articles": [
+      {
+        "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+        "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+        "source": "Ars Technica",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+        "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
+        "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+        "source": "CNBC",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+        "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+        "source": "CNBC",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
+        "url": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
+        "source": "CNBC",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+        "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+        "source": "TechCrunch",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+        "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+        "source": "Wired",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Men Can’t Stop Faking How Much They Know About AI",
+        "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+        "source": "Wired",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "My Friend Has No Soul",
+        "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+        "source": "Wired",
+        "date": "2026-10-14"
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "articles": [
+      {
+        "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+        "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+        "source": "Ars Technica",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+        "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+        "source": "Ars Technica",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+        "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+        "source": "Ars Technica",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "How long will humans be needed for translation?",
+        "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-13"
+      },
       {
         "title": "Anthropic warns \"AI worms\" could soon infect smart home devices",
         "url": "https://www.cbsnews.com/news/ai-worms-smart-devices-anthropic/",
@@ -9,8 +92,32 @@
         "date": "2026-10-13"
       },
       {
+        "title": "Character.ai declares bankruptcy, citing legal and business woes",
+        "url": "https://www.cbsnews.com/news/character-ai-files-bankruptcy-disney-license/",
+        "source": "CBS News",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "OpenAI employee accused of planting recording device in office",
+        "url": "https://www.cbsnews.com/news/openai-employee-arrest-recording-device/",
+        "source": "CBS News",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
+        "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+        "source": "CNBC",
+        "date": "2026-10-13"
+      },
+      {
         "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
         "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+        "source": "CNBC",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+        "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
         "source": "CNBC",
         "date": "2026-10-13"
       },
@@ -23,6 +130,18 @@
       {
         "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
         "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+        "source": "CNBC",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+        "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
+        "source": "CNBC",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
+        "url": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
         "source": "CNBC",
         "date": "2026-10-13"
       },
@@ -75,14 +194,74 @@
         "date": "2026-10-13"
       },
       {
+        "title": "Cerebras CEO pushes back on AI doomsday warnings",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+        "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Facebook is giving users more control over their algorithm",
+        "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+        "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
         "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
         "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
         "source": "TechCrunch",
         "date": "2026-10-13"
       },
       {
+        "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+        "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+        "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
         "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
         "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+        "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+        "source": "TechCrunch",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+        "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
         "source": "TechCrunch",
         "date": "2026-10-13"
       },
@@ -105,6 +284,24 @@
         "date": "2026-10-13"
       },
       {
+        "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+        "source": "The Verge",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Rivian partner Mind Robotics hires Doug Field as president",
+        "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+        "source": "The Verge",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Shopify opens its catalog up to more AI agents",
+        "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+        "source": "The Verge",
+        "date": "2026-10-13"
+      },
+      {
         "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
         "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
         "source": "The Verge",
@@ -114,6 +311,24 @@
         "title": "Where to preorder the new Apple TV 4K",
         "url": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy",
         "source": "The Verge",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+        "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+        "source": "The Verge",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+        "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+        "source": "Wired",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+        "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+        "source": "Wired",
         "date": "2026-10-13"
       },
       {
@@ -5924,131 +6139,6 @@
         "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
         "source": "Wired",
         "date": "2026-09-14"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-13",
-    "articles": [
-      {
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Questions mount over what an AI 'slowdown' would look like",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Anthropic CEO Dario Amodei: \"For too long the industry lied\" about AI risks",
-        "url": "https://www.cbsnews.com/video/anthropic-ceo-dario-amodei-for-too-long-the-industry-lied-about-ai-risks/",
-        "source": "CBS News",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Extended Interview: Dario Amodei",
-        "url": "https://www.cbsnews.com/video/extended-interview-dario-amodei/",
-        "source": "CBS News",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-        "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-        "source": "CNBC",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-        "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-        "source": "CNBC",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "The wages of American workers are under pressure. AI's potential role is drawing more attention",
-        "url": "https://www.cnbc.com/2026/09/13/ai-jobs-pay-inflation.html",
-        "source": "CNBC",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-        "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-        "source": "CNBC",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-        "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-        "source": "CNBC",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "AI robot for seniors can alert family after a call for help",
-        "url": "https://www.foxnews.com/tech/ai-robot-seniors-alert-family-call-help",
-        "source": "Fox News",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "AI CEOs call for industry slowdown",
-        "url": "https://www.npr.org/2026/09/13/nx-s1-5967558/ai-ceos-call-for-industry-slowdown",
-        "source": "NPR",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Could AI kill us all? Professor weighs in on former Anthropic employee's claim",
-        "url": "https://www.npr.org/2026/09/13/nx-s1-5966638/could-ai-kill-us-all-professor-weighs-in-on-former-anthropic-employees-claim",
-        "source": "NPR",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Trump downplays calls for AI slowdown",
-        "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
-        "source": "NPR",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-        "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-        "source": "TechCrunch",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-        "source": "TechCrunch",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-        "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-        "source": "TechCrunch",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "What’s behind the AI industry’s latest warnings of doom?",
-        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-        "source": "TechCrunch",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "Trump and Mike Johnson think the AI industry is overreacting",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-        "source": "The Verge",
-        "date": "2026-09-13"
-      },
-      {
-        "title": "AI Agents Are Thirsty for Power",
-        "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-        "source": "Wired",
-        "date": "2026-09-13"
       }
     ]
   }
