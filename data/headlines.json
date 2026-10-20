@@ -1,7 +1,114 @@
 [
   {
+    "date": "2026-10-20",
+    "articles": [
+      {
+        "title": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
+        "url": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
+        "source": "CNBC",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+        "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+        "source": "CNBC",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+        "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+        "source": "CNBC",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+        "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+        "source": "CNBC",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "A visit to Samsung’s massive new semiconductor hub",
+        "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "AI adoption by industry shows what other sectors can learn",
+        "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+        "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+        "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+        "source": "NPR",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+        "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+        "source": "TechCrunch",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+        "source": "TechCrunch",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+        "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+        "source": "TechCrunch",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+        "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+        "source": "TechCrunch",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+        "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+        "source": "The Verge",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
+        "url": "https://www.wired.com/gallery/best-ai-notetakers/",
+        "source": "Wired",
+        "date": "2026-10-20"
+      }
+    ]
+  },
+  {
     "date": "2026-10-19",
     "articles": [
+      {
+        "title": "AI game clones are making indie developers afraid to show their work",
+        "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+        "source": "Ars Technica",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+        "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+        "source": "Ars Technica",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+        "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+        "source": "Ars Technica",
+        "date": "2026-10-19"
+      },
       {
         "title": "China's growth accelerates as AI boom helps boost exports",
         "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
@@ -9,9 +116,45 @@
         "date": "2026-10-19"
       },
       {
+        "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-19"
+      },
+      {
         "title": "Musk and Anthropic pledge public share giveaways",
         "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "US bans China's DeepSeek from government in race for AI dominance",
+        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "As AI dominates conversations, here are key terms to know",
+        "url": "https://www.cbsnews.com/news/ai-artificial-intelligence-terms-definitions/",
+        "source": "CBS News",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Should you trust personal AI agents? What security experts say.",
+        "url": "https://www.cbsnews.com/news/personal-ai-agents-trust-security-risks/",
+        "source": "CBS News",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "The AI doom scenario you've never heard of may be hardest to stop",
+        "url": "https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/",
+        "source": "CBS News",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+        "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+        "source": "CNBC",
         "date": "2026-10-19"
       },
       {
@@ -27,14 +170,38 @@
         "date": "2026-10-19"
       },
       {
+        "title": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
+        "url": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
+        "source": "CNBC",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Jim Cramer says the recent AI stock sell-off echoes a crucial lesson from the 1987 market crash",
+        "url": "https://www.cnbc.com/2026/10/19/cramer-recent-ai-sell-off-echoes-lesson-1987-crash.html",
+        "source": "CNBC",
+        "date": "2026-10-19"
+      },
+      {
         "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
         "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
         "source": "CNBC",
         "date": "2026-10-19"
       },
       {
+        "title": "Anthropic AI sends fake murder tip to Philadelphia police",
+        "url": "https://www.foxnews.com/tech/anthropic-ai-sends-fake-murder-tip-philadelphia-police",
+        "source": "Fox News",
+        "date": "2026-10-19"
+      },
+      {
         "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
         "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Making the internet better for AI agents might make it worse for everyone else",
+        "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
         "source": "MIT Technology Review",
         "date": "2026-10-19"
       },
@@ -45,9 +212,33 @@
         "date": "2026-10-19"
       },
       {
+        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-19"
+      },
+      {
         "title": "AI models are changing how forecasters predict the paths of hurricanes",
         "url": "https://www.npr.org/2026/10/19/nx-s1-5996666/ai-models-are-changing-how-forecasters-predict-the-paths-of-hurricanes",
         "source": "NPR",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "In Dublin, tech workers raise concerns about AI",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6003512/in-dublin-tech-workers-raise-concerns-about-ai",
+        "source": "NPR",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+        "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "source": "TechCrunch",
         "date": "2026-10-19"
       },
       {
@@ -57,8 +248,68 @@
         "date": "2026-10-19"
       },
       {
+        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+        "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "People are using AI to make their smart TVs dumb again",
+        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+        "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+        "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+        "source": "TechCrunch",
+        "date": "2026-10-19"
+      },
+      {
         "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "source": "The Verge",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
         "source": "The Verge",
         "date": "2026-10-19"
       },
@@ -71,6 +322,12 @@
       {
         "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
         "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+        "source": "Wired",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+        "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
         "source": "Wired",
         "date": "2026-10-19"
       }
@@ -5240,149 +5497,6 @@
         "url": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
         "source": "Wired",
         "date": "2026-09-20"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-19",
-    "articles": [
-      {
-        "title": "Google's Gemini AI hacked three companies in security test",
-        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Not all AI workers think the tech could kill everyone",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "AI security experts say they used Claude to hack ChatGPT",
-        "url": "https://www.cbsnews.com/news/claude-hack-chatgpt-anthropic-openai/",
-        "source": "CBS News",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang says we should go \"as fast as we can\" with AI",
-        "url": "https://www.cbsnews.com/video/nvidia-ceo-jensen-huang-says-we-should-go-as-fast-as-we-can-with-ai/",
-        "source": "CBS News",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Nvidia CEO calls for AI to be developed \"as fast as we can\"",
-        "url": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-ai-development-fast-as-we-can/",
-        "source": "CBS News",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Trump vows to form \"AI Force,\" says he won't allow slowdown of AI development",
-        "url": "https://www.cbsnews.com/news/trump-vows-ai-force-czar-development/",
-        "source": "CBS News",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-        "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-        "source": "CNBC",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
-        "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
-        "source": "CNBC",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
-        "url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
-        "source": "CNBC",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Delivery robots swarm Chicago sidewalk in viral video",
-        "url": "https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video",
-        "source": "Fox News",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "AI safety conversations have gotten unbelievable",
-        "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-        "source": "TechCrunch",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Google’s Gemini is the latest AI model to hack other companies",
-        "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-        "source": "TechCrunch",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-        "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-        "source": "TechCrunch",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "The US Navy just told us what’s on its tech wish list for the next several years",
-        "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-        "source": "TechCrunch",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-        "source": "TechCrunch",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-        "source": "TechCrunch",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-        "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-        "source": "TechCrunch",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-        "source": "The Verge",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Gemini went rogue, hacked three companies, and Google hid it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-        "source": "The Verge",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-        "source": "The Verge",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "The AI regulation smackdown isn’t over",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-        "source": "The Verge",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-        "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-        "source": "Wired",
-        "date": "2026-09-19"
-      },
-      {
-        "title": "Mathematicians Hate AI. They Can’t Quit It",
-        "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-        "source": "Wired",
-        "date": "2026-09-19"
       }
     ]
   }
