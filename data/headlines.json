@@ -1,7 +1,120 @@
 [
   {
+    "date": "2026-10-22",
+    "articles": [
+      {
+        "title": "'500 new vulnerabilities' found in government, says AI minister",
+        "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "What is PHP and why did it spark a global cyber-security scramble?",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "On dating apps, men use AI to put their best face forward",
+        "url": "https://www.cbsnews.com/news/dating-apps-ai-photos-authenticity/",
+        "source": "CBS News",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+        "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+        "source": "CNBC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
+        "url": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+        "source": "CNBC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Making the case for context-aware AI",
+        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Oracle's debt is growing. The tech giant's investors are concerned",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6007863/oracles-debt-is-growing-the-tech-giants-investors-are-concerned",
+        "source": "NPR",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI agents are ready to shop. Some retailers are wary.",
+        "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+        "source": "The Verge",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Claude did not invent scorpion antivenom",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+        "source": "The Verge",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+        "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+        "source": "The Verge",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+        "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+        "source": "Wired",
+        "date": "2026-10-22"
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "articles": [
+      {
+        "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+        "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+        "source": "Ars Technica",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+        "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+        "source": "Ars Technica",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "The new human-crafted Apple Music brand matters in an AI world",
+        "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+        "source": "Ars Technica",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+        "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Should you trust personal AI agents? What security experts say.",
+        "url": "https://www.cbsnews.com/news/personal-ai-agents-trust-security-risks/",
+        "source": "CBS News",
+        "date": "2026-10-21"
+      },
       {
         "title": "The AI doom scenario you've never heard of may be hardest to stop",
         "url": "https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/",
@@ -15,8 +128,20 @@
         "date": "2026-10-21"
       },
       {
+        "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+        "url": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+        "source": "CNBC",
+        "date": "2026-10-21"
+      },
+      {
         "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
         "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+        "source": "CNBC",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Meta reports third-quarter revenue beat and issues strong guidance",
+        "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
         "source": "CNBC",
         "date": "2026-10-21"
       },
@@ -39,9 +164,117 @@
         "date": "2026-10-21"
       },
       {
+        "title": "AI is shaking up the field of mathematics. But what comes next?",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-5995392/ai-is-shaking-up-the-field-of-mathematics-but-what-comes-next",
+        "source": "NPR",
+        "date": "2026-10-21"
+      },
+      {
         "title": "An AI chatbot files for bankruptcy. Is it a bad omen for the industry?",
         "url": "https://www.npr.org/2026/10/21/nx-s1-6008078/an-ai-chatbot-files-for-bankruptcy-is-it-a-bad-omen-for-the-industry",
         "source": "NPR",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+        "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+        "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "GM is giving OnStar an AI makeover",
+        "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+        "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Meta says Muse has over 10M users, with shopping a top activity",
+        "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+        "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+        "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+        "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+        "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "The internet is having a very bad cybersecurity day",
+        "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+        "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+        "source": "TechCrunch",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Data centers could erase decades of air quality gains",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+        "source": "The Verge",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Meta to create a new class of shares to fund AI push",
+        "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+        "source": "The Verge",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+        "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+        "source": "Wired",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+        "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+        "source": "Wired",
         "date": "2026-10-21"
       },
       {
@@ -51,8 +284,26 @@
         "date": "2026-10-21"
       },
       {
+        "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+        "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+        "source": "Wired",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+        "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+        "source": "Wired",
+        "date": "2026-10-21"
+      },
+      {
         "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
         "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+        "source": "Wired",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+        "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
         "source": "Wired",
         "date": "2026-10-21"
       }
@@ -5468,179 +5719,6 @@
         "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
         "source": "Wired",
         "date": "2026-09-22"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "articles": [
-      {
-        "title": "Google confirms Gemini models hacked three companies in May 2026",
-        "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-        "source": "Ars Technica",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-        "source": "Ars Technica",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-        "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-        "source": "Ars Technica",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Bill Gates announces new coalition for global AI access",
-        "url": "https://www.cbsnews.com/video/bill-gates-announces-new-coalition-for-global-ai-access/",
-        "source": "CBS News",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Bill Gates says Trump's AI views point to societal blind spot",
-        "url": "https://www.cbsnews.com/news/bill-gates-trump-ai-societal-blind-spot/",
-        "source": "CBS News",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Bill Gates says it may take a catastrophe for the world to act on AI dangers",
-        "url": "https://www.cbsnews.com/video/bill-gates-says-may-catastrophe-world-act-ai-dangers/",
-        "source": "CBS News",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Cattle rancher says AI data centers threaten his livelihood",
-        "url": "https://www.cbsnews.com/video/cattle-rancher-says-ai-data-centers-threaten-his-livelihood/",
-        "source": "CBS News",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "AI, data center alarms dominate Congressional Black Caucus week in Washington",
-        "url": "https://www.cnbc.com/2026/09/20/ai-data-center-alarms-dominate-cbc-week-in-washington.html",
-        "source": "CNBC",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-        "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-        "source": "CNBC",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
-        "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
-        "source": "CNBC",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
-        "url": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
-        "source": "CNBC",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
-        "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
-        "source": "CNBC",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-        "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Trump says he'll create an AI task force. Industry insiders have a lot of questions",
-        "url": "https://www.npr.org/2026/09/21/nx-s1-5975522/trump-says-hell-create-an-ai-task-force-industry-insiders-have-a-lot-of-questions",
-        "source": "NPR",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-        "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-        "source": "TechCrunch",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Meta’s AI agent has been blocked from using Amazon.com",
-        "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-        "source": "TechCrunch",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-        "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-        "source": "TechCrunch",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-        "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-        "source": "TechCrunch",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-        "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-        "source": "TechCrunch",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-        "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-        "source": "TechCrunch",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "California tightens rules on AI data center energy and water use",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-        "source": "The Verge",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
-        "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
-        "source": "The Verge",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "UN says AI safeguards can’t wait for certainty",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-        "source": "The Verge",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-        "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
-        "source": "Wired",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Apple Mac Mini (M6) Review: For the AI Curious",
-        "url": "https://www.wired.com/review/apple-mac-mini-m6/",
-        "source": "Wired",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush",
-        "url": "https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/",
-        "source": "Wired",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-        "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-        "source": "Wired",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "We Surveyed 634 Women Who Work in Tech. They Let Loose",
-        "url": "https://www.wired.com/story/women-in-tech-survey/",
-        "source": "Wired",
-        "date": "2026-09-21"
       }
     ]
   }
