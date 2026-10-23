@@ -1,7 +1,66 @@
 [
   {
+    "date": "2026-10-23",
+    "articles": [
+      {
+        "title": "The Indian workers filming their work to train AI",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
+        "url": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+        "source": "CNBC",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+        "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+        "source": "CNBC",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+        "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+        "source": "NPR",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "source": "TechCrunch",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+        "source": "TechCrunch",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Etsy is cracking down on AI slop listings",
+        "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+        "source": "The Verge",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Retro gaming is being overrun with AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+        "source": "The Verge",
+        "date": "2026-10-23"
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "articles": [
+      {
+        "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+        "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+        "source": "Ars Technica",
+        "date": "2026-10-22"
+      },
       {
         "title": "'500 new vulnerabilities' found in government, says AI minister",
         "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
@@ -15,8 +74,20 @@
         "date": "2026-10-22"
       },
       {
+        "title": "Claude’s personal agent",
+        "url": "https://www.bensbites.com/p/claudes-personal-agent",
+        "source": "Ben's Bites",
+        "date": "2026-10-22"
+      },
+      {
         "title": "On dating apps, men use AI to put their best face forward",
         "url": "https://www.cbsnews.com/news/dating-apps-ai-photos-authenticity/",
+        "source": "CBS News",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "What to know about the PHP bug affecting 70% of world's websites",
+        "url": "https://www.cbsnews.com/news/php2shell-vulnerability-ai-security-flaw/",
         "source": "CBS News",
         "date": "2026-10-22"
       },
@@ -27,14 +98,50 @@
         "date": "2026-10-22"
       },
       {
+        "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+        "url": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+        "source": "CNBC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
+        "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+        "source": "CNBC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+        "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+        "source": "CNBC",
+        "date": "2026-10-22"
+      },
+      {
         "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
         "url": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
         "source": "CNBC",
         "date": "2026-10-22"
       },
       {
+        "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+        "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+        "source": "CNBC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Google's new AI shopping cart tracks deals across stores",
+        "url": "https://www.foxnews.com/tech/google-new-ai-shopping-cart-tracks-deals-across-stores",
+        "source": "Fox News",
+        "date": "2026-10-22"
+      },
+      {
         "title": "AI’s hidden storage bill: What inference leaves behind",
         "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Designing an AI serving harness built to last",
+        "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
         "source": "MIT Technology Review",
         "date": "2026-10-22"
       },
@@ -45,14 +152,80 @@
         "date": "2026-10-22"
       },
       {
+        "title": "The Foundations of Scalable AI",
+        "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-22"
+      },
+      {
         "title": "Oracle's debt is growing. The tech giant's investors are concerned",
         "url": "https://www.npr.org/2026/10/22/nx-s1-6007863/oracles-debt-is-growing-the-tech-giants-investors-are-concerned",
         "source": "NPR",
         "date": "2026-10-22"
       },
       {
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "source": "TechCrunch",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Canva releases its first image generation model",
+        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "source": "TechCrunch",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+        "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+        "source": "TechCrunch",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+        "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+        "source": "TechCrunch",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+        "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+        "source": "TechCrunch",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "source": "TechCrunch",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+        "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+        "source": "TechCrunch",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+        "source": "TechCrunch",
+        "date": "2026-10-22"
+      },
+      {
         "title": "AI agents are ready to shop. Some retailers are wary.",
         "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+        "source": "The Verge",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Canva’s first AI image model plans designs before generating them",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
         "source": "The Verge",
         "date": "2026-10-22"
       },
@@ -69,8 +242,26 @@
         "date": "2026-10-22"
       },
       {
+        "title": "Fall 2026 earnings watch",
+        "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+        "source": "The Verge",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+        "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+        "source": "The Verge",
+        "date": "2026-10-22"
+      },
+      {
         "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
         "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+        "source": "Wired",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "The Social Society Helping Women Join the AI Boom",
+        "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
         "source": "Wired",
         "date": "2026-10-22"
       }
@@ -5474,251 +5665,6 @@
         "url": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
         "source": "Wired",
         "date": "2026-09-23"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-22",
-    "articles": [
-      {
-        "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-        "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-        "source": "Ars Technica",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-        "source": "Ars Technica",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-        "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-        "source": "Ars Technica",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-        "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-        "source": "Ars Technica",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Rare look at the remote engine rooms fuelling China's AI boom",
-        "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Tech Life",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "3 guys hacked OpenAI using a rival Anthropic model. Here's what to know.",
-        "url": "https://www.cbsnews.com/news/openai-hack-anthropic-claude-vulnerabilities/",
-        "source": "CBS News",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Andreessen Horowitz launches AI school as college alternative",
-        "url": "https://www.cbsnews.com/news/andreessen-horowitz-ai-school-college-alternative/",
-        "source": "CBS News",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Meta's Muse shopping agent is a hit, as AI commerce starts to take off",
-        "url": "https://www.cbsnews.com/news/meta-ai-agent-muse-shopping/",
-        "source": "CBS News",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "What is an \"AI swarm,\" and why it giving tech experts nightmares?",
-        "url": "https://www.cbsnews.com/news/ai-agent-swarm-hugging-face-openai-harm/",
-        "source": "CBS News",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
-        "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
-        "source": "CNBC",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
-        "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
-        "source": "CNBC",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-        "url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-        "source": "CNBC",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
-        "url": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
-        "source": "CNBC",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "AI malware can rewrite itself to evade detection",
-        "url": "https://www.foxnews.com/tech/ai-malware-rewrite-itself-evade-detection",
-        "source": "Fox News",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "AI robot may stop your dog from barking while you're gone",
-        "url": "https://www.foxnews.com/tech/ai-robot-stop-dog-barking-while-gone",
-        "source": "Fox News",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Don’t be fooled by this summer of AI hype",
-        "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-        "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-        "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-        "source": "TechCrunch",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "AstroForge is putting AI in command of its next spacecraft",
-        "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-        "source": "TechCrunch",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-        "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-        "source": "TechCrunch",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-        "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-        "source": "TechCrunch",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-        "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-        "source": "TechCrunch",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-        "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-        "source": "TechCrunch",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-        "source": "TechCrunch",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-        "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-        "source": "TechCrunch",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-        "source": "TechCrunch",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Meta patches Muse exploit that let attackers control the AI agent",
-        "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-        "source": "The Verge",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Peloton is back with a ‘cheaper’ folding treadmill",
-        "url": "https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills",
-        "source": "The Verge",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-        "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-        "source": "The Verge",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-        "source": "The Verge",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-        "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-        "source": "Wired",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-        "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
-        "source": "Wired",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-        "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
-        "source": "Wired",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "How to Use AI With Your Privacy Intact",
-        "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-        "source": "Wired",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "I Built AI Clones of My Coworkers. Things Got Weird",
-        "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
-        "source": "Wired",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Meta Quest Promo Codes and Coupons for September 2026",
-        "url": "https://www.wired.com/story/meta-quest-promo-code/",
-        "source": "Wired",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
-        "url": "https://www.wired.com/story/big-interview-patti-harrison/",
-        "source": "Wired",
-        "date": "2026-09-22"
-      },
-      {
-        "title": "Rabbit Is Back, This Time With an AI Agent App",
-        "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-        "source": "Wired",
-        "date": "2026-09-22"
       }
     ]
   }
