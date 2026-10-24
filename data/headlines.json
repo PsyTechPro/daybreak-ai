@@ -1,11 +1,58 @@
 [
   {
+    "date": "2026-10-24",
+    "articles": [
+      {
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+        "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+        "source": "CNBC",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+        "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+        "source": "CNBC",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "What a day in customer service looks like — as AI changes everything",
+        "url": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+        "source": "CNBC",
+        "date": "2026-10-24"
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "articles": [
       {
         "title": "The Indian workers filming their work to train AI",
         "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "What is PHP and why did it spark a global cyber-security scramble?",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Unauthorized AI agents detected inside accounts at major banks",
+        "url": "https://www.cbsnews.com/video/unauthorized-ai-agents-detected-inside-accounts-at-major-banks/",
+        "source": "CBS News",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
+        "url": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
+        "source": "CNBC",
         "date": "2026-10-23"
       },
       {
@@ -21,14 +68,50 @@
         "date": "2026-10-23"
       },
       {
+        "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+        "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+        "source": "CNBC",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Fox News AI Newsletter: What we saw inside a massive Texas data center",
+        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-what-we-saw-inside-massive-texas-data-center",
+        "source": "Fox News",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Why some people are falling for Meta's Muse AI",
+        "url": "https://www.foxnews.com/tech/why-people-falling-metas-muse-ai",
+        "source": "Fox News",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Fired OpenAI researchers say independent safety audits aren't going well",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well",
+        "source": "NPR",
+        "date": "2026-10-23"
+      },
+      {
         "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
         "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
         "source": "NPR",
         "date": "2026-10-23"
       },
       {
+        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+        "source": "TechCrunch",
+        "date": "2026-10-23"
+      },
+      {
         "title": "Left alone with nothing to do, AI agents started playing",
         "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "source": "TechCrunch",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
         "source": "TechCrunch",
         "date": "2026-10-23"
       },
@@ -39,8 +122,32 @@
         "date": "2026-10-23"
       },
       {
+        "title": "What some of Anthropic’s backers are worth before its IPO",
+        "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-10-23"
+      },
+      {
         "title": "Etsy is cracking down on AI slop listings",
         "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+        "source": "The Verge",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+        "source": "The Verge",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+        "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+        "source": "The Verge",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
         "source": "The Verge",
         "date": "2026-10-23"
       },
@@ -5450,221 +5557,6 @@
         "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
         "source": "Wired",
         "date": "2026-09-24"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-23",
-    "articles": [
-      {
-        "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-        "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-        "source": "Ars Technica",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-        "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-        "source": "Ars Technica",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "YouTube promises custom feeds and a lot more AI later this year",
-        "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-        "source": "Ars Technica",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "OpenAI gives cyber defence tools to Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-        "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Meta's Muse shopping agent is a hit, as AI commerce starts to take off",
-        "url": "https://www.cbsnews.com/news/meta-ai-agent-muse-shopping/",
-        "source": "CBS News",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "What is an \"AI swarm,\" and why is it giving tech experts nightmares?",
-        "url": "https://www.cbsnews.com/news/ai-agent-swarm-hugging-face-openai-harm/",
-        "source": "CBS News",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
-        "url": "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
-        "source": "CNBC",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
-        "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html",
-        "source": "CNBC",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-        "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
-        "source": "CNBC",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "The AI Hype Index: AI loves cheating",
-        "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-        "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms",
-        "url": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
-        "source": "NPR",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Understanding Jensen Huang's AI optimism and how it influences President Trump",
-        "url": "https://www.npr.org/2026/09/23/nx-s1-5976775/understanding-jensen-huangs-ai-optimism-and-how-it-influences-president-trump",
-        "source": "NPR",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Anthropic says its biology lab has already found something big",
-        "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "ChatGPT mobile app gets voice-based agentic features",
-        "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-        "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-        "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Even Americans who use AI every day are worried about it",
-        "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Meta introduces camera-free AI glasses",
-        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "The old cybersecurity model is breaking",
-        "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-        "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "YouTube Music gets more conversational with new AI features",
-        "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "YouTube releases new AI features for creators within its Studio app",
-        "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-        "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-        "source": "TechCrunch",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Meta Connect 2026: The biggest news and announcements",
-        "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-        "source": "The Verge",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-        "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-        "source": "The Verge",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-        "source": "The Verge",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-        "source": "The Verge",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "A US-China AI Hotline Won't Be Ready For a While",
-        "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-        "source": "Wired",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-        "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-        "source": "Wired",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-        "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
-        "source": "Wired",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer",
-        "url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system/",
-        "source": "Wired",
-        "date": "2026-09-23"
-      },
-      {
-        "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-        "url": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-        "source": "Wired",
-        "date": "2026-09-23"
       }
     ]
   }
