@@ -1,10 +1,129 @@
 [
   {
+    "date": "2026-10-26",
+    "articles": [
+      {
+        "title": "Anthropic unveils details of planned historic stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026",
+        "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+        "source": "CNBC",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+        "url": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
+        "source": "CNBC",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Meta announces $95 billion stock offering to fund AI expansion",
+        "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+        "source": "CNBC",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+        "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+        "source": "CNBC",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+        "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+        "source": "CNBC",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+        "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+        "source": "CNBC",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+        "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "The focus on AI safety disasters ignores everyday harms",
+        "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+        "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+        "source": "TechCrunch",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+        "source": "The Verge",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Can AI help solve the COBOL code crisis?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+        "source": "The Verge",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+        "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+        "source": "Wired",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+        "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+        "source": "Wired",
+        "date": "2026-10-26"
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "articles": [
       {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "source": "TechCrunch",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "source": "TechCrunch",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+        "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+        "source": "TechCrunch",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "source": "TechCrunch",
+        "date": "2026-10-25"
+      },
+      {
         "title": "Google’s AI search changes upended online publishing",
         "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+        "source": "The Verge",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Zen Browser is the Arc replacement I was looking for",
+        "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
         "source": "The Verge",
         "date": "2026-10-25"
       }
@@ -5150,215 +5269,6 @@
         "url": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
         "source": "Wired",
         "date": "2026-09-26"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-25",
-    "articles": [
-      {
-        "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-        "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-        "source": "Ars Technica",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-        "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-        "source": "Ars Technica",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-        "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-        "source": "Ars Technica",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-        "source": "Ars Technica",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Ready or not, here come the AI gadgets, from \"charms\" to smart speakers",
-        "url": "https://www.cbsnews.com/news/new-ai-gadgets-tech-companies/",
-        "source": "CBS News",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Trump and Xi to meet two more times before end of year as they wrap state visit",
-        "url": "https://www.cbsnews.com/video/trump-and-xi-to-meet-two-more-times-before-end-of-year-as-they-wrap-state-visit/",
-        "source": "CBS News",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Trump touts \"great friendship\" with Xi while unresolved issues, including AI and trade, linger",
-        "url": "https://www.cbsnews.com/video/trump-touts-great-friendship-with-xi-while-unresolved-issues-including-ai-and-trade-linger/",
-        "source": "CBS News",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "How recent grads and college students should be thinking about AI, the CV, and the job market",
-        "url": "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
-        "source": "CNBC",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-        "url": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
-        "source": "CNBC",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
-        "url": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
-        "source": "CNBC",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Trump says Scott Bessent won't be AI czar",
-        "url": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
-        "source": "CNBC",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-        "source": "CNBC",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Fox News AI Newsletter: Tech company says scientific discovery could change medicine",
-        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-tech-company-says-scientific-discovery-could-change-medicine",
-        "source": "Fox News",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-        "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "A surprising number of Americans use AI for spiritual reasons. Here's what they told us",
-        "url": "https://www.npr.org/2026/09/21/nx-s1-5944346/a-surprising-number-of-americans-use-ai-for-spiritual-reasons-heres-what-they-told-us",
-        "source": "NPR",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-        "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-        "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Anthropic’s founders seek voting control ahead of IPO",
-        "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Astra and Opus just passed Turing’s other test",
-        "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-        "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Meta’s AI Tamagotchi bet is…working?",
-        "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-        "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-        "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-        "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "source": "TechCrunch",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Meta makes the Muse filesystem even more accessible",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-        "source": "The Verge",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-        "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-        "source": "The Verge",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-        "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-        "source": "The Verge",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "One company is at the center of a wave of rogue AI attacks",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-        "source": "The Verge",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-        "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-        "source": "Wired",
-        "date": "2026-09-25"
       }
     ]
   }
