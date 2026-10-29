@@ -1,10 +1,111 @@
 [
   {
+    "date": "2026-10-29",
+    "articles": [
+      {
+        "title": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+        "url": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+        "source": "CNBC",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss",
+        "url": "https://www.cnbc.com/2026/10/29/alphabet-nasdaq-futures-record-post-earnings-loss.html",
+        "source": "CNBC",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+        "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+        "source": "CNBC",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds",
+        "url": "https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
+        "source": "CNBC",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "The Download: AI agent tracking and climate feedback loops",
+        "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "source": "MIT Technology Review",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+        "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+        "source": "TechCrunch",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+        "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+        "source": "TechCrunch",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "AI has come for Arizona’s water",
+        "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+        "source": "The Verge",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Anthropic’s business plan: Build God or die trying",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "source": "The Verge",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
+        "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
+        "source": "The Verge",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+        "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+        "source": "Wired",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "I Gave My Blood to the AI Death Clock",
+        "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+        "source": "Wired",
+        "date": "2026-10-29"
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "articles": [
       {
+        "title": "Google AI gets cagey when asked who won the 2020 elections",
+        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+        "source": "Ars Technica",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+        "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+        "source": "Ars Technica",
+        "date": "2026-10-28"
+      },
+      {
         "title": "Anthropic's IPO is risky business",
         "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+        "source": "CNBC",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Anthropic’s public benefit structure creates unusual risks for IPO investors",
+        "url": "https://www.cnbc.com/2026/10/28/anthropic-pbc-what-its-structure-means-for-investors-.html",
         "source": "CNBC",
         "date": "2026-10-28"
       },
@@ -27,9 +128,21 @@
         "date": "2026-10-28"
       },
       {
+        "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+        "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+        "source": "CNBC",
+        "date": "2026-10-28"
+      },
+      {
         "title": "How to get rid of unwanted AI on your phone",
         "url": "https://www.foxnews.com/tech/how-get-rid-unwanted-ai-your-phone",
         "source": "Fox News",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Creating AI value with enterprise context",
+        "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+        "source": "MIT Technology Review",
         "date": "2026-10-28"
       },
       {
@@ -45,9 +158,63 @@
         "date": "2026-10-28"
       },
       {
+        "title": "Anthropic is preparing to go public. A look at the company's plan",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6019534/anthropic-is-preparing-to-go-public-a-look-at-their-plan",
+        "source": "NPR",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "AI execs may be too out of touch to build for the general public",
+        "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+        "source": "TechCrunch",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+        "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "source": "TechCrunch",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+        "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+        "source": "TechCrunch",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+        "source": "TechCrunch",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "source": "TechCrunch",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+        "source": "TechCrunch",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+        "source": "TechCrunch",
+        "date": "2026-10-28"
+      },
+      {
         "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
         "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
         "source": "TechCrunch",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+        "source": "The Verge",
         "date": "2026-10-28"
       },
       {
@@ -75,8 +242,20 @@
         "date": "2026-10-28"
       },
       {
+        "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+        "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+        "source": "Wired",
+        "date": "2026-10-28"
+      },
+      {
         "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
         "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+        "source": "Wired",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+        "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
         "source": "Wired",
         "date": "2026-10-28"
       },
@@ -5228,293 +5407,6 @@
         "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
         "source": "Wired",
         "date": "2026-09-29"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "articles": [
-      {
-        "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-        "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-        "source": "Ars Technica",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-        "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-        "source": "Ars Technica",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-        "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-        "source": "Ars Technica",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Could AI really take over the internet? Here's what experts say.",
-        "url": "https://www.cbsnews.com/news/could-ai-really-take-over-the-internet/",
-        "source": "CBS News",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Nvidia announces security system to stop AI agents from going rogue",
-        "url": "https://www.cbsnews.com/news/nvidia-openshell-ai-safety-rogue-agents/",
-        "source": "CBS News",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "OpenAI hack sparks further concern over AI models going rogue",
-        "url": "https://www.cbsnews.com/video/openai-hack-sparks-further-concern-over-ai-models-going-rogue/",
-        "source": "CBS News",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Trump had private dinner with Anthropic CEO Dario Amodei",
-        "url": "https://www.cbsnews.com/news/trump-dario-amodei-anthropic-dinner/",
-        "source": "CBS News",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
-        "url": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "AMD briefly joined the $1 trillion club. Cramer says its monster run isn’t over",
-        "url": "https://www.cnbc.com/2026/09/28/jim-cramer-amd-lisa-su-agentic-ai.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
-        "url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
-        "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Jensen Huang says AI distillation is 'competition.' Scott Bessent has called it 'theft'",
-        "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist",
-        "url": "https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-        "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Nvidia releases software platform to stop AI agents from misbehaving",
-        "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Nvidia's new AI platform, Nor'easter flight delays, NFL's drone focus and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/09/28/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
-        "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
-        "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
-        "source": "CNBC",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Malicious browser extensions can hijack AI assistants",
-        "url": "https://www.foxnews.com/tech/malicious-browser-extensions-hijack-ai-assistants",
-        "source": "Fox News",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "The Download: rogue agent liability and the AI Hype Index",
-        "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "When can we say AI made a scientific discovery?",
-        "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Who’s liable when AI agents go rogue?",
-        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "AI assessors says current science hasn't caught up to the safety measures people want",
-        "url": "https://www.npr.org/2026/09/28/nx-s1-5974206/ai-assessors-says-current-science-hasnt-caught-up-to-the-safety-measures-people-want",
-        "source": "NPR",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "AI has sparked anxiety, earlier generations showed us ways to manage our fears",
-        "url": "https://www.npr.org/2026/09/28/nx-s1-5970031/ai-has-sparked-anxiety-earlier-generations-showed-us-ways-to-manage-our-fears",
-        "source": "NPR",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Chatbots are becoming a new reality for renters",
-        "url": "https://www.npr.org/2026/09/28/nx-s1-5974078/chatbots-are-becoming-a-new-reality-for-renters",
-        "source": "NPR",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-        "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-        "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-        "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-        "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-        "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Nvidia launches new platform for reining in rogue AI agents",
-        "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "OpenAI reportedly ditches model over safety concerns",
-        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Shopify opens checkout to browser-based AI agents",
-        "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-        "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "The AI boom took over Climate Week and not everyone is happy about it",
-        "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-        "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-        "source": "The Verge",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-        "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-        "source": "The Verge",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "OpenAI’s AI agents need to catch up",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-        "source": "The Verge",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
-        "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
-        "source": "The Verge",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-        "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-        "source": "Wired",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
-        "url": "https://www.wired.com/story/best-security-cameras/",
-        "source": "Wired",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-        "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-        "source": "Wired",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-        "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-        "source": "Wired",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-        "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-        "source": "Wired",
-        "date": "2026-09-28"
-      },
-      {
-        "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-        "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-        "source": "Wired",
-        "date": "2026-09-28"
       }
     ]
   }
