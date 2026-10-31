@@ -1,10 +1,93 @@
 [
   {
+    "date": "2026-10-31",
+    "articles": [
+      {
+        "title": "Humans are still doing the work behind some AI agents",
+        "url": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+        "source": "CNBC",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Your writing was flagged as AI. What does that actually mean?",
+        "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+        "source": "NPR",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "source": "TechCrunch",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+        "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+        "source": "Wired",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+        "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+        "source": "Wired",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+        "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+        "source": "Wired",
+        "date": "2026-10-31"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "articles": [
       {
+        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+        "source": "Ars Technica",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Basically no one is using AI agents for their DoorDash orders",
+        "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+        "source": "Ars Technica",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+        "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+        "source": "Ars Technica",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+        "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+        "source": "Ars Technica",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+        "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+        "source": "Ars Technica",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+        "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+        "source": "Ars Technica",
+        "date": "2026-10-30"
+      },
+      {
         "title": "Google value plunges by $500bn as its own AI search hits ad sales",
         "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-10-30"
       },
@@ -51,6 +134,24 @@
         "date": "2026-10-30"
       },
       {
+        "title": "AI-powered cyberattacks fuel 'Black October' fears",
+        "url": "https://www.foxnews.com/tech/ai-powered-cyberattacks-fuel-black-october-fears",
+        "source": "Fox News",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Fox News AI Newsletter: Don't want AI on your phone? What to do about it",
+        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-dont-want-ai-phone-what-do-about-it",
+        "source": "Fox News",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Unvetted foreign workers at AI firms raise national security alarms, advocates warn",
+        "url": "https://www.foxnews.com/tech/unvetted-foreign-workers-ai-firms-raise-national-security-alarms-advocates-warn",
+        "source": "Fox News",
+        "date": "2026-10-30"
+      },
+      {
         "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
         "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
         "source": "NPR",
@@ -63,8 +164,68 @@
         "date": "2026-10-30"
       },
       {
+        "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+        "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
         "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
         "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Cracks are emerging in the AI spending boom",
+        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+        "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Google’s first data center satellite is online and writing poetry",
+        "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+        "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+        "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
         "source": "TechCrunch",
         "date": "2026-10-30"
       },
@@ -81,8 +242,32 @@
         "date": "2026-10-30"
       },
       {
+        "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+        "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+        "source": "TechCrunch",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+        "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+        "source": "The Verge",
+        "date": "2026-10-30"
+      },
+      {
         "title": "Maine’s data center revolt will decide who controls the Senate",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+        "source": "The Verge",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Rivian’s autonomy gamble faces its first real test",
+        "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+        "source": "The Verge",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
         "source": "The Verge",
         "date": "2026-10-30"
       },
@@ -93,9 +278,33 @@
         "date": "2026-10-30"
       },
       {
+        "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+        "source": "The Verge",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "The biggest names in AI are backing a new way to opt out of scraping",
+        "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+        "source": "The Verge",
+        "date": "2026-10-30"
+      },
+      {
         "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
         "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
         "source": "The Verge",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+        "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+        "source": "Wired",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+        "source": "Wired",
         "date": "2026-10-30"
       }
     ]
@@ -4964,317 +5173,6 @@
         "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
         "source": "Wired",
         "date": "2026-10-01"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-30",
-    "articles": [
-      {
-        "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-        "source": "Ars Technica",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-        "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-        "source": "Ars Technica",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Google figures out how to watermark AI-designed proteins",
-        "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
-        "source": "Ars Technica",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Google's early attempt to pay websites for AI answers is struggling",
-        "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-        "source": "Ars Technica",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-        "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-        "source": "Ars Technica",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-        "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-        "source": "Ars Technica",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-        "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Regulating AI 'not the right place to start' says Bailey",
-        "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "The AI telling farmers when to harvest",
-        "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "AI leaders agree to police themselves after White House meeting",
-        "url": "https://www.cbsnews.com/video/ai-leaders-agree-to-police-themselves-after-white-house-meeting/",
-        "source": "CBS News",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Teacherless, AI-driven school opens in Chicago",
-        "url": "https://www.cbsnews.com/video/teacherless-ai-driven-school-opens-in-chicago/",
-        "source": "CBS News",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "AI broke the job application. What replaces it?",
-        "url": "https://www.cnbc.com/2026/09/30/ai-resume-cv-job-application-interview.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "China's inside man at the Fed, OpenAI debuts Dots, an IPO trend and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/09/30/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
-        "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Meta stock enjoys best month since 2022 on AI momentum",
-        "url": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "OpenAI DevDay recap: AI lab rolls out Dots agents, Altman and Friar comment on IPO",
-        "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
-        "url": "https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
-        "url": "https://www.cnbc.com/2026/09/30/openai-sued-cyberattack.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
-        "url": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-        "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
-        "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-        "url": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Where Cramer stands on a buzzy behind-the-meter name powering the AI build-out",
-        "url": "https://www.cnbc.com/2026/09/30/jim-cramer-bloom-energy-ai-power-stock.html",
-        "source": "CNBC",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-        "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-        "source": "MIT Technology Review",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Meta's Muse: Killer app? Security nightmare? Both?",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5983755/metas-muse-killer-app-security-nightmare-both",
-        "source": "NPR",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Takeaways from Trump's summit with AI leaders",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5984944/takeaways-from-trumps-summit-with-ai-leaders",
-        "source": "NPR",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Trump meets with top tech leaders to discuss regulations and launch new website",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5984963/trump-meets-with-top-tech-leaders-to-discuss-regulations-and-launch-new-website",
-        "source": "NPR",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Trump says top tech firms have signed accord to 'self-police' AI development",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development",
-        "source": "NPR",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-        "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Airbnb adds AI search, more social features",
-        "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-        "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "DoorDash launches an AI agent you can text to order food",
-        "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-        "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-        "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-        "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-        "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-        "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "The ugly economics of consumer AI",
-        "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-        "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
-        "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
-        "source": "The Verge",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-        "source": "The Verge",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-        "source": "The Verge",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "You’ll soon be able to order DoorDash by text message",
-        "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
-        "source": "The Verge",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "The Battle to Be Your Personal AI Agent Is Here",
-        "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-        "source": "Wired",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-        "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
-        "source": "Wired",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-        "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-        "source": "Wired",
-        "date": "2026-09-30"
       }
     ]
   }
