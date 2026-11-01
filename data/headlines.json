@@ -1,10 +1,63 @@
 [
   {
+    "date": "2026-11-01",
+    "articles": [
+      {
+        "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+        "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Companies promised AI gains — here's how the payoff showed up in earnings",
+        "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+        "source": "CNBC",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Why AI is boosting Meta's ad business while hurting Google search",
+        "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+        "source": "CNBC",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Microsoft AI beats doctors in simulated diagnosis test",
+        "url": "https://www.foxnews.com/tech/microsoft-ai-beats-doctors-simulated-diagnosis-test",
+        "source": "Fox News",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Data centers are now a midterm issue, even in Brooklyn",
+        "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+        "source": "TechCrunch",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+        "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+        "source": "Wired",
+        "date": "2026-11-01"
+      }
+    ]
+  },
+  {
     "date": "2026-10-31",
     "articles": [
       {
         "title": "Humans are still doing the work behind some AI agents",
         "url": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+        "source": "CNBC",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+        "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+        "source": "CNBC",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
+        "url": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
         "source": "CNBC",
         "date": "2026-10-31"
       },
@@ -15,9 +68,33 @@
         "date": "2026-10-31"
       },
       {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "source": "TechCrunch",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "source": "TechCrunch",
+        "date": "2026-10-31"
+      },
+      {
         "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
         "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
         "source": "TechCrunch",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "source": "TechCrunch",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "I built an AI Tamagotchi before Meta could",
+        "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+        "source": "The Verge",
         "date": "2026-10-31"
       },
       {
@@ -4934,245 +5011,6 @@
         "url": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
         "source": "Wired",
         "date": "2026-10-02"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-01",
-    "articles": [
-      {
-        "title": "Can good design stop content creators from having sex in robotaxis?",
-        "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-        "source": "Ars Technica",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-        "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-        "source": "Ars Technica",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "With most information hidden, the game Stratego had stumped AI—until now",
-        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-        "source": "Ars Technica",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "AI boom could trigger market shocks, Bank of England boss warns",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "OpenAI DevDay 2026",
-        "url": "https://www.bensbites.com/p/openai-devday-2026",
-        "source": "Ben's Bites",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "AI agents are \"very intelligent, charming sociopaths,\" Kevin Roose says",
-        "url": "https://www.cbsnews.com/news/kevin-roose-ai-book-agi-chronicles-charming-sociopaths/",
-        "source": "CBS News",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "How some AI models are more vulnerable to manipulation",
-        "url": "https://www.cbsnews.com/news/open-weight-ai-models-safety-risks/",
-        "source": "CBS News",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "AI is a boon for 3 internet traffic cop stocks. Cramer says only 1 is a buy right now",
-        "url": "https://www.cnbc.com/2026/10/01/jim-cramer-akamai-ai-traffic.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "AI is operating inside the healthcare billing system. Patients may already be paying the price",
-        "url": "https://www.cnbc.com/2026/10/01/health-care-costs-insurance-claims-billing-ai.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
-        "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "CNBC AI Forum live updates: Enterprise AI in Dallas",
-        "url": "https://www.cnbc.com/2026/10/01/cnbc-ai-forum-2026-live-updates.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
-        "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
-        "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-        "url": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-        "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Software roared back last quarter. Cramer says these stocks can keep climbing",
-        "url": "https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
-        "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "The Dow's rough month, Micron's revenue surge, Google launches Gemini 4 and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/10/01/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Trump’s AI lunch included every major tech company. Except Apple",
-        "url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
-        "source": "CNBC",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-        "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-        "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Former federal regulator says existing laws already apply to AI",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5987776/former-federal-regulator-says-existing-laws-already-apply-to-ai",
-        "source": "NPR",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
-        "source": "NPR",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
-        "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Brian Chesky interview: AI agents need their own operating system",
-        "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "ChatGPT can now virtually try on clothes for you",
-        "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Hearing tech startup Legato launches its AI hearing glasses",
-        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-        "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-        "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-        "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-        "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-        "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-        "source": "TechCrunch",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Google’s new Guided Vision feature can help you read the fine print",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-        "source": "The Verge",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
-        "url": "https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/",
-        "source": "Wired",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
-        "url": "https://www.wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race/",
-        "source": "Wired",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-        "source": "Wired",
-        "date": "2026-10-01"
-      },
-      {
-        "title": "Whatever AI Safety Is, It’s Not This",
-        "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-        "source": "Wired",
-        "date": "2026-10-01"
       }
     ]
   }
