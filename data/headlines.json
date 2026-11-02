@@ -1,5 +1,100 @@
 [
   {
+    "date": "2026-11-02",
+    "articles": [
+      {
+        "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+        "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+        "source": "CNBC",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Apple earnings live updates: New CEO John Ternus faces first Wall Street test",
+        "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Marvell CEO touts 'enormous' opportunity in massive AI connectivity bet on Lumentum",
+        "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+        "source": "CNBC",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
+        "url": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
+        "source": "CNBC",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+        "url": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+        "source": "CNBC",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+        "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+        "source": "CNBC",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "ChatGPT now lets you lock private chats with a PIN",
+        "url": "https://www.foxnews.com/tech/chatgpt-lets-lock-private-chats-pin",
+        "source": "Fox News",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Stop counting tokens, start counting what ships",
+        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+        "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+        "source": "TechCrunch",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+        "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+        "source": "TechCrunch",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+        "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+        "source": "TechCrunch",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+        "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+        "source": "TechCrunch",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+        "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+        "source": "Wired",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
+        "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+        "source": "Wired",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+        "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+        "source": "Wired",
+        "date": "2026-11-02"
+      }
+    ]
+  },
+  {
     "date": "2026-11-01",
     "articles": [
       {
@@ -11,6 +106,12 @@
       {
         "title": "Companies promised AI gains — here's how the payoff showed up in earnings",
         "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+        "source": "CNBC",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+        "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
         "source": "CNBC",
         "date": "2026-11-01"
       },
@@ -27,8 +128,26 @@
         "date": "2026-11-01"
       },
       {
+        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+        "source": "TechCrunch",
+        "date": "2026-11-01"
+      },
+      {
         "title": "Data centers are now a midterm issue, even in Brooklyn",
         "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+        "source": "TechCrunch",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "source": "TechCrunch",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+        "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
         "source": "TechCrunch",
         "date": "2026-11-01"
       },
@@ -4766,251 +4885,6 @@
         "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
         "source": "Wired",
         "date": "2026-10-03"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-02",
-    "articles": [
-      {
-        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-        "source": "Ars Technica",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-        "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-        "source": "Ars Technica",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "OpenAI fires workers for 'mishandling sensitive information'",
-        "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "How some AI models are more vulnerable to manipulation",
-        "url": "https://www.cbsnews.com/news/open-weight-ai-models-safety-risks/",
-        "source": "CBS News",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Some topics are off limits in Chinese AI, researchers find",
-        "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
-        "source": "CBS News",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "What AI could mean for the next generation of workers",
-        "url": "https://www.cbsnews.com/video/what-ai-could-mean-for-the-next-generation-of-workers/",
-        "source": "CBS News",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
-        "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-        "source": "CNBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "AI is making cyberattacks faster and harder to detect, Interpol warns. Here’s what companies should watch",
-        "url": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html",
-        "source": "CNBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Anthropic to invest $100 million to train AI engineer talent",
-        "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-        "source": "CNBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "CNBC AI Forum takeaways: AI costs, security and scale in focus",
-        "url": "https://www.cnbc.com/2026/10/01/cnbc-ai-forum-2026-live-updates.html",
-        "source": "CNBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Facebook whistleblower Frances Haugen questions whether AI companies can police themselves",
-        "url": "https://www.cnbc.com/2026/10/02/frances-haugen-ai-self-regulation.html",
-        "source": "CNBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
-        "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
-        "source": "CNBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-        "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-        "source": "CNBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Nvidia just hit a record high. Here’s why the stock still looks cheap to me",
-        "url": "https://www.cnbc.com/2026/10/02/nvidia-is-a-best-in-breed-stock-on-sale-heres-why-im-buying.html",
-        "source": "CNBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
-        "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
-        "source": "CNBC",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Android malware can steal your PIN and bank logins",
-        "url": "https://www.foxnews.com/tech/android-malware-steal-pin-bank-logins",
-        "source": "Fox News",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
-        "url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
-        "source": "Fox News",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Fox News AI Newsletter: The neighborhood on the edge of America's tech frontier",
-        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-neighborhood-edge-americas-tech-frontier",
-        "source": "Fox News",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Redefining enterprise intelligence with autonomous AI",
-        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Google launches satellite to test feasibility of building data centers in space",
-        "url": "https://www.npr.org/2026/10/02/nx-s1-5988044/google-launches-satellite-to-test-feasibility-of-building-data-centers-in-space",
-        "source": "NPR",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-        "source": "TechCrunch",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-        "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-        "source": "TechCrunch",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-        "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-        "source": "TechCrunch",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Pope Leo XIV is not a fan of AI-generated art",
-        "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-        "source": "TechCrunch",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Sean Parker is rebuilding Stability AI around music",
-        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-        "source": "TechCrunch",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-        "source": "TechCrunch",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-        "source": "TechCrunch",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-        "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-        "source": "TechCrunch",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "AI hallucinations are making entitled customers even worse",
-        "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-        "source": "The Verge",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "AI music maker Suno now generates spoken words",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-        "source": "The Verge",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Amazon writes scary blog warning communities not to block data centers",
-        "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-        "source": "The Verge",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-        "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-        "source": "The Verge",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-        "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-        "source": "The Verge",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Meta open sources code to let you make Muse AI gadgets",
-        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-        "source": "The Verge",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-        "source": "The Verge",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-        "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-        "source": "Wired",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-        "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
-        "source": "Wired",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-        "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-        "source": "Wired",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-        "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-        "source": "Wired",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "Your Driverless Cab Is Spying on You",
-        "url": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
-        "source": "Wired",
-        "date": "2026-10-02"
       }
     ]
   }
