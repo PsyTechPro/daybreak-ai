@@ -1,7 +1,102 @@
 [
   {
+    "date": "2026-11-03",
+    "articles": [
+      {
+        "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report",
+        "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+        "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+        "source": "CNBC",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Brookfield plans for a $27 billion AI data center at UK power station",
+        "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+        "source": "CNBC",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+        "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+        "source": "CNBC",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "How “reverse game theory” could keep AI agents in check",
+        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+        "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+        "source": "TechCrunch",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "source": "TechCrunch",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+        "source": "TechCrunch",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+        "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+        "source": "TechCrunch",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "source": "TechCrunch",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+        "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+        "source": "TechCrunch",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+        "source": "Wired",
+        "date": "2026-11-03"
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "articles": [
+      {
+        "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+        "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+        "source": "Ars Technica",
+        "date": "2026-11-02"
+      },
       {
         "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
         "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
@@ -45,9 +140,27 @@
         "date": "2026-11-02"
       },
       {
+        "title": "Raising the quality of insights in agentic analytics",
+        "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-02"
+      },
+      {
         "title": "Stop counting tokens, start counting what ships",
         "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
         "source": "MIT Technology Review",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+        "source": "NPR",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "How former Yahoo CEO Marissa Mayer sees AI assistants fitting into busy women's lives",
+        "url": "https://www.npr.org/2026/11/02/nx-s1-6022451/how-former-yahoo-ceo-marissa-mayer-sees-ai-assistants-fitting-into-busy-womens-lives",
+        "source": "NPR",
         "date": "2026-11-02"
       },
       {
@@ -57,8 +170,20 @@
         "date": "2026-11-02"
       },
       {
+        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+        "source": "TechCrunch",
+        "date": "2026-11-02"
+      },
+      {
         "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
         "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+        "source": "TechCrunch",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
         "source": "TechCrunch",
         "date": "2026-11-02"
       },
@@ -72,6 +197,24 @@
         "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
         "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
         "source": "TechCrunch",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+        "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+        "source": "TechCrunch",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+        "source": "TechCrunch",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
+        "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
+        "source": "Wired",
         "date": "2026-11-02"
       },
       {
@@ -4814,77 +4957,6 @@
         "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
         "source": "TechCrunch",
         "date": "2026-10-04"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-03",
-    "articles": [
-      {
-        "title": "America’s data center fight is a preview of what's to come for the rest of the world",
-        "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
-        "source": "CNBC",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "AI agents can now make phone calls for you",
-        "url": "https://www.foxnews.com/tech/ai-agents-make-phone-calls",
-        "source": "Fox News",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "An AI-generated influencer entered Alabama 'RushTok' — Some fans didn't care that she was fake",
-        "url": "https://www.foxnews.com/tech/ai-generated-influencer-entered-alabama-rushtok-fans-didnt-care-fake",
-        "source": "Fox News",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check",
-        "url": "https://www.foxnews.com/tech/former-anthropic-security-leader-warns-ai-agents-becoming-too-autonomous-humans-keep-check",
-        "source": "Fox News",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "All the AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "source": "TechCrunch",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-        "source": "TechCrunch",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "An OpenAI safety employee has quit and is sounding the alarm",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-        "source": "The Verge",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-        "source": "The Verge",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-        "source": "The Verge",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-        "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-        "source": "Wired",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-        "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-        "source": "Wired",
-        "date": "2026-10-03"
       }
     ]
   }
