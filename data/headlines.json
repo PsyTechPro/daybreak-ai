@@ -1,7 +1,120 @@
 [
   {
+    "date": "2026-11-05",
+    "articles": [
+      {
+        "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+        "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+        "source": "Ars Technica",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+        "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "How the midterms could fuel the K-shaped AI trade",
+        "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+        "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
+        "url": "https://www.cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+        "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+        "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+        "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Tech is about to get hammered in Congress",
+        "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+        "source": "The Verge",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "AI’s Next Trick? Speaking Dolphin",
+        "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+        "source": "Wired",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+        "url": "https://www.wired.com/story/aina-smart-ring/",
+        "source": "Wired",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+        "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+        "source": "Wired",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+        "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+        "source": "Wired",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Meta Quest Promo Codes and Coupons for November 2026",
+        "url": "https://www.wired.com/story/meta-quest-promo-code/",
+        "source": "Wired",
+        "date": "2026-11-05"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "articles": [
+      {
+        "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+        "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+        "source": "Ars Technica",
+        "date": "2026-11-04"
+      },
       {
         "title": "Graduates are managing AI - but are they learning much else?",
         "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
@@ -15,8 +128,20 @@
         "date": "2026-11-04"
       },
       {
+        "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+        "url": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+        "source": "CNBC",
+        "date": "2026-11-04"
+      },
+      {
         "title": "Google responds to political backlash over removing search from schools that ban AI",
         "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+        "source": "CNBC",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+        "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
         "source": "CNBC",
         "date": "2026-11-04"
       },
@@ -24,6 +149,60 @@
         "title": "Securing the agentic enterprise with data lineage",
         "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
         "source": "MIT Technology Review",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+        "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+        "source": "TechCrunch",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+        "source": "TechCrunch",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+        "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+        "source": "TechCrunch",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Meta acquires AI coding startup Conductor",
+        "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+        "source": "TechCrunch",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+        "source": "TechCrunch",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Open source AI is booming. Hugging Face explains who profits.",
+        "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+        "source": "TechCrunch",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+        "source": "TechCrunch",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+        "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+        "source": "TechCrunch",
         "date": "2026-11-04"
       },
       {
@@ -42,6 +221,30 @@
         "title": "The biggest modding site in PC gaming is taking a stance on AI",
         "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
         "source": "The Verge",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+        "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+        "source": "Wired",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+        "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+        "source": "Wired",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+        "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+        "source": "Wired",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+        "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+        "source": "Wired",
         "date": "2026-11-04"
       },
       {
@@ -4874,203 +5077,6 @@
         "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
         "source": "Wired",
         "date": "2026-10-06"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-05",
-    "articles": [
-      {
-        "title": "AI glasses face their first major government crackdown",
-        "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-        "source": "Ars Technica",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Mayor to homeowner losing sleep over data center plant: \"Consider selling\"",
-        "url": "https://www.cbsnews.com/news/mississippi-elon-musk-xai-data-center-power-plant-noise/",
-        "source": "CBS News",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
-        "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-        "source": "CNBC",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
-        "url": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
-        "source": "CNBC",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Chick-fil-A's growth plans, AI wearables, Gen Z's sports betting and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/10/05/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
-        "url": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
-        "source": "CNBC",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
-        "url": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
-        "source": "CNBC",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
-        "url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
-        "source": "CNBC",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Windows malware uses Grok AI to help stay hidden, researchers say",
-        "url": "https://www.foxnews.com/tech/windows-malware-uses-grok-ai-help-stay-hidden-researchers-say",
-        "source": "Fox News",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Bringing predictive analytics to the agentic AI era",
-        "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "EmTech Future 2026: When AI Meets Everything",
-        "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "People really hate AI, so why can’t they get enough?",
-        "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-        "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
-        "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-        "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Etched fields funding offers at $40B+ valuation, sources say",
-        "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-        "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-        "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-        "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-        "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "OpenAI launches visual ads that appear alongside image generation results",
-        "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-        "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-        "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-        "source": "TechCrunch",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-        "source": "The Verge",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "OpenAI is sticking more ads in ChatGPT",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-        "source": "The Verge",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Our minds aren’t equipped to handle AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-        "source": "The Verge",
-        "date": "2026-10-05"
-      },
-      {
-        "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-        "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-        "source": "The Verge",
-        "date": "2026-10-05"
       }
     ]
   }
