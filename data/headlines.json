@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-11-06",
+    "articles": [
+      {
+        "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
+        "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+        "source": "CNBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+        "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+        "source": "CNBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+        "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "source": "TechCrunch",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Amazon will let you text Alexa your shopping list",
+        "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+        "source": "The Verge",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "OpenAI is stepping back from NDAs for data center projects",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+        "source": "The Verge",
+        "date": "2026-11-06"
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "articles": [
       {
@@ -9,8 +56,38 @@
         "date": "2026-11-05"
       },
       {
+        "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+        "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+        "source": "Ars Technica",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+        "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+        "source": "Ars Technica",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+        "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+        "source": "Ars Technica",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
+        "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
         "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
         "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+        "url": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
         "source": "CNBC",
         "date": "2026-11-05"
       },
@@ -21,8 +98,32 @@
         "date": "2026-11-05"
       },
       {
+        "title": "Jim Cramer explains why no AI stock seems safe from the market carnage",
+        "url": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-data-center-uncertainty.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+        "url": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Jim Cramer says the AI trade is not going away as Nasdaq enters correction",
+        "url": "https://www.cnbc.com/investingclub/2026/11/05/cramer-says-the-ai-trade-is-not-going-away-as-nasdaq-enters-correction.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
         "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
         "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+        "source": "CNBC",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+        "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
         "source": "CNBC",
         "date": "2026-11-05"
       },
@@ -57,14 +158,62 @@
         "date": "2026-11-05"
       },
       {
+        "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
         "title": "Apple is reportedly cutting budgets for its internal AI usage",
         "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
         "source": "TechCrunch",
         "date": "2026-11-05"
       },
       {
+        "title": "Axiom Math wants to keep AI slop out of mathematics",
+        "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Claude can now analyze your spending with its new Personal Finance tool",
+        "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
         "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
         "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+        "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "OpenAI released a new cybersecurity model. Is that enough?",
+        "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+        "source": "TechCrunch",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Serve Robotics launches new business to become the AWS for robots",
+        "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
         "source": "TechCrunch",
         "date": "2026-11-05"
       },
@@ -77,6 +226,12 @@
       {
         "title": "AI’s Next Trick? Speaking Dolphin",
         "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+        "source": "Wired",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+        "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
         "source": "Wired",
         "date": "2026-11-05"
       },
@@ -4916,167 +5071,6 @@
         "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
         "source": "Wired",
         "date": "2026-10-07"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-06",
-    "articles": [
-      {
-        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-        "source": "Ars Technica",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-        "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-        "source": "Ars Technica",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Italian PM files to trademark her voice against AI threats",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "America’s data center fight is a preview of what's to come for the rest of the world",
-        "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
-        "source": "CNBC",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-        "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-        "source": "CNBC",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
-        "url": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
-        "source": "CNBC",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
-        "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-        "source": "CNBC",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
-        "url": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
-        "source": "CNBC",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Mistral unveils new AI model it says rivals best open systems from China",
-        "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
-        "source": "CNBC",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Paramount-WBD merger, Musk's return to trillionaire, AI researchers' warning and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/10/06/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-        "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-        "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
-        "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Hark releases an AI personal assistant with a focus on privacy",
-        "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "How AI decision models could change content moderation",
-        "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
-        "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "LibreOffice says ‘no AI’ is now a software feature",
-        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Mirror Particle is building a ‘world model’ of human behavior",
-        "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-        "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "The next hurdle for AI agents: getting websites to let them in",
-        "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
-        "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
-        "source": "TechCrunch",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Google is about to remove free access to Gemini Flash and Pro",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-        "source": "The Verge",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-        "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-        "source": "Wired",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-        "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
-        "source": "Wired",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-        "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-        "source": "Wired",
-        "date": "2026-10-06"
-      },
-      {
-        "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
-        "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
-        "source": "Wired",
-        "date": "2026-10-06"
       }
     ]
   }
