@@ -1,10 +1,75 @@
 [
   {
+    "date": "2026-11-07",
+    "articles": [
+      {
+        "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+        "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+        "source": "CNBC",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+        "url": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+        "source": "CNBC",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "source": "TechCrunch",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+        "source": "The Verge",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+        "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+        "source": "Wired",
+        "date": "2026-11-07"
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "articles": [
       {
+        "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+        "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+        "source": "Ars Technica",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Could potential AI clones of GTA VI force a quicker official port?",
+        "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+        "source": "Ars Technica",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+        "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+        "source": "Ars Technica",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "AI stocks climb after trillions wiped from market values",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-06"
+      },
+      {
         "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
         "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Why the US midterms sparked an AI stock selloff",
+        "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-11-06"
       },
@@ -21,9 +86,81 @@
         "date": "2026-11-06"
       },
       {
+        "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
+        "url": "https://www.cnbc.com/2026/11/06/cramer-coreweave-nebius-earnings.html",
+        "source": "CNBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+        "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+        "source": "CNBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+        "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+        "source": "CNBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+        "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+        "source": "CNBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+        "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+        "source": "CNBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+        "url": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
+        "source": "CNBC",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Fox News AI Newsletter: Voters' unmistakable message",
+        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-voters-unmistakable-message",
+        "source": "Fox News",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Homeland Security data leak exposes 41K workers",
+        "url": "https://www.foxnews.com/tech/homeland-security-data-leak-exposes-41k-workers",
+        "source": "Fox News",
+        "date": "2026-11-06"
+      },
+      {
         "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
         "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
         "source": "MIT Technology Review",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+        "source": "TechCrunch",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+        "source": "TechCrunch",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+        "source": "TechCrunch",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "source": "TechCrunch",
         "date": "2026-11-06"
       },
       {
@@ -33,8 +170,32 @@
         "date": "2026-11-06"
       },
       {
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "All the latest updates on AI data centers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+        "source": "The Verge",
+        "date": "2026-11-06"
+      },
+      {
         "title": "Amazon will let you text Alexa your shopping list",
         "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+        "source": "The Verge",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+        "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+        "source": "The Verge",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+        "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
         "source": "The Verge",
         "date": "2026-11-06"
       },
@@ -42,6 +203,24 @@
         "title": "OpenAI is stepping back from NDAs for data center projects",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
         "source": "The Verge",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+        "source": "The Verge",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+        "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+        "source": "Wired",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+        "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+        "source": "Wired",
         "date": "2026-11-06"
       }
     ]
@@ -4916,161 +5095,6 @@
         "url": "https://www.wired.com/story/wireds-midterms-races-to-watch/",
         "source": "Wired",
         "date": "2026-10-08"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-07",
-    "articles": [
-      {
-        "title": "AI/ML is becoming a performance factor in motorsport",
-        "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
-        "source": "Ars Technica",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-        "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-        "source": "Ars Technica",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Google rolls out improved SynthID AI content detector, now available globally",
-        "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-        "source": "Ars Technica",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-        "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-        "source": "Ars Technica",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-        "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-        "source": "Ars Technica",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
-        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-        "source": "CNBC",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
-        "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
-        "source": "CNBC",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage",
-        "url": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
-        "source": "CNBC",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
-        "url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-        "source": "CNBC",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
-        "url": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
-        "source": "CNBC",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
-        "url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
-        "source": "CNBC",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-        "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-        "source": "CNBC",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "AI voice scam traps mom in 5-hour kidnapping nightmare",
-        "url": "https://www.foxnews.com/tech/ai-voice-scam-traps-mom-5-hour-kidnapping-nightmare",
-        "source": "Fox News",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "The best defense against high-tech AI scams is low-tech skepticism, expert warns",
-        "url": "https://www.foxnews.com/tech/best-defense-against-high-tech-ai-scams-low-tech-skepticism-expert-warns",
-        "source": "Fox News",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-        "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Google’s new SynthID website can identify AI-generated media",
-        "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-        "source": "TechCrunch",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "AI could upend food delivery",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-        "source": "The Verge",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Google now lets you make games with AI",
-        "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
-        "source": "The Verge",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Windows and Surface event: how to watch and what to expect",
-        "url": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
-        "source": "The Verge",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-        "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-        "source": "Wired",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "The New ChatGPT Is More Show Than Tell",
-        "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
-        "source": "Wired",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-        "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-        "source": "Wired",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-        "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-        "source": "Wired",
-        "date": "2026-10-07"
-      },
-      {
-        "title": "Your Next Great Read Might Be Certified ‘Organic’",
-        "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
-        "source": "Wired",
-        "date": "2026-10-07"
       }
     ]
   }
