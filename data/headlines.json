@@ -1,10 +1,57 @@
 [
   {
+    "date": "2026-11-08",
+    "articles": [
+      {
+        "title": "AI is speeding up recruitment — and putting agency fees under pressure",
+        "url": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
+        "source": "CNBC",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+        "url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+        "source": "CNBC",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+        "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+        "source": "Wired",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+        "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+        "source": "Wired",
+        "date": "2026-11-08"
+      }
+    ]
+  },
+  {
     "date": "2026-11-07",
     "articles": [
       {
+        "title": "America's newest small business owners with no employees are off to a hot start in AI era",
+        "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+        "source": "CNBC",
+        "date": "2026-11-07"
+      },
+      {
         "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
         "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+        "source": "CNBC",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+        "url": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+        "source": "CNBC",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+        "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
         "source": "CNBC",
         "date": "2026-11-07"
       },
@@ -18,6 +65,24 @@
         "title": "Crusoe sells troubled Wyoming data center project to Google",
         "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
         "source": "TechCrunch",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "AI broke the cybersecurity world. What’s next?",
+        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+        "source": "The Verge",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+        "source": "The Verge",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "The US let Nvidia sell chips to an empty office in China",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+        "source": "The Verge",
         "date": "2026-11-07"
       },
       {
@@ -4898,203 +4963,6 @@
         "url": "https://www.wired.com/story/best-mac-desktop/",
         "source": "Wired",
         "date": "2026-10-09"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-08",
-    "articles": [
-      {
-        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-        "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-        "source": "Ars Technica",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-        "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-        "source": "Ars Technica",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "AI chip boom pushes Samsung profits to record $80bn",
-        "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Text is so 2023",
-        "url": "https://www.bensbites.com/p/text-is-so-2023",
-        "source": "Ben's Bites",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Google unveils Gemini AI agent to handle workplace tasks",
-        "url": "https://www.cbsnews.com/news/google-gemini-ai-workplace-agent/",
-        "source": "CBS News",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-        "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-        "source": "CNBC",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
-        "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
-        "source": "CNBC",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Cramer says Thursday's AI sell-off proves the value of this age-old investing strategy",
-        "url": "https://www.cnbc.com/2026/10/08/jim-cramer-diversification-ai-selloff.html",
-        "source": "CNBC",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-        "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-        "source": "CNBC",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-        "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-        "source": "CNBC",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-        "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-        "source": "CNBC",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
-        "url": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
-        "source": "CNBC",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Fox News AI Newsletter: 7 key midterm states put tech boom in focus",
-        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-7-key-midterm-states-put-tech-boom-focus",
-        "source": "Fox News",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "AI breakthroughs in robotics won’t change your life any time soon",
-        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Building a safer path to autonomous industrial AI",
-        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-        "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-        "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Anthropic changes usage policy to ban model abuse and election interference",
-        "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-        "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-        "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Natura’s $99 smart ring puts AI agents on your finger",
-        "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-        "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-        "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-        "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-        "source": "TechCrunch",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Anthropic launches free AI security scans for open-source projects",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-        "source": "The Verge",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-        "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-        "source": "The Verge",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "Cupertino might be made for your mom, but it&#8217;s a good take on tech",
-        "url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
-        "source": "The Verge",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-        "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-        "source": "Wired",
-        "date": "2026-10-08"
-      },
-      {
-        "title": "WIRED’s Midterms Races to Watch",
-        "url": "https://www.wired.com/story/wireds-midterms-races-to-watch/",
-        "source": "Wired",
-        "date": "2026-10-08"
       }
     ]
   }
