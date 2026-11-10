@@ -1,11 +1,202 @@
 [
   {
+    "date": "2026-11-10",
+    "articles": [
+      {
+        "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+        "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+        "source": "Ars Technica",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+        "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+        "source": "CNBC",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
+        "url": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
+        "source": "CNBC",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "AI phishing scams turn your social posts against you",
+        "url": "https://www.foxnews.com/tech/ai-phishing-scams-turn-your-social-posts-against-you",
+        "source": "Fox News",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+        "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+        "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+        "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+        "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Otter AI can now follow conversations across 30+ languages",
+        "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Reddit is turning user conversations into AI-powered product reviews",
+        "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+        "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+        "source": "TechCrunch",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Adobe is going all in on agentic AI",
+        "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+        "source": "The Verge",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
+        "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
+        "source": "The Verge",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Anthropic targets $1.4 trillion IPO",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+        "source": "The Verge",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Hands-on with Ring’s new AI drone camera for your home",
+        "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+        "source": "The Verge",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+        "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+        "source": "The Verge",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+        "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+        "source": "Wired",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+        "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+        "source": "Wired",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
+        "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+        "source": "Wired",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+        "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+        "source": "Wired",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+        "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+        "source": "Wired",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+        "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+        "source": "Wired",
+        "date": "2026-11-10"
+      }
+    ]
+  },
+  {
     "date": "2026-11-09",
     "articles": [
+      {
+        "title": "A Sam Altman parody offers an amusing lesson in memory management",
+        "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+        "source": "Ars Technica",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Claude Code is accidentally exposing secrets all over GitHub",
+        "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+        "source": "Ars Technica",
+        "date": "2026-11-09"
+      },
       {
         "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
         "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
         "source": "Ars Technica",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Google faces mounting backlash for controversial AI school policy",
+        "url": "https://www.cbsnews.com/news/ed-markey-google-ai-search-schools/",
+        "source": "CBS News",
         "date": "2026-11-09"
       },
       {
@@ -27,14 +218,50 @@
         "date": "2026-11-09"
       },
       {
+        "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+        "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+        "source": "CNBC",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+        "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+        "source": "CNBC",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
+        "url": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
+        "source": "CNBC",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "New AI malware ranks victims by how much they're worth",
+        "url": "https://www.foxnews.com/tech/new-ai-malware-ranks-victims-how-much-theyre-worth",
+        "source": "Fox News",
+        "date": "2026-11-09"
+      },
+      {
         "title": "Innovating with AI in the special chemicals industry",
         "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
         "source": "MIT Technology Review",
         "date": "2026-11-09"
       },
       {
+        "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+        "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-09"
+      },
+      {
         "title": "The Download: empty AI climate claims, and an Nvidia investigation",
         "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "The backlash about data centers might really just be about electricity",
+        "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
         "source": "MIT Technology Review",
         "date": "2026-11-09"
       },
@@ -48,6 +275,12 @@
         "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
         "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
         "source": "NPR",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+        "source": "TechCrunch",
         "date": "2026-11-09"
       },
       {
@@ -4694,125 +4927,6 @@
         "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
         "source": "Wired",
         "date": "2026-10-11"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-10",
-    "articles": [
-      {
-        "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-        "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
-        "url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
-        "source": "CNBC",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
-        "url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
-        "source": "CNBC",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
-        "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
-        "source": "CNBC",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
-        "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
-        "source": "CNBC",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "8 seriously annoying tasks you can hand off to an AI agent",
-        "url": "https://www.foxnews.com/tech/8-annoying-tasks-hand-off-ai-agent",
-        "source": "Fox News",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture",
-        "url": "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
-        "source": "NPR",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "For reporters covering AI, keeping up with story is both tough and exciting",
-        "url": "https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting",
-        "source": "NPR",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "What are they saying about AI at San Francisco Tech Week?",
-        "url": "https://www.npr.org/2026/10/10/nx-s1-5995420/what-are-they-saying-about-ai-at-san-francisco-tech-week",
-        "source": "NPR",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-        "source": "TechCrunch",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-        "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-        "source": "TechCrunch",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "source": "TechCrunch",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-        "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-        "source": "TechCrunch",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "AI agent makers are promising privacy — will they deliver?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-        "source": "The Verge",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Anthropic is cutting off its internal evaluations from the internet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-        "source": "The Verge",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-        "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-        "source": "The Verge",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "My brief romance with an AI bird feeder",
-        "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-        "source": "The Verge",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "source": "The Verge",
-        "date": "2026-10-10"
-      },
-      {
-        "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-        "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-        "source": "Wired",
-        "date": "2026-10-10"
       }
     ]
   }
