@@ -1,11 +1,136 @@
 [
   {
+    "date": "2026-11-13",
+    "articles": [
+      {
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "What happened overnight with the Microsoft global outage?",
+        "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "What we know so far about the Microsoft outage",
+        "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Examining Jensen Huang's swift and stunning fall from grace at Nvidia",
+        "url": "https://www.cbsnews.com/video/examining-jensen-huangs-swift-stunning-fall-from-grace-nvidia/",
+        "source": "CBS News",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+        "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+        "source": "CNBC",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
+        "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
+        "source": "CNBC",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+        "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Nvidia's CEO resigns after alleged spy scandal. What's next for the company?",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidias-ceo-resigns-after-alleged-spy-scandal-whats-next-for-the-company",
+        "source": "NPR",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+        "source": "NPR",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+        "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+        "source": "TechCrunch",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+        "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+        "source": "TechCrunch",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+        "source": "The Verge",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "What&#8217;s really at stake in the Jensen Huang saga",
+        "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+        "source": "The Verge",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Even Black Friday Will Be More Expensive Than Usual",
+        "url": "https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/",
+        "source": "Wired",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+        "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+        "source": "Wired",
+        "date": "2026-11-13"
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "articles": [
+      {
+        "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+        "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+        "source": "Ars Technica",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+        "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+        "source": "Ars Technica",
+        "date": "2026-11-12"
+      },
       {
         "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
         "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
         "source": "Ars Technica",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+        "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+        "source": "Ars Technica",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+        "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+        "source": "Ars Technica",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
         "date": "2026-11-12"
       },
       {
@@ -23,6 +148,18 @@
       {
         "title": "Did Jensen Huang Just Destroy America's AI Advantage?",
         "url": "https://www.cbsnews.com/video/did-jensen-huang-just-destroy-americas-ai-advantage-great-question/",
+        "source": "CBS News",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Major AI developers can't control their own tech, lawsuit alleges",
+        "url": "https://www.cbsnews.com/news/advocacy-groups-sue-ai-companies/",
+        "source": "CBS News",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "While many Americans resist, China embraces AI data center boom",
+        "url": "https://www.cbsnews.com/news/china-ai-data-center-boom-as-us-tech-firms-face-resistance/",
         "source": "CBS News",
         "date": "2026-11-12"
       },
@@ -45,6 +182,18 @@
         "date": "2026-11-12"
       },
       {
+        "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+        "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+        "source": "CNBC",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
+        "url": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html",
+        "source": "CNBC",
+        "date": "2026-11-12"
+      },
+      {
         "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
         "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
         "source": "NPR",
@@ -53,6 +202,48 @@
       {
         "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
         "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+        "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Muse can now place calls to US businesses — if you pay",
+        "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+        "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+        "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
         "source": "TechCrunch",
         "date": "2026-11-12"
       },
@@ -69,8 +260,26 @@
         "date": "2026-11-12"
       },
       {
+        "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+        "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+        "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
         "title": "The unfolding Jensen Huang scandal: a timeline",
         "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "source": "TechCrunch",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+        "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
         "source": "TechCrunch",
         "date": "2026-11-12"
       },
@@ -90,6 +299,24 @@
         "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
         "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
         "source": "The Verge",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+        "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+        "source": "Wired",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+        "source": "Wired",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Jensen Huang’s $470 Billion Affair",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+        "source": "Wired",
         "date": "2026-11-12"
       },
       {
@@ -4868,293 +5095,6 @@
         "url": "https://www.wired.com/story/my-friend-has-no-soul/",
         "source": "Wired",
         "date": "2026-10-14"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-13",
-    "articles": [
-      {
-        "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-        "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-        "source": "Ars Technica",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-        "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-        "source": "Ars Technica",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-        "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-        "source": "Ars Technica",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "How long will humans be needed for translation?",
-        "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Anthropic warns \"AI worms\" could soon infect smart home devices",
-        "url": "https://www.cbsnews.com/news/ai-worms-smart-devices-anthropic/",
-        "source": "CBS News",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Character.ai declares bankruptcy, citing legal and business woes",
-        "url": "https://www.cbsnews.com/news/character-ai-files-bankruptcy-disney-license/",
-        "source": "CBS News",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "OpenAI employee accused of planting recording device in office",
-        "url": "https://www.cbsnews.com/news/openai-employee-arrest-recording-device/",
-        "source": "CBS News",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
-        "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
-        "source": "CNBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
-        "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
-        "source": "CNBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-        "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-        "source": "CNBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Anthropic warns AI models could soon copy themselves across home devices",
-        "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-        "source": "CNBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-        "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-        "source": "CNBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
-        "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
-        "source": "CNBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
-        "url": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
-        "source": "CNBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
-        "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
-        "source": "CNBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-        "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-        "source": "CNBC",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "AI labs are buying data from dead startups to train their models",
-        "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Open models have real benefits. Do they outweigh the risks?",
-        "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "The Download: open model trade-offs and geothermal power’s promise",
-        "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-        "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-        "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-        "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Cerebras CEO pushes back on AI doomsday warnings",
-        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-        "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Facebook is giving users more control over their algorithm",
-        "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-        "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-        "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-        "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-        "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-        "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-        "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-        "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-        "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
-        "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-        "source": "TechCrunch",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Apple announces the HomePod Mini 2, but it isn&#8217;t ready for Siri AI at launch",
-        "url": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai",
-        "source": "The Verge",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-        "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-        "source": "The Verge",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-        "source": "The Verge",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Rivian partner Mind Robotics hires Doug Field as president",
-        "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
-        "source": "The Verge",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Shopify opens its catalog up to more AI agents",
-        "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-        "source": "The Verge",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
-        "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
-        "source": "The Verge",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Where to preorder the new Apple TV 4K",
-        "url": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy",
-        "source": "The Verge",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-        "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-        "source": "The Verge",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-        "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-        "source": "Wired",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-        "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-        "source": "Wired",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-        "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-        "source": "Wired",
-        "date": "2026-10-13"
-      },
-      {
-        "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-        "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-        "source": "Wired",
-        "date": "2026-10-13"
       }
     ]
   }
