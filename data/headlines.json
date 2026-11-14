@@ -1,7 +1,54 @@
 [
   {
+    "date": "2026-11-14",
+    "articles": [
+      {
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "Tech Now",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "Meet the seven co-founders of Anthropic",
+        "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+        "source": "CNBC",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "Beware the New AI-Fueled Ransomware Boom",
+        "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+        "source": "Wired",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+        "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+        "source": "Wired",
+        "date": "2026-11-14"
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "articles": [
+      {
+        "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+        "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+        "source": "Ars Technica",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+        "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+        "source": "Ars Technica",
+        "date": "2026-11-13"
+      },
       {
         "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
         "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
@@ -27,6 +74,12 @@
         "date": "2026-11-13"
       },
       {
+        "title": "Major AI developers can't control their own tech, lawsuit alleges",
+        "url": "https://www.cbsnews.com/news/advocacy-groups-sue-ai-companies/",
+        "source": "CBS News",
+        "date": "2026-11-13"
+      },
+      {
         "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
         "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
         "source": "CNBC",
@@ -36,6 +89,30 @@
         "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
         "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
         "source": "CNBC",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+        "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+        "source": "CNBC",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Could AI reduce shipping costs and grocery bills?",
+        "url": "https://www.foxnews.com/tech/could-ai-reduce-shipping-costs-grocery-bills",
+        "source": "Fox News",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Eric Trump-partnered robotics CEO addresses 'Terminator' fears as he sends combat humanoids into war zones",
+        "url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones",
+        "source": "Fox News",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Fox News AI Newsletter: 'Godfather of AI' resigns, testing American juggernaut",
+        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-godfather-ai-resigns-testing-american-juggernaut",
+        "source": "Fox News",
         "date": "2026-11-13"
       },
       {
@@ -51,14 +128,50 @@
         "date": "2026-11-13"
       },
       {
+        "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+        "source": "NPR",
+        "date": "2026-11-13"
+      },
+      {
         "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
         "url": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
         "source": "NPR",
         "date": "2026-11-13"
       },
       {
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+        "source": "TechCrunch",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "source": "TechCrunch",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+        "source": "TechCrunch",
+        "date": "2026-11-13"
+      },
+      {
         "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
         "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+        "source": "TechCrunch",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "source": "TechCrunch",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "source": "TechCrunch",
         "date": "2026-11-13"
       },
@@ -69,8 +182,20 @@
         "date": "2026-11-13"
       },
       {
+        "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+        "source": "The Verge",
+        "date": "2026-11-13"
+      },
+      {
         "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+        "source": "The Verge",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Jensen Huang was reckless with the environment, too",
+        "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
         "source": "The Verge",
         "date": "2026-11-13"
       },
@@ -83,6 +208,12 @@
       {
         "title": "Even Black Friday Will Be More Expensive Than Usual",
         "url": "https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/",
+        "source": "Wired",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+        "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
         "source": "Wired",
         "date": "2026-11-13"
       },
@@ -4910,191 +5041,6 @@
         "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
         "source": "Wired",
         "date": "2026-10-15"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "articles": [
-      {
-        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-        "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-        "source": "Ars Technica",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-        "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-        "source": "Ars Technica",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-        "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-        "source": "Ars Technica",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Researchers use AI to design proteins that cut up other proteins",
-        "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-        "source": "Ars Technica",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-        "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-        "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "FBI arrests OpenAI engineer for allegedly planting bug in office",
-        "url": "https://www.cbsnews.com/video/fbi-arrests-openai-engineer-for-allegedly-planting-bug-in-office/",
-        "source": "CBS News",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "On dating apps, men use AI to put their best face forward",
-        "url": "https://www.cbsnews.com/news/dating-apps-ai-photos-authenticity/",
-        "source": "CBS News",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
-        "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-        "source": "CNBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-        "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-        "source": "CNBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-        "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-        "source": "CNBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
-        "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-        "source": "CNBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-        "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-        "source": "CNBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
-        "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-        "source": "CNBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
-        "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
-        "source": "CNBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
-        "url": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
-        "source": "CNBC",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-        "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-        "source": "TechCrunch",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-        "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-        "source": "TechCrunch",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-        "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-        "source": "TechCrunch",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-        "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
-        "source": "TechCrunch",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-        "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-        "source": "TechCrunch",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-        "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-        "source": "TechCrunch",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-        "source": "The Verge",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "McKinsey is making job applicants spar with a fake AI client",
-        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-        "source": "The Verge",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-        "source": "The Verge",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "The AI race is back on",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-        "source": "The Verge",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-        "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-        "source": "Wired",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-        "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-        "source": "Wired",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "Men Can’t Stop Faking How Much They Know About AI",
-        "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-        "source": "Wired",
-        "date": "2026-10-14"
-      },
-      {
-        "title": "My Friend Has No Soul",
-        "url": "https://www.wired.com/story/my-friend-has-no-soul/",
-        "source": "Wired",
-        "date": "2026-10-14"
       }
     ]
   }
