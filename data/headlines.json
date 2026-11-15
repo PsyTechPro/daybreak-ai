@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026-11-15",
+    "articles": [
+      {
+        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+        "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+        "source": "CNBC",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "AI DJs Completely Kill My Groove",
+        "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+        "source": "Wired",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+        "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+        "source": "Wired",
+        "date": "2026-11-15"
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "articles": [
       {
@@ -15,9 +44,39 @@
         "date": "2026-11-14"
       },
       {
+        "title": "How Nvidia scandal, Anthropic IPO may impact your 401(k)",
+        "url": "https://www.cbsnews.com/video/how-nvidia-scandal-anthropic-ipo-may-impact-your-401k/",
+        "source": "CBS News",
+        "date": "2026-11-14"
+      },
+      {
         "title": "Meet the seven co-founders of Anthropic",
         "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
         "source": "CNBC",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+        "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+        "source": "CNBC",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "source": "TechCrunch",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+        "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+        "source": "TechCrunch",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+        "source": "The Verge",
         "date": "2026-11-14"
       },
       {
@@ -4796,251 +4855,6 @@
         "url": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
         "source": "Wired",
         "date": "2026-10-16"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-15",
-    "articles": [
-      {
-        "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-        "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-        "source": "Ars Technica",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-        "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-        "source": "Ars Technica",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Prompt tips from Anthropic",
-        "url": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
-        "source": "Ben's Bites",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Amazon launches new AI devices that can listen and take notes",
-        "url": "https://www.cbsnews.com/news/amazon-personal-ai-wearable-devices-bee/",
-        "source": "CBS News",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents",
-        "url": "https://www.cbsnews.com/news/ftc-subpoenas-anthropic-openai-consumer-protection/",
-        "source": "CBS News",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
-        "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-        "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
-        "url": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-        "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-        "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-        "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Jim Cramer says this week's AI sell-off offers a crucial lesson for investors",
-        "url": "https://www.cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
-        "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-        "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
-        "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-        "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Wall Street's latest AI spook, Netflix layoffs, 'good debt' and more in Morning Squawk",
-        "url": "https://www.cnbc.com/2026/10/15/5-things-to-know-before-the-stock-market-opens.html",
-        "source": "CNBC",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "To train robots, AI companies are paying people in India to film themselves doing chores",
-        "url": "https://www.npr.org/2026/10/15/nx-s1-5991368/to-train-robots-ai-companies-are-paying-people-in-india-to-film-themselves-doing-chores",
-        "source": "NPR",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "AI agents are coming to Rivian’s cars",
-        "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-        "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-        "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Google’s Universal Cart shopping tool launches in the US",
-        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Meta launches an open-weight AI model that runs on Macs",
-        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-        "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-        "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-        "source": "TechCrunch",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-        "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-        "source": "The Verge",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-        "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-        "source": "The Verge",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "ChatGPT can peek at your Chrome tabs now",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-        "source": "The Verge",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-        "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-        "source": "The Verge",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-        "source": "The Verge",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Trump posts AI-edited photo to brag about White House restoration work",
-        "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-        "source": "The Verge",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-        "source": "The Verge",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-        "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-        "source": "Wired",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
-        "url": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
-        "source": "Wired",
-        "date": "2026-10-15"
-      },
-      {
-        "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-        "source": "Wired",
-        "date": "2026-10-15"
       }
     ]
   }
