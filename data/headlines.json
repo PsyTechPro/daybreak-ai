@@ -1,5 +1,130 @@
 [
   {
+    "date": "2026-11-16",
+    "articles": [
+      {
+        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Anthropic IPO guide: Everything you need to know",
+        "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+        "source": "CNBC",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+        "url": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
+        "source": "CNBC",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Meet the seven co-founders of Anthropic",
+        "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+        "source": "CNBC",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+        "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+        "source": "CNBC",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Building AI that can work across the enterprise",
+        "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Building trustworthy AI by fencing it in, not predicting it",
+        "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Apple launches new app to study how people use AI for health",
+        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "source": "TechCrunch",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Audible turns to AI to help users discover audiobooks",
+        "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+        "source": "TechCrunch",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+        "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+        "source": "TechCrunch",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+        "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+        "source": "TechCrunch",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+        "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+        "source": "TechCrunch",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Amazon’s Zoox robotaxis are now available via Uber",
+        "url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+        "source": "The Verge",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+        "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+        "source": "The Verge",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Google Maps can now create trip itineraries for you",
+        "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+        "source": "The Verge",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+        "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+        "source": "The Verge",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "The Nvidia scandal isn’t slowing down",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+        "source": "The Verge",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Jensen Huang Is Gone. Now What?",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+        "source": "Wired",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+        "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+        "source": "Wired",
+        "date": "2026-11-16"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "articles": [
       {
@@ -12,6 +137,36 @@
         "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
         "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
         "source": "CNBC",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "AI mosquito trap targets deadly dengue outbreak",
+        "url": "https://www.foxnews.com/tech/ai-mosquito-trap-targets-deadly-dengue-outbreak",
+        "source": "Fox News",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "Fake AI event invites target Microsoft and Google logins",
+        "url": "https://www.foxnews.com/tech/fake-ai-event-invites-target-microsoft-google-logins",
+        "source": "Fox News",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+        "source": "TechCrunch",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+        "source": "TechCrunch",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+        "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+        "source": "TechCrunch",
         "date": "2026-11-15"
       },
       {
@@ -4688,173 +4843,6 @@
         "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
         "source": "Wired",
         "date": "2026-10-17"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-16",
-    "articles": [
-      {
-        "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-        "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-        "source": "Ars Technica",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-        "source": "Ars Technica",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-        "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-        "source": "Ars Technica",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-        "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-        "source": "Ars Technica",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Doctor reacts to AI breast cancer tool",
-        "url": "https://www.cbsnews.com/video/doctor-reacts-to-ai-breast-cancer-tool/",
-        "source": "CBS News",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Tech stocks tumble as AI debt fears rattle Wall Street",
-        "url": "https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/",
-        "source": "CBS News",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
-        "url": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
-        "source": "CNBC",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
-        "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-        "source": "CNBC",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-        "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-        "source": "CNBC",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "SpaceX policy manager set to testify as part of NYC Council AI safety investigation",
-        "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-        "source": "CNBC",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Fox News AI Newsletter: AI engineer accused of bugging conference room",
-        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-engineer-accused-bugging-conference-room",
-        "source": "Fox News",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "At SF Tech Week, a vibe check on how people in Silicon Valley feel about the AI boom",
-        "url": "https://www.npr.org/2026/10/16/nx-s1-6001770/at-sf-tech-week-a-vibe-check-on-how-people-in-silicon-valley-feel-about-the-ai-boom",
-        "source": "NPR",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "source": "TechCrunch",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Elorian’s first AI model wants to reason with images, not just about them",
-        "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-        "source": "TechCrunch",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-        "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-        "source": "TechCrunch",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-        "source": "TechCrunch",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Jev is Vercel’s fastest-adopted AI model ever",
-        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-        "source": "TechCrunch",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-        "source": "TechCrunch",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "source": "TechCrunch",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-        "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-        "source": "TechCrunch",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Waymo’s robotaxis are headed to Canada",
-        "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-        "source": "TechCrunch",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-        "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-        "source": "The Verge",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-        "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-        "source": "The Verge",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-        "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-        "source": "Wired",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-        "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-        "source": "Wired",
-        "date": "2026-10-16"
-      },
-      {
-        "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
-        "url": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
-        "source": "Wired",
-        "date": "2026-10-16"
       }
     ]
   }
