@@ -1,10 +1,213 @@
 [
   {
+    "date": "2026-11-18",
+    "articles": [
+      {
+        "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+        "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+        "source": "Ars Technica",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+        "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "How important are Nvidia and Jensen Huang to the US economy?",
+        "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Security flaw found in Java, world's third-largest programming language",
+        "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "The seven Anthropic founders who are about to become multi-billionaires",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Nvidia earnings report beats expectations, raising predictions for next year",
+        "url": "https://www.cbsnews.com/video/nvidia-earnings-report-beats-expectations-raising-predictions-for-next-year/",
+        "source": "CBS News",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
+        "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
+        "url": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "CNBC Digital Finance Forum recap: Wall Street's AI and crypto future",
+        "url": "https://www.cnbc.com/2026/11/17/digital-finance-forum-2026-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
+        "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
+        "url": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+        "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
+        "url": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "OpenAI bugging case defendant Alfozan set for trial in January",
+        "url": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+        "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+        "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+        "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "What to know about Ring Drone Cam, which can patrol your home for $250",
+        "url": "https://www.foxnews.com/tech/ring-drone-cam-patrol-home-250",
+        "source": "Fox News",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "The AI Hype Index: AI is everywhere",
+        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "The Download: AI learns to smell and hydropower struggles",
+        "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "This smell startup says its AI nose is as good as a human’s",
+        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+        "source": "NPR",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+        "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+        "source": "TechCrunch",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+        "source": "TechCrunch",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Nvidia isn’t selling any more AI chips to China",
+        "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+        "source": "The Verge",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Remember the frontier AI pause? Chip companies don’t either",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+        "source": "The Verge",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Will Wright’s next game uses AI to map your memories",
+        "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+        "source": "The Verge",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+        "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+        "source": "Wired",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
+        "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+        "source": "Wired",
+        "date": "2026-11-18"
+      }
+    ]
+  },
+  {
     "date": "2026-11-17",
     "articles": [
       {
+        "title": "Google makes it easier to use Gemini without training AI on your data",
+        "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+        "source": "Ars Technica",
+        "date": "2026-11-17"
+      },
+      {
         "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
         "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+        "source": "Ars Technica",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+        "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
         "source": "Ars Technica",
         "date": "2026-11-17"
       },
@@ -18,6 +221,18 @@
         "title": "US government confirms investigation into tech firm Megaspeed",
         "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Anthropic files for IPO as it competes for AI dominance",
+        "url": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/",
+        "source": "CBS News",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Anthropic's IPO set for blastoff this week in key test for AI boom",
+        "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
+        "source": "CBS News",
         "date": "2026-11-17"
       },
       {
@@ -39,14 +254,38 @@
         "date": "2026-11-17"
       },
       {
+        "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+        "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+        "source": "CNBC",
+        "date": "2026-11-17"
+      },
+      {
         "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
         "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
         "source": "NPR",
         "date": "2026-11-17"
       },
       {
+        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-11-17"
+      },
+      {
         "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
         "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+        "source": "TechCrunch",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+        "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+        "source": "TechCrunch",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+        "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
         "source": "TechCrunch",
         "date": "2026-11-17"
       },
@@ -59,6 +298,12 @@
       {
         "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
         "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+        "source": "TechCrunch",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
         "source": "TechCrunch",
         "date": "2026-11-17"
       },
@@ -77,6 +322,12 @@
       {
         "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
         "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+        "source": "Wired",
+        "date": "2026-11-17"
+      },
+      {
+        "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+        "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/",
         "source": "Wired",
         "date": "2026-11-17"
       }
@@ -4928,53 +5179,6 @@
         "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
         "source": "Wired",
         "date": "2026-10-19"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-18",
-    "articles": [
-      {
-        "title": "Anthropic gives outside AI watchdog “employee-like” access",
-        "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-        "source": "Ars Technica",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "Don't fall for this - how to protect yourself from AI scams",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-        "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-        "source": "CNBC",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-        "source": "TechCrunch",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "source": "TechCrunch",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "TechCrunch Mobility: Rivian’s next act",
-        "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-        "source": "TechCrunch",
-        "date": "2026-10-18"
-      },
-      {
-        "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-        "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-        "source": "Wired",
-        "date": "2026-10-18"
       }
     ]
   }
