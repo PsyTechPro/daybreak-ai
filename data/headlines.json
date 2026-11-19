@@ -1,10 +1,153 @@
 [
   {
+    "date": "2026-11-19",
+    "articles": [
+      {
+        "title": "Anthropic raises $81bn in record-breaking stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "My wife thinks AI is a person",
+        "url": "https://www.bensbites.com/p/my-wife-thinks-ai-is-a-person",
+        "source": "Ben's Bites",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Anthropic set to start trading after completing largest-ever IPO",
+        "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
+        "source": "CBS News",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Anthropic's IPO set for blastoff in key test for AI boom",
+        "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
+        "source": "CBS News",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+        "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Anthropic indicated at $105 per share and could open this hour, source says: IPO live updates",
+        "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
+        "url": "https://www.cnbc.com/2026/11/19/anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Data center electricity use could double by 2030, IEA says",
+        "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Dealbook Summit 2026 recap: Musk says he feels ‘pretty foolish’ for having spent so much on midterms",
+        "url": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
+        "url": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+        "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Apple Photos AI watermark can tag your real pictures",
+        "url": "https://www.foxnews.com/tech/apple-photos-ai-watermark-tag-real-pictures",
+        "source": "Fox News",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+        "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+        "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+        "source": "NPR",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+        "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+        "source": "The Verge",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Canva adds an AI ‘off’ button",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+        "source": "The Verge",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+        "source": "The Verge",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+        "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+        "source": "The Verge",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+        "source": "The Verge",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+        "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+        "source": "Wired",
+        "date": "2026-11-19"
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "articles": [
       {
         "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
         "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+        "source": "Ars Technica",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Will Wright's next simulation will use AI to mine content from your memories",
+        "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
         "source": "Ars Technica",
         "date": "2026-11-18"
       },
@@ -29,6 +172,12 @@
       {
         "title": "Security flaw found in Java, world's third-largest programming language",
         "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-11-18"
       },
@@ -93,6 +242,12 @@
         "date": "2026-11-18"
       },
       {
+        "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+        "url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+        "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
         "title": "OpenAI bugging case defendant Alfozan set for trial in January",
         "url": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
         "source": "CNBC",
@@ -114,6 +269,12 @@
         "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
         "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
         "source": "CNBC",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "AI data centers could consume more water than Americans drink in a year by 2030, says CEO working on solution",
+        "url": "https://www.foxnews.com/tech/ai-data-centers-consume-more-water-americans-drink-year-2030-ceo-working-solution",
+        "source": "Fox News",
         "date": "2026-11-18"
       },
       {
@@ -141,9 +302,27 @@
         "date": "2026-11-18"
       },
       {
+        "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+        "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+        "source": "NPR",
+        "date": "2026-11-18"
+      },
+      {
         "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
         "url": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
         "source": "NPR",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+        "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+        "source": "TechCrunch",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Anthropic prices IPO at $83 a share, above projected range",
+        "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+        "source": "TechCrunch",
         "date": "2026-11-18"
       },
       {
@@ -153,8 +332,44 @@
         "date": "2026-11-18"
       },
       {
+        "title": "Google’s AI feature in Search gets its own incognito mode",
+        "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+        "source": "TechCrunch",
+        "date": "2026-11-18"
+      },
+      {
         "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
         "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+        "source": "TechCrunch",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+        "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+        "source": "TechCrunch",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+        "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+        "source": "TechCrunch",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+        "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+        "source": "TechCrunch",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+        "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+        "source": "TechCrunch",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+        "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
         "source": "TechCrunch",
         "date": "2026-11-18"
       },
@@ -174,6 +389,36 @@
         "title": "Will Wright’s next game uses AI to map your memories",
         "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
         "source": "The Verge",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
+        "url": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
+        "source": "Wired",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+        "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+        "source": "Wired",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+        "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+        "source": "Wired",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+        "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
+        "source": "Wired",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+        "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+        "source": "Wired",
         "date": "2026-11-18"
       },
       {
@@ -4934,251 +5179,6 @@
         "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
         "source": "Wired",
         "date": "2026-10-20"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-19",
-    "articles": [
-      {
-        "title": "AI game clones are making indie developers afraid to show their work",
-        "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-        "source": "Ars Technica",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-        "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-        "source": "Ars Technica",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-        "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-        "source": "Ars Technica",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "China's growth accelerates as AI boom helps boost exports",
-        "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Musk and Anthropic pledge public share giveaways",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "US bans China's DeepSeek from government in race for AI dominance",
-        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "As AI dominates conversations, here are key terms to know",
-        "url": "https://www.cbsnews.com/news/ai-artificial-intelligence-terms-definitions/",
-        "source": "CBS News",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Should you trust personal AI agents? What security experts say.",
-        "url": "https://www.cbsnews.com/news/personal-ai-agents-trust-security-risks/",
-        "source": "CBS News",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "The AI doom scenario you've never heard of may be hardest to stop",
-        "url": "https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/",
-        "source": "CBS News",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-        "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
-        "source": "CNBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-        "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-        "source": "CNBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Investors are buying on Monday despite fear the AI trade nightmare scenario is far from over",
-        "url": "https://www.cnbc.com/2026/10/19/stocks-buying-opportunity-ai-selloff.html",
-        "source": "CNBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
-        "url": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
-        "source": "CNBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Jim Cramer says the recent AI stock sell-off echoes a crucial lesson from the 1987 market crash",
-        "url": "https://www.cnbc.com/2026/10/19/cramer-recent-ai-sell-off-echoes-lesson-1987-crash.html",
-        "source": "CNBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-        "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-        "source": "CNBC",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Anthropic AI sends fake murder tip to Philadelphia police",
-        "url": "https://www.foxnews.com/tech/anthropic-ai-sends-fake-murder-tip-philadelphia-police",
-        "source": "Fox News",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-        "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Making the internet better for AI agents might make it worse for everyone else",
-        "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-        "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-        "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "AI models are changing how forecasters predict the paths of hurricanes",
-        "url": "https://www.npr.org/2026/10/19/nx-s1-5996666/ai-models-are-changing-how-forecasters-predict-the-paths-of-hurricanes",
-        "source": "NPR",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "In Dublin, tech workers raise concerns about AI",
-        "url": "https://www.npr.org/2026/10/19/nx-s1-6003512/in-dublin-tech-workers-raise-concerns-about-ai",
-        "source": "NPR",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-        "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-        "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-        "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "People are using AI to make their smart TVs dumb again",
-        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-        "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-        "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-        "source": "TechCrunch",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-        "source": "The Verge",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-        "source": "The Verge",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Democrats think cracking down on AI could give them an edge",
-        "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-        "source": "The Verge",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-        "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-        "source": "Wired",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-        "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-        "source": "Wired",
-        "date": "2026-10-19"
       }
     ]
   }
