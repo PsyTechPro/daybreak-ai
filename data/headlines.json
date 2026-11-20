@@ -1,10 +1,183 @@
 [
   {
+    "date": "2026-11-20",
+    "articles": [
+      {
+        "title": "Anthropic shares fall a day after blockbuster opening",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Should AI be judging our credit worthiness?",
+        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "AI is changing software engineering — and some developers miss the struggle",
+        "url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
+        "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Anthropic stock falls 9% to open first full day of trading amid AI sell-off",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
+        "url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Data center electricity use could double by 2030, IEA says",
+        "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+        "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+        "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+        "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Tech wreck drags Anthropic into the red on its second day of trading",
+        "url": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
+        "url": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
+        "source": "CNBC",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Former Secret Service investigator sounds alarm over AI scams as Americans grow increasingly anxious",
+        "url": "https://www.foxnews.com/tech/former-secret-service-investigator-sounds-alarm-ai-scams-americans-grow-increasingly-anxious",
+        "source": "Fox News",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "AI models are propelling rapid growth and revealing vulnerabilities",
+        "url": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
+        "source": "NPR",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+        "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+        "source": "TechCrunch",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "source": "TechCrunch",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "source": "TechCrunch",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+        "source": "The Verge",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+        "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+        "source": "Wired",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+        "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+        "source": "Wired",
+        "date": "2026-11-20"
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "articles": [
       {
+        "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+        "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+        "source": "Ars Technica",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-19"
+      },
+      {
         "title": "Anthropic raises $81bn in record-breaking stock market debut",
         "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Dutch watchdog tells people not to buy AI smart glasses",
+        "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "date": "2026-11-19"
       },
@@ -45,6 +218,12 @@
         "date": "2026-11-19"
       },
       {
+        "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-anthropic-ipo-ai-trade.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
         "title": "Data center electricity use could double by 2030, IEA says",
         "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
         "source": "CNBC",
@@ -57,6 +236,12 @@
         "date": "2026-11-19"
       },
       {
+        "title": "Here's how big Anthropic’s record-setting IPO is: Visualization",
+        "url": "https://www.cnbc.com/2026/11/19/ant-stock-anthropic-record-setting-ipo.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
         "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
         "url": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
         "source": "CNBC",
@@ -65,6 +250,12 @@
       {
         "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
         "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+        "source": "CNBC",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+        "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
         "source": "CNBC",
         "date": "2026-11-19"
       },
@@ -87,8 +278,44 @@
         "date": "2026-11-19"
       },
       {
+        "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+        "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Anthropic’s IPO could deliver $156B to charity",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
         "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
         "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+        "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Google gives Gemini the ability to use your Mac for you",
+        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Meta’s new Muse Charm device may cost $300",
+        "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
         "source": "TechCrunch",
         "date": "2026-11-19"
       },
@@ -96,6 +323,30 @@
         "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
         "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
         "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "These tech outages are giving Y2K, AI agent style",
+        "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+        "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+        "source": "TechCrunch",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Apple is hiring engineers to build its own AI agent",
+        "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+        "source": "The Verge",
         "date": "2026-11-19"
       },
       {
@@ -117,8 +368,20 @@
         "date": "2026-11-19"
       },
       {
+        "title": "Google is putting AI chats right on the homepage",
+        "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+        "source": "The Verge",
+        "date": "2026-11-19"
+      },
+      {
         "title": "I let Apple’s always-listening AI summarize my life for two weeks",
         "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+        "source": "The Verge",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Meta’s Muse Charm might cost $300",
+        "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
         "source": "The Verge",
         "date": "2026-11-19"
       },
@@ -131,6 +394,18 @@
       {
         "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
         "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+        "source": "Wired",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+        "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+        "source": "Wired",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "What’s With All These Outages?",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
         "source": "Wired",
         "date": "2026-11-19"
       }
@@ -4934,251 +5209,6 @@
         "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
         "source": "Wired",
         "date": "2026-10-21"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-20",
-    "articles": [
-      {
-        "title": "Gemini's Personal Intelligence is coming to cars",
-        "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-        "source": "Ars Technica",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-        "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-        "source": "Ars Technica",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-        "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-        "source": "Ars Technica",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-        "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "How I built my ‘everything’ app",
-        "url": "https://www.bensbites.com/p/how-i-built-my-everything-app",
-        "source": "Ben's Bites",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
-        "url": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
-        "source": "CNBC",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
-        "source": "CNBC",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-        "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-        "source": "CNBC",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-        "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-        "source": "CNBC",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-        "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
-        "source": "CNBC",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
-        "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
-        "source": "CNBC",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "A visit to Samsung’s massive new semiconductor hub",
-        "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "AI adoption by industry shows what other sectors can learn",
-        "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-        "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-        "source": "MIT Technology Review",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
-        "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
-        "source": "NPR",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Anthropic’s cloud partnerships are getting messy",
-        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-        "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "ChatGPT now lets you lock your chats",
-        "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-        "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-        "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-        "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-        "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-        "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-        "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-        "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-        "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-        "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "SpaceX’s AI business is beating expectations",
-        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-        "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-        "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-        "source": "TechCrunch",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-        "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
-        "source": "The Verge",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Google’s more personalized Gemini AI is heading to your car",
-        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-        "source": "The Verge",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-        "source": "The Verge",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
-        "url": "https://www.wired.com/gallery/best-ai-notetakers/",
-        "source": "Wired",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-        "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-        "source": "Wired",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-        "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-        "source": "Wired",
-        "date": "2026-10-20"
       }
     ]
   }
