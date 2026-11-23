@@ -1,7 +1,150 @@
 [
   {
+    "date": "2026-11-23",
+    "articles": [
+      {
+        "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+        "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+        "source": "Ars Technica",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "How important are Nvidia and Jensen Huang to the US economy?",
+        "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+        "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
+        "source": "CBS News",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Anthropic's IPO set for blastoff in key test for AI boom",
+        "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
+        "source": "CBS News",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+        "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+        "source": "CNBC",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+        "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+        "source": "CNBC",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+        "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+        "source": "CNBC",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "FBI warns AI hackers can breach systems in under 3 hours",
+        "url": "https://www.foxnews.com/tech/fbi-warns-ai-hackers-breach-systems-under-3-hours",
+        "source": "Fox News",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Google AI smartwatch could flag high blood pressure",
+        "url": "https://www.foxnews.com/tech/google-ai-smartwatch-could-flag-high-blood-pressure",
+        "source": "Fox News",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "source": "TechCrunch",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "CrowdStrike to acquire Zscaler for $44 billion",
+        "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+        "source": "TechCrunch",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "source": "TechCrunch",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Jensen Huang isn’t out of the woods yet",
+        "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+        "source": "TechCrunch",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+        "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+        "source": "TechCrunch",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+        "source": "The Verge",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+        "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+        "source": "The Verge",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "States Sue SpaceX Over Grok Deepfakes",
+        "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+        "source": "Wired",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+        "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+        "source": "Wired",
+        "date": "2026-11-23"
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "articles": [
+      {
+        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "source": "TechCrunch",
+        "date": "2026-11-22"
+      },
+      {
+        "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+        "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+        "source": "TechCrunch",
+        "date": "2026-11-22"
+      },
       {
         "title": "The vibe-coding revolution is coming to all the gadgets",
         "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
@@ -4826,137 +4969,6 @@
         "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
         "source": "Wired",
         "date": "2026-10-24"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-23",
-    "articles": [
-      {
-        "title": "The Indian workers filming their work to train AI",
-        "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "What is PHP and why did it spark a global cyber-security scramble?",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Unauthorized AI agents detected inside accounts at major banks",
-        "url": "https://www.cbsnews.com/video/unauthorized-ai-agents-detected-inside-accounts-at-major-banks/",
-        "source": "CBS News",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
-        "url": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
-        "source": "CNBC",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
-        "url": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-        "source": "CNBC",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
-        "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
-        "source": "CNBC",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
-        "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
-        "source": "CNBC",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Fox News AI Newsletter: What we saw inside a massive Texas data center",
-        "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-what-we-saw-inside-massive-texas-data-center",
-        "source": "Fox News",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Why some people are falling for Meta's Muse AI",
-        "url": "https://www.foxnews.com/tech/why-people-falling-metas-muse-ai",
-        "source": "Fox News",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Fired OpenAI researchers say independent safety audits aren't going well",
-        "url": "https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well",
-        "source": "NPR",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-        "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-        "source": "NPR",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-        "source": "TechCrunch",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-        "source": "TechCrunch",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "source": "TechCrunch",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-        "source": "TechCrunch",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "What some of Anthropic’s backers are worth before its IPO",
-        "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-        "source": "TechCrunch",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Etsy is cracking down on AI slop listings",
-        "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-        "source": "The Verge",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-        "source": "The Verge",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-        "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-        "source": "The Verge",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "OpenAI now trains its frontier AI models with no internet access",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-        "source": "The Verge",
-        "date": "2026-10-23"
-      },
-      {
-        "title": "Retro gaming is being overrun with AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-        "source": "The Verge",
-        "date": "2026-10-23"
       }
     ]
   }
