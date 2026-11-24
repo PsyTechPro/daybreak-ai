@@ -1,10 +1,195 @@
 [
   {
+    "date": "2026-11-24",
+    "articles": [
+      {
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "source": "Ars Technica",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+        "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+        "source": "Ars Technica",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+        "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+        "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "AI is making its way into toys. What should parents do?",
+        "url": "https://www.cbsnews.com/video/ai-is-making-its-way-into-toys-what-should-parents-do/",
+        "source": "CBS News",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Can Anthropic win hearts and minds by curing hearts and minds?",
+        "url": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/",
+        "source": "CBS News",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Here's how one robotaxi company is working to avoid accidents",
+        "url": "https://www.cbsnews.com/video/heres-how-one-robotaxi-company-is-working-to-avoid-accidents/",
+        "source": "CBS News",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Is America's Future Dependent On One CEO?",
+        "url": "https://www.cbsnews.com/video/is-americas-future-dependent-on-one-ceo-great-question/",
+        "source": "CBS News",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Jensen Huang's announced return sends shares skyrocketing",
+        "url": "https://www.cbsnews.com/video/jensen-huangs-announced-return-sends-shares-skyrocketing/",
+        "source": "CBS News",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+        "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+        "source": "CNBC",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
+        "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+        "source": "CNBC",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+        "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+        "source": "CNBC",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+        "source": "CNBC",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Apple tightens Mac security as AI agents seek your files",
+        "url": "https://www.foxnews.com/tech/apple-tightens-mac-security-ai-agents-seek-your-files",
+        "source": "Fox News",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Data centers are getting their own natural gas power plants",
+        "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "The Download: AI’s gas power boom and a consciousness reality check",
+        "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+        "source": "MIT Technology Review",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+        "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+        "source": "TechCrunch",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+        "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+        "source": "TechCrunch",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+        "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+        "source": "TechCrunch",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "source": "TechCrunch",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+        "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+        "source": "TechCrunch",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+        "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+        "source": "The Verge",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Jensen Huang deepfakes are the hot new AI slop",
+        "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+        "source": "The Verge",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "source": "The Verge",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Tidal will start banning AI-generated music next month",
+        "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+        "source": "The Verge",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+        "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+        "source": "Wired",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+        "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+        "source": "Wired",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+        "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+        "source": "Wired",
+        "date": "2026-11-24"
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "articles": [
       {
         "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
         "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+        "source": "Ars Technica",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
         "source": "Ars Technica",
         "date": "2026-11-23"
       },
@@ -21,6 +206,12 @@
         "date": "2026-11-23"
       },
       {
+        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "date": "2026-11-23"
+      },
+      {
         "title": "Anthropic shares jump in Nasdaq trading debut after record IPO",
         "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
         "source": "CBS News",
@@ -30,6 +221,12 @@
         "title": "Anthropic's IPO set for blastoff in key test for AI boom",
         "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
         "source": "CBS News",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+        "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+        "source": "CNBC",
         "date": "2026-11-23"
       },
       {
@@ -81,8 +278,20 @@
         "date": "2026-11-23"
       },
       {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "source": "TechCrunch",
+        "date": "2026-11-23"
+      },
+      {
         "title": "CrowdStrike to acquire Zscaler for $44 billion",
         "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+        "source": "TechCrunch",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+        "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
         "source": "TechCrunch",
         "date": "2026-11-23"
       },
@@ -101,6 +310,12 @@
       {
         "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
         "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+        "source": "TechCrunch",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
         "source": "TechCrunch",
         "date": "2026-11-23"
       },
@@ -4886,89 +5101,6 @@
         "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
         "source": "The Verge",
         "date": "2026-10-25"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-24",
-    "articles": [
-      {
-        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-        "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-        "source": "CNBC",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-        "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-        "source": "CNBC",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-        "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-        "source": "CNBC",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "What a day in customer service looks like — as AI changes everything",
-        "url": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
-        "source": "CNBC",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "AI found the flaw. Hackers found the leak: The race to save 'PHP2SHELL'",
-        "url": "https://www.npr.org/2026/10/24/nx-s1-6012327/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell",
-        "source": "NPR",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "source": "TechCrunch",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "source": "TechCrunch",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "source": "TechCrunch",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Will AI expose the rickety infrastructure of the internet?",
-        "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-        "source": "TechCrunch",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-        "source": "The Verge",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "Pennsylvania will require labels on AI-generated ads",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-        "source": "The Verge",
-        "date": "2026-10-24"
-      },
-      {
-        "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-        "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-        "source": "Wired",
-        "date": "2026-10-24"
       }
     ]
   }
